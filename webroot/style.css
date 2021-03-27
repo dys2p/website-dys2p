@@ -1,0 +1,29 @@
+a {
+	color: #28a745 !important;
+}
+
+a:focus, a:hover {
+	color: #19692c !important;
+}
+
+/* footer spacing */
+footer a {
+	margin: 0 0.5em;
+	text-decoration: none;
+}
+
+/* footer sticky  */
+html, body {
+	height: 100%;
+}
+body {
+	display: flex;
+	flex-flow: column;
+}
+footer {
+	background-color: #f8f9fa;
+	font-size: small;
+	margin-top: auto;
+	padding: 0.75em;
+	text-align: center;
+}

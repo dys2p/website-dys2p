@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>dys2p</title>
+		<link rel="stylesheet" href="bootstrap-4.4.1.min.css">
+		<link rel="stylesheet" href="style.css" />
+		<meta charset="utf-8">
+		<style type="text/css">
+			h1 { text-align: center; }
+			h3 { font-size: 1.5rem; }
+			h4 { font-size: 1.25rem; }
+			h5 { font-size: 1rem; }
+			footer a {
+				margin: 0 0.5em;
+			}
+			.ritole {
+				unicode-bidi: bidi-override;
+				direction: rtl;
+			}
+			#toggle-navbar{
+				display: none;
+			}
+			#toggle-navbar:checked ~ div {
+				display: block;
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+				<input type="checkbox" id="toggle-navbar">
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+					<label class="mb-0 navbar-toggler-icon" for="toggle-navbar"></label>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+					<div class="navbar-nav mx-auto">
+						<a class="nav-item nav-link text-dark" href="index.html">dys2p</a>
+						<a class="nav-item nav-link text-dark" href="konzept.html">Konzept</a>
+
+					</div>
+				</div>
+			</nav>
+		</header>
+		<main class="container pt-4">
+{{content}}
+		</main>
+		<footer class="footer">
+			<div class="container">
+				<a class="text-muted" href="datenschutz.html">Datenschutz</a>
+				<a class="text-muted" href="impressum.html">Impressum</a>
+				<span>Follow us:</span>
+				<a class="text-muted" href="https://github.com/dys2p">GitHub</a>
+				<a class="text-muted" href="https://chaos.social/@dys2p">Mastodon</a>
+				<a class="text-muted" href="https://www.reddit.com/user/dys2p">Reddit</a>
+			</div>
+		</footer>
+	</body>
+</html>
