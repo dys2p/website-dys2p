@@ -22,3 +22,13 @@
 		</div>
 	</div>
 </div>
+
+<div class="border mt-3 px-4 py-3">
+
+### Projekte
+
+#### Übersetzungen
+
+* [Cory Doctorow: Daten – das neue Öl oder Potenzial für eine Ölkatastrophe?](https://github.com/dys2p/texts/blob/main/2021-03-new-oil.md)
+
+</div>
