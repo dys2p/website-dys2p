@@ -49,7 +49,7 @@ Ob Einkaufszettel, Liebesbriefe, medizinische Unterlagen, Rechnungen, Kalkulatio
 
 #### Shredder für Datenträger
 
-Nicht mehr benötigte Datenträger wie Festplatten, USB-Sticks und SD-Karten mit Zufallsdaten zu überschreiben ist eine gute Sache. Diese im Anschluss physisch zu zerstören, ist eine noch bessere, denn insbesondere Flash-Speicher lassen sich oft nicht rückstandslos überschreiben. Neben der etwas aufwendigen [Möglichkeit des Einschmelzens](https://frank.geekheim.de/?p=2423) gibt es Shredder in verschiedenen Größen, wobei wir für Testzwecke und aus Platzgründen zu einem Gerät wie dem HSM Powerline HDS 150 tendieren. Wer gleichwertige oder bessere Alternativen kennt, [kann uns gerne schreiben](kontakt.html).
+Nicht mehr benötigte Datenträger wie Festplatten, USB-Sticks und SD-Karten mit Zufallsdaten zu überschreiben ist eine gute Sache. Diese im Anschluss physisch zu zerstören, ist eine noch bessere, denn insbesondere Flash-Speicher lassen sich oft nicht rückstandslos überschreiben. Neben der etwas aufwendigen [Möglichkeit des Einschmelzens](https://frank.geekheim.de/?p=2423) gibt es Shredder in verschiedenen Größen, wobei wir für Testzwecke und aus Platzgründen zu einem Gerät wie dem HSM Powerline HDS 150 tendieren. Wer gleichwertige oder bessere Alternativen kennt, [kann uns gerne schreiben](https://proxysto.re/kontakt.html).
 
 ### Drucker und Kopierer
 
