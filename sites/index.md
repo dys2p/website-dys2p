@@ -29,6 +29,6 @@
 
 #### Übersetzungen
 
-* [Cory Doctorow: Daten – das neue Öl oder Potenzial für eine Ölkatastrophe?](https://github.com/dys2p/texts/blob/main/2021-03-new-oil.md)
+* [Cory Doctorow: Daten – das neue Öl oder Potenzial für eine Ölkatastrophe?](2021-03-new-oil.html)
 
 </div>
