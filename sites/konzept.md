@@ -51,6 +51,12 @@ Ob Einkaufszettel, Liebesbriefe, medizinische Unterlagen, Rechnungen, Kalkulatio
 
 Nicht mehr benötigte Datenträger wie Festplatten, USB-Sticks und SD-Karten mit Zufallsdaten zu überschreiben ist eine gute Sache. Diese im Anschluss physisch zu zerstören, ist eine noch bessere, denn insbesondere Flash-Speicher lassen sich oft nicht rückstandslos überschreiben. Neben der etwas aufwendigen [Möglichkeit des Einschmelzens](https://frank.geekheim.de/?p=2423) gibt es Shredder in verschiedenen Größen, wobei wir für Testzwecke und aus Platzgründen zu einem Gerät wie dem HSM Powerline HDS 150 tendieren. Wer gleichwertige oder bessere Alternativen kennt, [kann uns gerne schreiben](https://proxysto.re/kontakt.html).
 
+<a href="support.html">
+	<div class="border my-3 px-4 py-3 text-center text-dark" style="background-color: #d7ffd5">
+		<strong>Schreddern für alle!</strong> Wir möchten einen Shredder für Papier und einen für Datenträger aufstellen – du kannst uns unterstützen.
+	</div>
+</a>
+
 ### Drucker und Kopierer
 
 Ein Drucker oder Kopiergerät kann eine datensparsame Alternative zum herkömmlichen Copyshop bieten. Modelle ohne Festplatte und ohne [Machine Identification Codes](https://de.wikipedia.org/wiki/Machine_Identification_Code) sind zu bevorzugen. Falls das Gerät Machine Identification Codes druckt, sollte darauf hingewiesen werden und [Möglichkeiten zur Unkenntlichmachung](https://web.archive.org/web/20180702093518/https://www.heise.de/newsticker/meldung/Dresdner-Forscher-ueberlisten-Tracking-Punkte-bei-Laserdruckern-4090876.html) angeboten werden. Zudem können Nutzerinnen und Nutzer dazu ermutigt werden, nach der Benutzung den Netzstecker zu ziehen, um den Inhalt des Arbeitsspeichers zu löschen.
