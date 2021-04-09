@@ -49,7 +49,7 @@ Ob Einkaufszettel, Liebesbriefe, medizinische Unterlagen, Rechnungen, Kalkulatio
 
 #### Shredder für Datenträger
 
-Nicht mehr benötigte Datenträger wie Festplatten, USB-Sticks und SD-Karten mit Zufallsdaten zu überschreiben ist eine gute Sache. Diese im Anschluss physisch zu zerstören, ist eine noch bessere, denn insbesondere Flash-Speicher lassen sich oft nicht rückstandslos überschreiben. Neben der etwas aufwendigen [Möglichkeit des Einschmelzens](https://frank.geekheim.de/?p=2423) gibt es Shredder in verschiedenen Größen, wobei wir für Testzwecke und aus Platzgründen zu einem Gerät wie dem HSM Powerline HDS 150 tendieren. Wer gleichwertige oder bessere Alternativen kennt, [kann uns gerne schreiben](https://proxysto.re/kontakt.html).
+Nicht mehr benötigte Datenträger wie Festplatten, USB-Sticks und SD-Karten mit Zufallsdaten zu überschreiben ist eine gute Sache. Diese im Anschluss physisch zu zerstören, ist eine noch bessere, denn insbesondere Flash-Speicher lassen sich oft nicht rückstandslos überschreiben. Neben der etwas aufwendigen [Möglichkeit des Einschmelzens](https://frank.geekheim.de/?p=2423) gibt es Shredder in verschiedenen Größen, wobei wir aus Platzgründen zu einem Gerät wie dem HSM Powerline HDS 150 tendieren. Wer gleichwertige oder bessere Alternativen kennt, [kann uns gerne schreiben](https://proxysto.re/kontakt.html).
 
 <a href="support.html">
 	<div class="border my-3 px-4 py-3 text-center text-dark" style="background-color: #d7ffd5">
@@ -75,7 +75,7 @@ Gleichzeitig muss die eigene Arbeit möglichst transparent sein, denn Transparen
 
 #### Objektwahl
 
-Der Laden sollte von außen nicht einsehbar sein, im besten Fall mehrere Ein- und Ausgänge haben, sich in einem Objekt befinden in dem viele Personen ein- und ausgehen und sich lieber gegenüber eines Park, als einer Häuserfront befinden. Bei der Integration in ein bestehendes System (z. B. als Erweiterung eines Geschäft) oder auch bei einer Neueröffnung, sollte man bei der Raumgestaltung daran denken das Personen für die Bestellaufgabe und Abholung möglichst ein vertrauliches Umfeld geschaffen wird. Ein Cafe mit vielen Augen die auch über längere Zeit unauffällig Beobachtungen machen könnten ist dafür nicht der richtige Ort. Keine Kameras an oder im Laden - Diskretion ist wichtig! In dem Objekt sollten Sicherungsmaßnahmen ergriffen werden um vor Einbruch gut geschützt zu sein oder auch bei anderen ungewollten heimlichen Zutritten informiert zu werden.
+Der Laden sollte von außen nicht einsehbar sein, im besten Fall mehrere Ein- und Ausgänge haben, sich in einem Objekt befinden in dem viele Personen ein- und ausgehen und sich lieber gegenüber eines Park, als einer Häuserfront befinden. Bei der Integration in ein bestehendes System (z. B. als Erweiterung eines Geschäfts) oder auch bei einer Neueröffnung, sollte man bei der Raumgestaltung daran denken das Personen für die Bestellaufgabe und Abholung möglichst ein vertrauliches Umfeld geschaffen wird. Ein Cafe mit vielen Augen die auch über längere Zeit unauffällig Beobachtungen machen könnten ist dafür nicht der richtige Ort. Keine Kameras an oder im Laden - Diskretion ist wichtig! In dem Objekt sollten Sicherungsmaßnahmen ergriffen werden um vor Einbruch gut geschützt zu sein oder auch bei anderen ungewollten heimlichen Zutritten informiert zu werden.
 
 #### Zahlungsmöglichkeiten
 
@@ -99,7 +99,7 @@ Unser Laden hat zwei Briefkästen – einen im Ladeninneren und einen in der zwe
 
 ##### Schließfächer
 
-Waren können selbstständig aus einem Schließfach entnommen werden. Dazu muss ein geeignetes Vorhängeschloss übermittelt werden. Ein geeigneter Standort dafür kann sich innen oder außen befinden, wobei die Sicherheit der darin verstauten Waren vor Diebstahlversuchen und das Privatsphärebedürfnis der Kunden zu berücksichtigen ist. Als Alternative zu vorgefertigten Systemen können Schließfächer auch selbst gebaut werden. Sie sollten nicht videoüberwacht werden. Der Inhalt der Fächer soll von außen nicht zu erkennen sein.
+Waren können selbstständig aus einem Schließfach entnommen werden. Dazu muss ein geeignetes Vorhängeschloss übermittelt werden. Ein geeigneter Standort dafür kann sich innen oder außen befinden, wobei die Sicherheit der darin verstauten Waren vor Diebstahl und das Privatsphärebedürfnis der Kunden zu berücksichtigen ist. Als Alternative zu vorgefertigten Systemen können Schließfächer auch selbst gebaut werden. Sie sollten nicht videoüberwacht werden. Der Inhalt der Fächer soll von außen nicht zu erkennen sein.
 
 Wir verwenden eine selbstgebaute Konstruktion aus Holz, die im unteren Teil 16 Schließfächer verschiedener Größen hat. Darüber befindet sich eine Vitrine für Waren. Jedes Fach besitzt eine Öse für ein Vorhängeschloss. Denkbar sind auch Konstruktionen mit zwei Ösen für zwei Schlösser, um beispielsweise ein weiteres Schloss mit Zahlencode anzubringen und den Code der bestellenden Person mitzuteilen. Die Sicherheit dieses Verfahrens hängt u. a. von den verwendeten Schlössern ab. Die Konstruktion sollte auch vor Manipulationen geschützt sein, beispielsweise können die Schrauben versiegelt und regelmäßig geprüft werden.
 
