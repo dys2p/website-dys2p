@@ -33,6 +33,8 @@
 
 ### Projekte
 
+* [Mnemonische deutsche Wortlisten](https://github.com/dys2p/wordlists-de)
+
 #### Übersetzungen
 
 * [Cory Doctorow: Daten – das neue Öl oder Potenzial für eine Ölkatastrophe?](2021-03-new-oil.html)
