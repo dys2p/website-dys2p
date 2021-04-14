@@ -2,6 +2,8 @@
 	unicode-bidi: bidi-override;
 	direction: rtl;
 }
+
+/* toggle navbar without javascript */
 #toggle-navbar{
 	display: none;
 }
@@ -9,17 +11,13 @@
 	display: block;
 }
 
+/* make links in main content green */
 main a {
 	color: #28a745 !important;
 }
 main a:focus, main a:hover {
 	color: #19692c !important;
 }
-
-h1 { text-align: center; }
-h3 { font-size: 1.5rem; }
-h4 { font-size: 1.25rem; }
-h5 { font-size: 1rem; }
 
 /* footer spacing */
 footer a {
