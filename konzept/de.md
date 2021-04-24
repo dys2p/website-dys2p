@@ -1,6 +1,6 @@
 # Konzept
 
-Wir verstehen dieses Konzept als einen Vorschlag, den wir selbst anteilig umsetzen. Unsere Testphase läuft seit August 2020 und bis mindestens Oktober 2021. Diese Blaupause ist offen für Verbesserungsvorschläge – wir sind an einem freien und offenen [Austausch](https://proxysto.re/kontakt.html) interessiert.
+Wir verstehen dieses Konzept als einen Vorschlag, den wir [selbst anteilig umsetzen](https://proxysto.re). Unsere Testphase läuft seit August 2020 und bis mindestens Oktober 2021. Diese Blaupause ist offen für Verbesserungsvorschläge – wir sind an einem freien und offenen [Austausch](https://proxysto.re/kontakt.html) interessiert.
 
 Die Angriffe von Firmen und Staaten auf die Privatsphäre dauern seit vielen Jahren an und entwickeln sich immer weiter. Auch kleinere Erfolge, etwa eine größere Verbreitung von Ende-zu-Ende-Verschlüsselung nach den Leaks von Edward Snowden, können nicht darüber hinwegtäuschen, dass wir uns in der Defensive befinden. Angriffe auf unsere Geräte und unsere Infrastruktur werden verstärkt, teils gar die Kriminalisierung von Verschlüsselung gefordert.
 
