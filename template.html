@@ -2,36 +2,42 @@
 <html>
 	<head>
 		<title>dys2p</title>
-		<link rel="stylesheet" href="bootstrap-4.4.1.min.css">
-		<link rel="stylesheet" href="style.css" />
-		<link rel="stylesheet" href="style-dys2p.css" />
+		<!-- TODO icon -->
+		<link rel="stylesheet" href="../assets/bootstrap-4.4.1.min.css">
+		<link rel="stylesheet" href="../assets/style.css" />
+		<link rel="stylesheet" href="../assets/style-dys2p.css" />
 		<meta charset="utf-8">
+		{{.Head}}
 	</head>
 	<body>
 		<header>
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
 				<input type="checkbox" id="toggle-navbar">
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+				<button class="navbar-toggler" type="button">
 					<label class="mb-0 navbar-toggler-icon" for="toggle-navbar"></label>
 				</button>
-				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-					<div class="navbar-nav mx-auto">
+				<div class="collapse navbar-collapse">
+					<div class="equal-width-lg"><!-- empty --></div>
+					<div class="navbar-nav equal-width-lg d-flex justify-content-center">
 						<a class="nav-item nav-link text-dark" href="index.html">dys2p</a>
-						<a class="nav-item nav-link text-dark" href="konzept.html">Konzept</a>
-						<a class="nav-item nav-link text-dark" href="support.html">Unterstütze uns</a>
+						<a class="nav-item nav-link text-dark" href="konzept.html">{{.Map "de" "Konzept" "en" "Concept"}}</a>
+						<a class="nav-item nav-link text-dark" href="support.html">{{.Map "de" "Unterstütze uns" "en" "Support us"}}</a>
+					</div>
+					<div class="equal-width-lg text-right">
+						{{range .Locales}}<a class="btn btn-secondary{{if eq . $.Locale}} active{{end}}" href="../{{.}}/{{$.Path}}">{{Caps .}}</a> {{end}}
 					</div>
 				</div>
 			</nav>
 		</header>
 		<main class="container pt-4">
-{{content}}
+			{{.Content}}
 		</main>
 		<footer class="footer">
 			<div class="container">
-				<a class="text-muted" href="https://proxysto.re/kontakt.html"><strong>Kontakt</strong></a>
-				<a class="text-muted" href="datenschutz.html">Datenschutz</a>
-				<a class="text-muted" href="impressum.html">Impressum</a>
-				<a class="text-muted" href="https://proxysto.re/kontakt.html">Fehler oder Hinweise? Schreib uns!</a>
+				<a class="text-muted" href="https://proxysto.re/kontakt.html"><strong>{{.Map "de" "Kontakt" "en" "Contact"}}</strong></a>
+				<a class="text-muted" href="datenschutz.html">{{.Map "de" "Datenschutz" "en" "Privacy Policy"}}</a>
+				<a class="text-muted" href="impressum.html">{{.Map "de" "Impressum" "en" "Imprint"}}</a>
+				<a class="text-muted" href="https://proxysto.re/kontakt.html">{{.Map "de" "Fehler oder Hinweise? Schreib uns!" "en" "Got an idea or found an error? Drop us a note!"}}</a>
 				<span>&mdash;</span>
 				<a class="text-muted" href="https://github.com/dys2p">GitHub</a>
 				<a class="text-muted" href="https://chaos.social/@dys2p">Mastodon</a>

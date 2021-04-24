@@ -3,6 +3,12 @@
 	direction: rtl;
 }
 
+@media (min-width: 992px) {
+	.equal-width-lg {
+		flex: 1 1 0px;
+	}
+}
+
 /* toggle navbar without javascript */
 #toggle-navbar{
 	display: none;
