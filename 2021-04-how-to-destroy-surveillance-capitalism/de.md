@@ -1,6 +1,6 @@
 # Wie man den Überwachungskapitalismus zerstört
 
-Von Cory Doctorow, veröffentlicht am 26. August 2020 auf [onezero.medium.com](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59). Vielen Dank an [Cory Doctorow](https://craphound.com/), dass wir diesen Text übersetzen durften.
+Von Cory Doctorow, veröffentlicht am 26. August 2020 auf [onezero.medium.com](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59). Vielen Dank an [Cory Doctorow](https://craphound.com/), dass wir diesen Text übersetzen durften. Dieser Text ist lizenziert unter einer [Creative Commons Namensnennung-Nicht kommerziell 4.0 International Lizenz](https://creativecommons.org/licenses/by-nc/4.0/deed.de).
 
 *Anmerkung der Redaktion: Der Überwachungskapitalismus ist überall. Aber er ist nicht das Ergebnis einer falschen Abzweigung oder eines verbrecherischen Missbrauchs von Unternehmensmacht - es ist das System, das wie beabsichtigt funktioniert. Das ist das Thema des neuen Buches von Cory Doctorow, das wir hier auf* OneZero *gerne in voller Länge veröffentlichen. So kann man den Überwachungskapitalismus zerstören.*
 
