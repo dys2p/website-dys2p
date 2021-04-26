@@ -38,5 +38,6 @@
 #### Translations
 
 * [Cory Doctorow: Daten – das neue Öl oder Potenzial für eine Ölkatastrophe?](2021-03-new-oil.html) (German)
+* [Cory Doctorow: Wie man den Überwachungskapitalismus zerstört](2021-04-how-to-destroy-surveillance-capitalism.html) (German)
 
 </div>
