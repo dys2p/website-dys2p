@@ -1,11 +1,5 @@
 # dys2p
 
-<style>
-.card:hover {
-	background-color: #f7f7f7;
-}
-</style>
-
 <a href="support.html">
 	<div class="border mt-3 px-4 py-3 text-center text-dark" style="background-color: #d7ffd5">
 		<strong>Shredding for everyone!</strong> We would like to set up a shredder for paper and a shredder for data media – you can support us.
