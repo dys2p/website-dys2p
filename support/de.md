@@ -11,7 +11,7 @@ Da beide Geräte nicht billig sind, brauchen wir eure Unterstützung. Wenn ihr e
 **Aktenvernichter – 1.000 Euro**
 
 <div class="progress mb-3">
-	<div class="progress-bar bg-success" role="progressbar" style="width: 0%"></div>
+	<div class="progress-bar bg-success" role="progressbar" style="width: 100%"></div>
 </div>
 
 **Festplattenshredder – 12.500 Euro**

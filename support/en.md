@@ -11,7 +11,7 @@ Since both devices are not cheap, we need your support. If you would like to con
 **Document shredder – 1.000 Euro**
 
 <div class="progress mb-3">
-	<div class="progress-bar bg-success" role="progressbar" style="width: 0%"></div>
+	<div class="progress-bar bg-success" role="progressbar" style="width: 100%"></div>
 </div>
 
 **Storage device shredder – 12.500 Euro**
