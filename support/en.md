@@ -43,9 +43,18 @@ Since both devices are not cheap, we need your support. If you would like to con
 	</form>
 </div>
 
-Once the document shredder is funded, the money will go into the pot for the storage device shredder.
+The donation goal for the document shredder was reached on May 5, 2021 through a single donation. We would like to take this opportunity to thank you once again! On May 14, 2021, we received the document shredder (Dahle 41334 CleanTEC) with security levels P-7/F-3/T-6. It is now available for free use in our [store](https://proxysto.re) during our opening hours (in accordance with the Corona regulations).
 
-We ask you to provide a way to return the money in the event that we don't reach one of the funding goals **by September 30, 2021**. This can be account details, a Monero or Bitcoin address, or a way to contact you. Returns must be made the same way as the original payment. (Since we sell incoming cryptocurrencies directly, the exchange value on kraken.com at the respective times is relevant in that case). If you do not specify a return method, we will donate excess funds in equal parts to [Archive.org](https://archive.org/donate), the [Electronic Frontier Foundation](https://supporters.eff.org/donate/pu20--WB), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), and [Tails](https://tails.boum.org/donate/index.de.html).
+<div class="row">
+	<div class="col-sm-6 mb-3">
+		<img src="../assets/images/paper-shredder-1.jpg" class="img-fluid">
+	</div>
+	<div class="col-sm-6 mb-3">
+		<img src="../assets/images/paper-shredder-2.jpg" class="img-fluid">
+	</div>
+</div>
+
+Future funds are going into the pot for the storage device shredder. We ask you to provide a way to return the money in the event that we don't reach one of the funding goals **by September 30, 2021**. This can be account details, a Monero or Bitcoin address, or a way to contact you. Returns must be made the same way as the original payment. (Since we sell incoming cryptocurrencies directly, the exchange value on kraken.com at the respective times is relevant in that case). If you do not specify a return method, we will donate excess funds in equal parts to [Archive.org](https://archive.org/donate), the [Electronic Frontier Foundation](https://supporters.eff.org/donate/pu20--WB), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), and [Tails](https://tails.boum.org/donate/index.de.html).
 
 Unfortunately, we can't issue a donation receipt or similar, but eternal gratitude beckons you and of course you are welcome to shred anytime!
 

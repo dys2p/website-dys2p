@@ -43,7 +43,18 @@ Da beide Geräte nicht billig sind, brauchen wir eure Unterstützung. Wenn ihr e
 	</form>
 </div>
 
-Sobald der Aktenvernichter finanziert ist, geht das Geld in den Topf für den Festplattenvernichter. Für den Fall, dass wir eines der Finanzierungsziele **bis zum 30. September 2021** nicht erreichen, bitten wir euch um eine Angabe einer Möglichkeit zur Rückzahlung. Das können Kontodaten, eine Monero- oder Bitcoin-Adresse oder eine Kontaktmöglichkeit zu euch sein, wobei eine Rückzahlung auf dem selben Weg wie die ursprüngliche Zahlung erfolgen muss. (Da wir eingehende Kryptowährungen direkt verkaufen, ist in dem Fall der Kurswert auf kraken.com zu den jeweiligen Zeitpunkten maßgeblich.) Falls ihr keine Rückzahlungsmöglichkeit angebt, werden wir überschüssige Gelder zu gleichen Teilen an [Archive.org](https://archive.org/donate), die [Electronic Frontier Foundation](https://supporters.eff.org/donate/pu20--WB), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub) und [Tails](https://tails.boum.org/donate/index.de.html) spenden.
+Das Spendenziel für den Aktenvernichter wurde am 5. Mai 2021 durch eine Einzelspende erreicht. Wir möchten uns an dieser Stelle noch einmal herzlich dafür bedanken! Am 14. Mai 2021 hat uns der damit erworbene Aktenvernichter (Dahle 41334 CleanTEC) mit den Sicherheitsstufen P-7/F-3/T-6 erreicht. Er steht ab sofort während unserer Öffnungszeiten (im Einklang mit den jeweiligen Corona-Bestimmungen) zur freien Nutzung in unserem [Laden](https://proxysto.re) zur Verfügung.
+
+<div class="row">
+	<div class="col-sm-6 mb-3">
+		<img src="../assets/images/paper-shredder-1.jpg" class="img-fluid">
+	</div>
+	<div class="col-sm-6 mb-3">
+		<img src="../assets/images/paper-shredder-2.jpg" class="img-fluid">
+	</div>
+</div>
+
+Zukünftige Gelder fließen in den Topf für den Festplattenvernichter. Für den Fall, dass wir das Finanzierungsziel **bis zum 30. September 2021** nicht erreichen, bitten wir euch um eine Angabe einer Möglichkeit zur Rückzahlung. Das können Kontodaten, eine Monero- oder Bitcoin-Adresse oder eine Kontaktmöglichkeit zu euch sein, wobei eine Rückzahlung auf dem selben Weg wie die ursprüngliche Zahlung erfolgen muss. (Da wir eingehende Kryptowährungen direkt verkaufen, ist in dem Fall der Kurswert auf kraken.com zu den jeweiligen Zeitpunkten maßgeblich.) Falls ihr keine Rückzahlungsmöglichkeit angebt, werden wir überschüssige Gelder zu gleichen Teilen an [Archive.org](https://archive.org/donate), die [Electronic Frontier Foundation](https://supporters.eff.org/donate/pu20--WB), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub) und [Tails](https://tails.boum.org/donate/index.de.html) spenden.
 
 Eine Spendenquittung o. ä. können wir leider nicht ausstellen, aber euch winkt ewige Dankbarkeit und natürlich seid ihr jederzeit zum Schreddern willkommen!
 
