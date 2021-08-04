@@ -31,6 +31,7 @@
 
 #### Translations
 
+* [Aaron Swartz: Guerilla Open Access Manifesto](2021-08-open-access.html) (original English version + German translation)
 * [Cory Doctorow: Daten – das neue Öl oder Potenzial für eine Ölkatastrophe?](2021-03-new-oil.html) (German)
 * [Cory Doctorow: Wie man den Überwachungskapitalismus zerstört](2021-04-how-to-destroy-surveillance-capitalism.html) (German)
 
