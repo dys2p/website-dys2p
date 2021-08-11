@@ -152,4 +152,4 @@ Wir sind die ELEKTRONISCHEN GEISTER, eine Gruppe von freidenkenden Rebellen. Cyb
 
 16/ Wir bauen unsere Gemeinschaft auf. Die Gemeinschaft der Cyberpunks.
 
-Vereinigt euch! Kämpft für eure Rechte! Wir sind die ELEKTRONISCHEN GEISTER, eine Gruppe freigeistiger Rebellen. Cyberpunks. Wir leben im Cyberspace, wir sind überall, wir kennen keine Grenzen. Dies ist unser Manifest. 14. Februar, 1997 [Christian As. Kirtchev](https://twitter.com/cyberkristiyan)
+Vereinigt euch! Kämpft für eure Rechte! Wir sind die ELEKTRONISCHEN GEISTER, eine Gruppe freigeistiger Rebellen. Cyberpunks. Wir leben im Cyberspace, wir sind überall, wir kennen keine Grenzen. Dies ist unser Manifest. 14. Februar, 1997 [Christian Kirtchev](https://twitter.com/cyberkristiyan)
