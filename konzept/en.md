@@ -1,6 +1,6 @@
 # Concept
 
-This concept is a proposal that we are [partially implementing by ourselves](https://proxysto.re). Our test phase has been running since August 2020 and until at least October 2021. This blueprint is open to suggestions for improvement – we are interested in a free and open [exchange](https://proxysto.re/kontakt.html).
+This concept is a proposal that we are [partially implementing by ourselves](https://proxysto.re). Our test phase has been running since August 2020. This blueprint is open to suggestions for improvement – we are interested in a free and open [exchange](https://proxysto.re/kontakt.html).
 
 Attacks on privacy by companies and governments have been going on for many years and continue to evolve. Even minor successes, such as greater adoption of end-to-end encryption following the Edward Snowden leaks, cannot hide the fact that we are on the defensive. Attacks on our devices and our infrastructure are being stepped up, and there are even calls for the criminalization of encryption.
 
