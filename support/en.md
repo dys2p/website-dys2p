@@ -8,13 +8,13 @@ We would like to set up a shredder for paper and a shredder for data media in ou
 
 Since both devices are not cheap, we need your support. If you would like to contribute to the funding, you can do so with cash at our site, by bank transfer (account details available [on request](https://proxysto.re/kontakt.html)) or in the cryptocurrencies Monero and Bitcoin. If you happen to have a comparable shredder to give away, we would of course be grateful for that as well.
 
-**Document shredder – 1.000 Euro**
+**Document shredder – 1.000 of 1.000 Euro**
 
 <div class="progress mb-3">
 	<div class="progress-bar bg-success" role="progressbar" style="width: 100%"></div>
 </div>
 
-**Storage device shredder – 12.500 Euro**
+**Storage device shredder – 15 of 12.500 Euro**
 
 <div class="progress mb-3">
 	<div class="progress-bar bg-success" role="progressbar" style="width: 0.12%"></div>

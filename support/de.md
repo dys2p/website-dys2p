@@ -8,13 +8,13 @@ Wir möchten in unserem [Ladenlokal](https://proxysto.re) einen Shredder für Pa
 
 Da beide Geräte nicht billig sind, brauchen wir eure Unterstützung. Wenn ihr euch an der Finanzierung beteiligen möchtet, könnt ihr dies mit Bargeld bei uns vor Ort, per Banküberweisung (Kontodaten [auf Anfrage](https://proxysto.re/kontakt.html)) oder in den Kryptowährungen Monero und Bitcoin tun. Falls ihr zufällig einen vergleichbaren Shredder zu verschenken habt, wären wir natürlich auch dafür dankbar.
 
-**Aktenvernichter – 1.000 Euro**
+**Aktenvernichter – 1.000 von 1.000 Euro**
 
 <div class="progress mb-3">
 	<div class="progress-bar bg-success" role="progressbar" style="width: 100%"></div>
 </div>
 
-**Festplattenshredder – 12.500 Euro**
+**Festplattenshredder – 15 von 12.500 Euro**
 
 <div class="progress mb-3">
 	<div class="progress-bar bg-success" role="progressbar" style="width: 0.12%"></div>
