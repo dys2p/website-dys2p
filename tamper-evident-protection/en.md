@@ -19,7 +19,7 @@ For thousands of years, seals have been used in various forms with the aim of ce
 
 [translated freely from netzpolitik.org](https://netzpolitik.org/2014/nsa-hat-eine-spezialeinheit-um-paeckchen-zu-oeffnen-und-wanzen-zu-implantieren/)
 
-![TAO](../assets/images/rm/Nsa-pwn-cisco.jpg)
+![TAO](../assets/images/tamper-evident-protection/nsa-pwn-cisco.jpg)
 
 It is likely that such attacks are taking place in other states as well - whether against individuals or on a larger scale.
 
@@ -49,7 +49,7 @@ In the method described by [Mullvad VPN](https://mullvad.net/en/help/how-tamper-
 
 We have two pictures below of one of our first trials, in which all but 3-4 glitter elements at the edge (top left) of the sticker are still in the same place. In further attempts this could be reduced, so that we classify this method as unsuitable.
 
-![comparison](../assets/images/rm/vergleich_versiegelt.cleaned.png)
+![comparison](../assets/images/tamper-evident-protection/vergleich_versiegelt.png)
 
 In the left photo you can see a screw sealed with Mullvad VPN nail polish. In the right photo you can see this sealing after it has been opened once as described above. In the upper left part of the right photo you can see that the arrangement of the elements on the edge of the sticker is not quite the same. The two larger elements (left edge in the middle and at the bottom) were also broken, but afterwards they were brought back to their position. In further tests, we achieved similar results. The decisive factor in this process is the amount of elements on and around the edge of the sticker. We suspect that with stickers used for seals, those that break when peeled off are better in combination with nail polish.
 
@@ -85,61 +85,61 @@ Our favorites so far are: Red Lentils & Beluga Lentils, Yellow and Green Peas an
 
 #### Means for our mosaic
 
-![Lentils](../assets/images/rm/linsen_01.cleaned.JPG)
+![Lentils](../assets/images/tamper-evident-protection/linsen_01.jpg)
 
 Red Lentils & Beluga Lentils:
 
 * The lentils are a good size (neither too small, nor too large), have good mixing characteristics, and form a high contrast pattern.
 
-![Peas & Beans](../assets/images/rm/eb_01.cleaned.JPG)
+![Peas & Beans](../assets/images/tamper-evident-protection/eb_01.jpg)
 
 Yellow Peas & White Beans:
 
 * Both Yellow Peas and White Beans have good size (neither too small, nor too large), good mixing behavior, and form a contrasting pattern.
 
-![Rice](../assets/images/rm/reis_01.cleaned.JPG)
+![Rice](../assets/images/tamper-evident-protection/reis_01.jpg)
 
 dyed rice:
 
 * The rice is a little smaller than the two previously mentioned substances, but has the advantage that you can make up your own desired colors as needed with food coloring (more on this below).
 
-![Gold millet](../assets/images/rm/hirse_01.cleaned.JPG)
+![Gold millet](../assets/images/tamper-evident-protection/hirse_01.jpg)
 
 Golden millet:
 
 * We tested millet only in combination with other substances due to its small size.
 
-![Birdseed](../assets/images/rm/vogelfutter_01.cleaned.JPG)
+![Birdseed](../assets/images/tamper-evident-protection/vogelfutter_01.jpg)
 
 Birdseed:
 
 * Birdseed has the advantage that it looks relatively normal in smaller bags, for example, and may still be able to hide its secret from attackers as a result. However, depending on the contents of the mixture, it may be easy to stick.
 
-![Balls](../assets/images/rm/kugeln_01.cleaned.JPG)
+![Balls](../assets/images/tamper-evident-protection/kugeln_01.jpg)
 
 Balls of different colors, sizes and materials:
 
 * The balls probably have the best resistance compared to the other items, but unfortunately they are also relatively costly and harder to get than most other remedies.
 
-![Salt](../assets/images/rm/salz_01.cleaned.JPG)
+![Salt](../assets/images/tamper-evident-protection/salz_01.jpg)
 
 colored salt:
 
 * We colored the salt with food coloring (more on this below). Sugar and salt behave similarly, with occasional slight lumpiness in the sugar. Because of the size, it is also sometimes difficult to compare the pattern.
 
-![sugar](../assets/images/rm/zucker_01.cleaned.JPG)
+![sugar](../assets/images/tamper-evident-protection/zucker_01.jpg)
 
 colored sugar:
 
 * We colored the sugar with food coloring (more on this below). Sugar and salt behave similarly, with the sugar occasionally forming slight lumps. Because of the size, it is also sometimes difficult to compare the pattern.
 
-![cornstarch](../assets/images/rm/maisstaerke_01.cleaned.JPG)
+![cornstarch](../assets/images/tamper-evident-protection/maisstaerke_01.jpg)
 
 Dyed cornstarch (DIY Holi powder):
 
 * We dyed the cornstarch with food coloring (more on this below). The cornstarch makes a powder mixture in which the individual colors are sometimes difficult to discern.
 
-![kinetic sand](../assets/images/rm/ksand_01.cleaned.JPG)
+![kinetic sand](../assets/images/tamper-evident-protection/ksand_01.jpg)
 
 kinetic sand:
 
@@ -147,7 +147,7 @@ kinetic sand:
 
 #### Coloring
 
-![colors](../assets/images/rm/farben_01.cleaned.JPG)
+![colors](../assets/images/tamper-evident-protection/farben_01.jpg)
 
 We have colored the rice and the other substances with food coloring and tested 2 different food colors. We find the food coloring from V2 Foods better than the one from Limino because of the color intensity. The procedure was always similar:
 
@@ -183,18 +183,18 @@ This bag filled with colored elements is then vacuumed. This keeps them in their
 
 Since many people have vacuum cleaners (there are even public ones at some gas stations), this process is our first priority. There are special, reusable bags for vacuum cleaners to be able to store e.g. clothes or blankets in a space-saving way and to protect them from damage (e.g. by moths). The air inside the bag can be removed through a valve and with a vacuum cleaner. The resulting negative pressure significantly reduces the volume of blankets in these bags, for example. Unfortunately, we could only find larger bags that are well suited for laptops, for example, but less so for small items.
 
-![Thinkpad under colored rice in a vacuum bag](../assets/images/rm/vakuum_04.cleaned.JPG)
+![Thinkpad under colored rice in a vacuum bag](../assets/images/tamper-evident-protection/vakuum_04.jpg)
 
 #### Vacuuming with a vacuum sealer
 
 There are many different vacuuming devices, they differ in quality and size. Vacuumers are used, for example, to keep food fresh longer. The appropriate bags for this are available in all desired sizes, although these can not be reused so easily or only with loss of material.
 
-![red lentils & beluga lentils](../assets/images/rm/vakuum_01.cleaned.JPG)
-![Colorful rice](../assets/images/rm/vakuum_02.cleaned.JPG)
+![red lentils & beluga lentils](../assets/images/tamper-evident-protection/vakuum_01.jpg)
+![Colorful rice](../assets/images/tamper-evident-protection/vakuum_02.jpg)
 
 In both procedures, it is also possible to cascade the bags with the elements. To do this, the process is performed once as described above: Vacuum the object/device in the bag with the elements. The result of the first operation, after saving the images, is again put into a bag with more elements and vacuumed.
 
-![colorful rice and lentil mixture cascaded](../assets/images/rm/kaskadieren_01.cleaned.JPG)
+![colorful rice and lentil mixture cascaded](../assets/images/tamper-evident-protection/kaskadieren_01.jpg)
 
 Some companies deliberately omit certain tamper-evident procedures. [For example, Ledger](https://support.ledger.com/hc/en-us/articles/4404389367057-Is-my-Ledger-device-genuine-?#h_d3e66427-a745-46c6-b1bf-3b7f52ba8ed4), the company that makes the eponymous hardware wallet for cryptocurrencies, refers to the forgeability of seals and limits itself to [hardware-side protection measures](https://support.ledger.com/hc/en-us/articles/4404382029329-Check-hardware-integrity):
 
