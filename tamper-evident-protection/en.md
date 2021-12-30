@@ -81,47 +81,47 @@ The mixture we are looking for should:
 
 To test the mixing behavior especially the first 3 points were relevant for us, through a pre-selection only items/substances were chosen that met the last 3 points of our requirements.
 
-Our favorites so far are: Red Lentils & Beluga Lentils, Yellow and Green Peas and White Beans, and Colored Rice.
+Our favorites so far are: red lentils & beluga lentils, yellow and green peas and white beans, and colored rice.
 
 #### Means for our mosaic
 
-![Lentils](../assets/images/tamper-evident-protection/linsen_01.jpg)
+![lentils](../assets/images/tamper-evident-protection/linsen_01.jpg)
 
-Red Lentils & Beluga Lentils:
+red lentils & beluga lentils:
 
 * The lentils are a good size (neither too small, nor too large), have good mixing characteristics, and form a high contrast pattern.
 
-![Peas & Beans](../assets/images/tamper-evident-protection/eb_01.jpg)
+![peas & beans](../assets/images/tamper-evident-protection/eb_01.jpg)
 
-Yellow Peas & White Beans:
+yellow peas & white beans:
 
-* Both Yellow Peas and White Beans have good size (neither too small, nor too large), good mixing behavior, and form a contrasting pattern.
+* Both yellow peas and white beans have good size (neither too small, nor too large), good mixing behavior, and form a contrasting pattern.
 
-![Rice](../assets/images/tamper-evident-protection/reis_01.jpg)
+![rice](../assets/images/tamper-evident-protection/reis_01.jpg)
 
 dyed rice:
 
 * The rice is a little smaller than the two previously mentioned substances, but has the advantage that you can make up your own desired colors as needed with food coloring (more on this below).
 
-![Gold millet](../assets/images/tamper-evident-protection/hirse_01.jpg)
+![gold millet](../assets/images/tamper-evident-protection/hirse_01.jpg)
 
-Golden millet:
+golden millet:
 
 * We tested millet only in combination with other substances due to its small size.
 
-![Birdseed](../assets/images/tamper-evident-protection/vogelfutter_01.jpg)
+![birdseed](../assets/images/tamper-evident-protection/vogelfutter_01.jpg)
 
-Birdseed:
+birdseed:
 
 * Birdseed has the advantage that it looks relatively normal in smaller bags, for example, and may still be able to hide its secret from attackers as a result. However, depending on the contents of the mixture, it may be easy to stick.
 
-![Balls](../assets/images/tamper-evident-protection/kugeln_01.jpg)
+![balls](../assets/images/tamper-evident-protection/kugeln_01.jpg)
 
 Balls of different colors, sizes and materials:
 
 * The balls probably have the best resistance compared to the other items, but unfortunately they are also relatively costly and harder to get than most other remedies.
 
-![Salt](../assets/images/tamper-evident-protection/salz_01.jpg)
+![salt](../assets/images/tamper-evident-protection/salz_01.jpg)
 
 colored salt:
 
