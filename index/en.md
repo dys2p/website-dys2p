@@ -28,6 +28,7 @@
 ### Projects
 
 * [Mnemonic German word lists](https://github.com/dys2p/wordlists-de)
+* [random mosaic - detect unauthorized physical access](tamper-evident-protection.html)
 
 #### Translations
 
