@@ -28,6 +28,7 @@
 ### Projekte
 
 * [Mnemonische deutsche Wortlisten](https://github.com/dys2p/wordlists-de)
+* [random mosaic - unautorisierte physische Zugriffe erkennen](tamper-evident-protection.html)
 
 #### Übersetzungen
 
