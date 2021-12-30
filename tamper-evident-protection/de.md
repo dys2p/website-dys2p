@@ -19,7 +19,7 @@ Seit Jahrtausenden werden Siegel in diversen Formen mit dem Ziel verwendet, die 
 
 [netzpolitik.org](https://netzpolitik.org/2014/nsa-hat-eine-spezialeinheit-um-paeckchen-zu-oeffnen-und-wanzen-zu-implantieren/)
 
-![TAO](../assets/images/rm/Nsa-pwn-cisco.jpg)
+![TAO](../assets/images/tamper-evident-protection/nsa-pwn-cisco.jpg)
 
 Es ist anzunehmen, dass derartige Angriffe auch in anderen Staaten stattfinden – sei es gegen Einzelpersonen oder großflächiger.
 
@@ -49,7 +49,7 @@ Bei dem von [Mullvad VPN beschriebenen Verfahren](https://mullvad.net/en/help/ho
 
 Wir haben nachfolgend zwei Bilder eines unserer ersten Versuche, in denen bis auf 3-4 Glitzer-Elemente am Rand (links oben) des Aufkleber alle weiteren nach wie vor an der gleichen Stelle sind. Bei weiteren Versuchen konnte dies reduziert werden, sodass wir dieses Verfahren als ungeeignet einstufen.
 
-![Vergleich](../assets/images/rm/vergleich_versiegelt.cleaned.png)
+![Vergleich](../assets/images/tamper-evident-protection/vergleich_versiegelt.png)
 
 Im linken Foto sieht man eine mit dem Nagellack von Mullvad VPN versiegelte Schraube. Im rechten Foto sieht man diese Versiegellung nachdem sie einmal wie oben beschrieben geöffnet wurde. Im linken oberen Teil des rechten Foto kann man erkennen das die Anordnung der Elemente an der Kante des Aufkleber nicht mehr ganz die gleiche ist. Die beiden größeren Elemente (linker Rand mittig und unten) wurden ebenfalls gebrochen, jedoch danach wieder auf ihre Position gebracht. In weiteren Versuchen haben wir ähnliche Ergebnisse erzielt. Ausschlaggebend ist bei diesem Verfahren die Menge der Elemente an und um die Kante des Aufkleber. Wir vermuten das mit Aufklebern die für Siegel verwendet werden, jene die beim abziehen kaputt gehen, in Verbindung mit Nagellack besser sind.
 
@@ -85,61 +85,61 @@ Unser bisheriger Favoriten sind: Rote Linsen & Belugalinsen, Gelbe und Grüne Er
 
 #### Mittel für unser Mosaik
 
-![Linsen](../assets/images/rm/linsen_01.cleaned.JPG)
+![Linsen](../assets/images/tamper-evident-protection/linsen_01.jpg)
 
 Rote Linsen & Belugalinsen:
 
 * Die Linsen haben eine gute Größe (weder zu klein, noch zu groß), ein gutes Mischverhalten und bilden ein kontrastreiches Muster.
 
-![Erbsen & Bohnen](../assets/images/rm/eb_01.cleaned.JPG)
+![Erbsen & Bohnen](../assets/images/tamper-evident-protection/eb_01.jpg)
 
 Gelbe Erbsen & Weiße Bohnen:
 
 * Sowohl die Gelben Erbsen, als auch die Weißen Bohnen haben eine gute Größe (weder zu klein, noch zu groß), ein gutes Mischverhalten und bilden ein kontrastreiches Muster.
 
-![Reis](../assets/images/rm/reis_01.cleaned.JPG)
+![Reis](../assets/images/tamper-evident-protection/reis_01.jpg)
 
 gefärbter Reis:
 
 * Der Reis ist etwas kleiner als die beiden zuvor genannten Substanzen, hat jedoch den Vorteil das man sich die gewünschten Farben nach Bedarf selbst mit Lebensmittelfarbe (mehr dazu weiter unten) zusammenstellen kann.
 
-![Goldhirse](../assets/images/rm/hirse_01.cleaned.JPG)
+![Goldhirse](../assets/images/tamper-evident-protection/hirse_01.jpg)
 
 Goldhirse:
 
 * Hirse haben wir auf Grund seiner geringen Größe nur in Kombination mit anderen Substanzen getestet.
 
-![Vogelfutter](../assets/images/rm/vogelfutter_01.cleaned.JPG)
+![Vogelfutter](../assets/images/tamper-evident-protection/vogelfutter_01.jpg)
 
 Vogelfutter:
 
 * Vogelfutter hat den Vorteil, dass es beispielsweise in kleineren Beuteln relativ normal aussieht und sein Geheimnis möglicherweise dadurch noch vor Angreifern verbergen kann. Je nach Inhalt der Mischung kann es jedoch sein, dass dieser leicht verkleben kann.
 
-![Kugeln](../assets/images/rm/kugeln_01.cleaned.JPG)
+![Kugeln](../assets/images/tamper-evident-protection/kugeln_01.jpg)
 
 Kugeln aus verschiedenen Farben, Größen und Materialien:
 
 * Die Kugeln haben im Vergleich zu den anderen Artikeln wahrscheinlich die beste Beständigkeit, sind jedoch leider auch relativ kostenintensiv und schwerer zu bekommen als die meisten anderen Mittel.
 
-![Salz](../assets/images/rm/salz_01.cleaned.JPG)
+![Salz](../assets/images/tamper-evident-protection/salz_01.jpg)
 
 gefärbtes Salz:
 
 * Das Salz haben wir mit Lebensmittelfarbe gefärbt (mehr dazu weiter unten). Zucker und Salz verhalten sich ähnlich, wobei es beim Zucker gelegentlich zu leichter Klumpenbildung kommt. Aufgrund der Größe ist ein Vergleich des Muster teilweise auch nur schwer möglich.
 
-![Zucker](../assets/images/rm/zucker_01.cleaned.JPG)
+![Zucker](../assets/images/tamper-evident-protection/zucker_01.jpg)
 
 gefärbter Zucker:
 
 * Den Zucker haben wir mit Lebensmittelfarbe gefärbt (mehr dazu weiter unten). Zucker und Salz verhalten sich ähnlich, wobei es beim Zucker gelegentlich zu leichter Klumpenbildung kommt. Aufgrund der Größe ist ein Vergleich des Muster teilweise auch nur schwer möglich.
 
-![Maisstärke](../assets/images/rm/maisstaerke_01.cleaned.JPG)
+![Maisstärke](../assets/images/tamper-evident-protection/maisstaerke_01.jpg)
 
 gefärbte Maisstärke (DIY Holi-Pulver):
 
 * Die Maisstärke haben wir mit Lebensmittelfarbe gefärbt (mehr dazu weiter unten). Die Maisstärke ergibt ein Pulvergemisch, bei welchem die einzelnen Farben teilweise nur noch schwer zu erkennen sind.
 
-![kinetischer Sand](../assets/images/rm/ksand_01.cleaned.JPG)
+![kinetischer Sand](../assets/images/tamper-evident-protection/ksand_01.jpg)
 
 kinetischer Sand:
 
@@ -147,7 +147,7 @@ kinetischer Sand:
 
 #### Färben
 
-![Farben](../assets/images/rm/farben_01.cleaned.JPG)
+![Farben](../assets/images/tamper-evident-protection/farben_01.jpg)
 
 Wir haben den Reis und die anderen Substanzen mit Lebensmittelfarbe gefärbt und 2 verschiedene Lebensmittelfarben getestet. Die Lebensmittelfarben von V2 Foods finden wir auf Grund der Farbintensität besser als die von Limino. Dabei war das Vorgehen immer ähnlich:
 
@@ -183,18 +183,18 @@ Dieser mit bunten Elementen gefüllte Beutel wird im Anschluss vakuumiert. Dadur
 
 Da viele Personen Staubsauger (es gibt sogar öffentliche an einigen Tankstellen) haben, steht dieses Verfahren für uns an erster Stelle. Für Staubsauger gibt es spezielle, wiederverwendbare Beutel, um z. B. Kleidung oder Decken platzsparend und zum Schutz vor Schäden (z. B. durch Motten) lagern zu können. Dabei kann die Luft innerhalb des Beutels durch ein Ventil und mit dem Staubsauger entfernt werden. Durch den dabei entstehenden Unterdruck verringert sich z. B. das Volumen von Decken in diesen Beuteln erheblich. Leider konnten wir nur größere Beutel finden, die sich z. B. gut für Laptops eignen, jedoch weniger für kleine Gegenstände.
 
-![Thinkpad unter buntem Reis im Staubsaugerbeutel](../assets/images/rm/vakuum_04.cleaned.JPG)
+![Thinkpad unter buntem Reis im Staubsaugerbeutel](../assets/images/tamper-evident-protection/vakuum_04.jpg)
 
 #### Vakuumieren mit einem Vakuumiergerät
 
 Es gibt viele verschiedene Vakuumiergeräte, diese unterscheiden sich in Qualität und Größe. Vakuumiergeräte werden beispielsweise verwendet, um Lebensmittel länger frisch zu halten. Die passenden Beutel dafür gibt es in alle gewünschten Größen, wobei diese nicht so einfach bzw. nur mit Materialverlust wiederverwendet werden können.
 
-![Rote Linsen & Belugalinsen](../assets/images/rm/vakuum_01.cleaned.JPG)
-![bunter Reis](../assets/images/rm/vakuum_02.cleaned.JPG)
+![Rote Linsen & Belugalinsen](../assets/images/tamper-evident-protection/vakuum_01.jpg)
+![bunter Reis](../assets/images/tamper-evident-protection/vakuum_02.jpg)
 
 Bei beiden Verfahren kann man die Beuteln mit den Elementen auch kaskadieren. Dafür wird der Vorgang wie oben beschrieben einmal durchgeführt: Gegenstand/Gerät in dem Beutel mit den Elemente vakuumieren. Das Ergebnis des ersten Vorgangs wird nach der Speicherung der Bilder erneut in einen Beutel mit weiteren Elementen gegeben und vakuumiert.
 
-![bunter Reis und Linsenmischung kaskadiert](../assets/images/rm/kaskadieren_01.cleaned.JPG)
+![bunter Reis und Linsenmischung kaskadiert](../assets/images/tamper-evident-protection/kaskadieren_01.jpg)
 
 Manche Unternehmen verzichten bewusst auf bestimmte Verfahren zur Manipulationssicherung. [So verweist Ledger](https://support.ledger.com/hc/en-us/articles/4404389367057-Is-my-Ledger-device-genuine-?#h_d3e66427-a745-46c6-b1bf-3b7f52ba8ed4), die Herstellerfirma des gleichnamigen Hardware-Wallets für Kryptowährungen, auf die Fälschbarkeit von Siegeln und beschränkt sich auf [hardwareseitige Schutzmaßnahmen](https://support.ledger.com/hc/en-us/articles/4404382029329-Check-hardware-integrity):
 
