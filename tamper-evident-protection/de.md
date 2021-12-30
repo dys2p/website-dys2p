@@ -59,7 +59,7 @@ Dieses Verfahren wird beispielsweise von [Nitrokey](https://docs.nitrokey.com/de
 
 Einschätzung nach unseren Selbstversuchen: Es ist mitunter bei diesen beiden Verfahren sehr schwierig oder nicht möglich Manipulationen erkennen zu können. Wir haben bei weiteren Versuchen die Kombination von Nagellack mit verschiedenen Klebern (Uhu Alleskleber, Sekundenkleber von herlitz, Doratex Double Power und Yachtcare Super Epoxy) ausprobiert. Unser Favorit dabei ist die Versiegelung des Schacht mit Epoxidharz und GLitzer-Nagellack darin oder darüber. Angriffe mit Mitteln speziell für Epoxidharz haben wir nicht untersucht. Dieses Verfahren macht es jedoch auch etwas schwieriger bei Bedarf wieder alle Schrauben zu lösen.
 
-## random mosaik $ rm -r ice
+## random mosaic $ rm -r ice
 
 Wir haben uns Gedanken gemacht eine Methode zu finden, die mit weit verbreiteten und möglichst günstigen Mitteln ein schwer reproduzierbares Muster ergibt. Dieses Muster sollte manuell oder mit technischen Mitteln möglichst einfach überprüft werden können. Wir haben uns dafür im wesentlichen zwei Optionen ausgedacht: Eine für eine kurzzeitige Lagerung und eine weitere für eine längerfristige Lagerung und/oder den Versand.
 
