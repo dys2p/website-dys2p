@@ -211,4 +211,4 @@ Other companies are looking for ways to improve. For example, we found the work 
 
 We would like to take this opportunity to thank everyone who supported us in this project. This thanks goes especially to those who provided us with vacuum equipment, Mullvad VPN for the glitter nail polish, as well as Nitrokey and Purism for the exchange to seal with nail polish.
 
-If you have further ideas, hints or suggestions for improvement [feel free to write us](https://proxysto.re/kontakt.html) or work with us on [github](https://github.com/dys2p/website-dys2p/tree/master/rm) on this project.
+If you have further ideas, hints or suggestions for improvement [feel free to write us](https://proxysto.re/kontakt.html) or work with us on [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection/en.md) on this project.
