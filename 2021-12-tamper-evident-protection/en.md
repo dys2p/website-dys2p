@@ -14,7 +14,7 @@ For thousands of years, seals have been used in various forms with the aim of ce
 
 [While the U.S. government has claimed for years that companies from China are building surveillance technologies into devices exported to the U.S. (such as networking equipment)](https://www.techradar.com/news/networking/routers-storage/photos-reveal-nsa-tampered-with-cisco-router-prior-to-export-1249191), it was revealed in 2014 in the book ["Global Surveillance" by Glenn Greenwald](https://www.droemer-knaur.de/buch/glenn-greenwald-die-globale-ueberwachung-9783426786918) that the NSA's "TAO" (Tailored Access Operations) unit has been intercepting and tampering with technical devices in transit since at least 2010. [The Intercept published a good article](https://theintercept.com/2019/01/24/computer-supply-chain-attacks/) on supply chain attacks in 2019, and Microsoft has its own series of articles: [Part 1](http://microsoft.com/security/blog/2019/10/16/guarding-against-supply-chain-attacks-part-1-big-picture/), [Part 2](https://web.archive.org/web/20210226030901/https://www.microsoft.com/security/blog/2020/02/03/guarding-against-supply-chain-attacks-part-2-hardware-risks/), and [Part 3](https://web.archive.org/web/20210303150737/https://www.microsoft.com/security/blog/2020/03/11/guarding-against-supply-chain-attacks-part-3-how-software-becomes-compromised/).
 
-> According to these, it is common practice to, among other things, prepare servers, routers and other network technology 
+> According to these, it is common practice to, among other things, prepare servers, routers and other network technology
 > with eavesdropping technology before exporting them to third countries. Afterwards, the equipment is repackaged and shipped as planned.
 
 [translated freely from netzpolitik.org](https://netzpolitik.org/2014/nsa-hat-eine-spezialeinheit-um-paeckchen-zu-oeffnen-und-wanzen-zu-implantieren/)
@@ -211,4 +211,4 @@ Other companies are looking for ways to improve. For example, we found the work 
 
 We would like to take this opportunity to thank everyone who supported us in this project. This thanks goes especially to those who provided us with vacuum equipment, Mullvad VPN for the glitter nail polish, as well as Nitrokey and Purism for the exchange to seal with nail polish.
 
-If you have further ideas, hints or suggestions for improvement [feel free to write us](https://proxysto.re/kontakt.html) or work with us on [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection/en.md) on this project.
+If you have further ideas, hints or suggestions for improvement [feel free to write us](https://proxysto.re/kontakt.html) or work with us on [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection) on this project.

@@ -211,4 +211,4 @@ Andere Unternehmen suchen nach Verbesserungsmöglichkeiten. So haben wir nach un
 
 Wir möchten uns an dieser Stelle bei allen bedanken die uns hierbei unterstützt haben. Dieser Dank gilt insbesondere jenen die uns Vakuumiergeräte zur Verfügung gestellt haben, Mullvad VPN für den Glitzer-Nagellack, sowie Nitrokey und Purism für den Austausch zum versiegeln mit Nagellack.
 
-Solltest du weitere Ideen, Hinweise oder Verbessrungsvorschläge haben [schreib uns gerne](https://proxysto.re/kontakt.html) oder arbeite mit uns auf [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection/de.md) an diesem Projekt.
+Solltest du weitere Ideen, Hinweise oder Verbessrungsvorschläge haben [schreib uns gerne](https://proxysto.re/kontakt.html) oder arbeite mit uns auf [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection) an diesem Projekt.
