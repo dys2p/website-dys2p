@@ -63,3 +63,9 @@ h5 { font-size: 1rem; }
 .card-hover:hover {
 	background-color: #f7f7f7;
 }
+
+/* style all blockquotes independently from bootstrap */
+blockquote {
+	border-left: solid 5px #e83e8c;
+	padding-left: 0.5em;
+}
