@@ -52,3 +52,14 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+/* headings */
+h1 { text-align: center; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.25rem; }
+h5 { font-size: 1rem; }
+
+/* card hover */
+.card-hover:hover {
+	background-color: #f7f7f7;
+}
