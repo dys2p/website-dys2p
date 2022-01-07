@@ -66,6 +66,7 @@ h5 { font-size: 1rem; }
 
 /* style all blockquotes independently from bootstrap */
 blockquote {
-	border-left: solid 5px #e83e8c;
+	border-left: solid 5px #d0d0d0;
+	font-style: italic;
 	padding-left: 0.5em;
 }
