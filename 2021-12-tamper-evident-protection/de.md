@@ -65,144 +65,146 @@ Mit den ersten beiden Verfahren ist es mitunter sehr schwierig oder gar unmögli
 
 ## random mosaic $ rm -r ice
 
-Wir haben uns Gedanken gemacht eine Methode zu finden, die mit weit verbreiteten und möglichst günstigen Mitteln ein schwer reproduzierbares Muster ergibt. Dieses Muster sollte manuell oder mit technischen Mitteln möglichst einfach überprüft werden können. Wir haben uns dafür im wesentlichen zwei Optionen ausgedacht: Eine für eine kurzzeitige Lagerung und eine weitere für eine längerfristige Lagerung und/oder den Versand.
+Eine Alternative zum Versiegeln ist das Einbetten des ganzen Gegenstands in einer Substanz, deren Oberfläche ein Mosaik bildet, das schwer reproduzierbar ist und sich bei Manipulationen ändert. Das Mosaik soll manuell oder mit technischen Mitteln möglichst einfach überprüft werden können. Das Ziel ist, Schriftstücke, Datenträger, Kommunikationstechnik, Hardware-Wallets und andere sensible Objekte so zu schützen, dass ein unautorisierter Zugriff mit größerer Wahrscheinlichkeit festgestellt werden kann. Wir unterscheiden zwischen zwei Anwendungsfällen: kurzzeitiger Lagerung und längerfristiger Lagerung bzw. Versand.
 
-Damit könnten beispielsweise Schriftstücke, Datenträger, Kommunikationstechnik, Hardware-Wallets und andere sensible Objekte so geschützt werden, dass ein unautorisierter Zugriff mit größerer Wahrscheinlichkeit festgestellt werden kann.
-
-### Auf der Suche nach geeigneten Gegenständen/Substanzen
-
-Um geeignete Gegenstände/Substanzen zu finden haben wir nachfolgende Anforderungen formuliert, mehrere Stoffe und Mischungen ausprobiert und folgende Einschätzung dazu:
+### Auf der Suche nach geeigneten Substanzen
 
 Die gesuchte Mischung sollte:
 
-- Nicht zu klein sein, damit das Muster/einzelne Elemente möglicht gut erkennbar ist/sind.
-- Nicht zu groß sein, damit es möglichst schwer ist, das Muster zu reproduzieren.
-- Aus verschiedenfarbigen und/oder verschieden großen Elementen bestehen, welches ein möglichst kontrastreichen Muster ergeben kann.
-- Die Elemente sollten möglichst rund und trocken sein und nicht zu Klumpenbildung bzw. zum Verkanten oder Verkleben neigen.
-- Im Falle einer Beschädigung (z. B. eines Risses) unserer Schutzmaßnahmen sollte der geschütze Inhalt nicht zusätzlich beschädigt werden. Daher sollten nur Festkörper verwenden werden und der Inhalt ggf. gesondert geschützt werden, um ein Eindringen der Elemente (z. B. bei einem Riss) in den Gegenstand/das Objekt zu verhindern/erschweren.
-- Keine scharfkantigen oder spitzen Teile verwenden, die ggf. unsere Schutzmaßnahmen beschädigen könnten.
-- Nicht zu schwer sein, z. B. um Versandkosten zu sparen.
+- nicht zu fein sein, damit die einzelnen Elemente gut erkennbar sind
+- nicht zu grob sein, damit es möglichst schwer ist, das Mosaik zu reproduzieren
+- aus verschiedenfarbigen und/oder verschieden großen Elementen bestehen, um ein möglichst kontrastreichen Mosaik zu ergeben
+- aus möglichst runden Elementen bestehen, um nicht zu verkanten
+- möglichst trocken sein und nicht zu Klumpenbildung bzw. zum Verkleben neigen
+- einfach und preisgünstig zu beschaffen sein
+- fest sein, um im Falle einer Beschädigung (z. B. eines Risses) den geschütze Inhalt nicht beschädigen (Ggf. kann der zu schützende Inhalt gesondert geschützt werden, um ein Eindringen der Substanz zu verhindern).
+- keine scharfen Kanten oder spitzen Ecken haben, die Schäden verursachen können
+- nicht zu schwer sein, z. B. um Versandkosten zu sparen
 
-Um das Mischverhalten zu testen waren für uns besonders die ersten 3 Punkte von Relevanz, durch eine Vorauswahl wurden nur Gegenstände/Substanzen ausgesucht, die die letzten 3 Punkte unserer Anforderungen erfüllten.
+Um das Mischverhalten zu testen, waren für uns insbesondere die ersten drei Punkte relevant. Wir haben mehrere Substanzen untersucht und uns dabei auf solche beschränkt, die die letzten drei Punkte unserer Anforderungen erfüllten. Unser bisheriger Favoriten sind: Rote Linsen & Belugalinsen, gelbe und grüne Erbsen und weiße Bohnen, sowie gefärbter Reis.
 
-Unser bisheriger Favoriten sind: Rote Linsen & Belugalinsen, Gelbe und Grüne Erbsen und Weiße Bohnen, sowie gefärbter Reis.
-
-#### Mittel für unser Mosaik
+#### Rote Linsen & Belugalinsen
 
 ![Linsen](../assets/images/tamper-evident-protection/linsen_01.jpg)
 
-Rote Linsen & Belugalinsen:
+Die Linsen haben eine gute Größe, ein gutes Mischverhalten und bilden ein kontrastreiches Mosaik.
 
-* Die Linsen haben eine gute Größe (weder zu klein, noch zu groß), ein gutes Mischverhalten und bilden ein kontrastreiches Muster.
+#### Gelbe Erbsen & weiße Bohnen
 
 ![Erbsen & Bohnen](../assets/images/tamper-evident-protection/eb_01.jpg)
 
-Gelbe Erbsen & Weiße Bohnen:
+Sowohl die gelben Erbsen als auch die weißen Bohnen haben eine gute Größe, ein gutes Mischverhalten und bilden ein kontrastreiches Mosaik.
 
-* Sowohl die Gelben Erbsen, als auch die Weißen Bohnen haben eine gute Größe (weder zu klein, noch zu groß), ein gutes Mischverhalten und bilden ein kontrastreiches Muster.
+#### Gefärbter Reis
 
 ![Reis](../assets/images/tamper-evident-protection/reis_01.jpg)
 
-gefärbter Reis:
+Der Reis ist etwas kleiner als die beiden zuvor genannten Substanzen. Er hat jedoch den Vorteil, dass man sich die gewünschten Farben selbst mit Lebensmittelfarbe (mehr dazu weiter unten) zusammenstellen kann.
 
-* Der Reis ist etwas kleiner als die beiden zuvor genannten Substanzen, hat jedoch den Vorteil das man sich die gewünschten Farben nach Bedarf selbst mit Lebensmittelfarbe (mehr dazu weiter unten) zusammenstellen kann.
+#### Goldhirse
 
 ![Goldhirse](../assets/images/tamper-evident-protection/hirse_01.jpg)
 
-Goldhirse:
+Hirse haben wir auf Grund seiner geringen Größe nur in Kombination mit anderen Substanzen getestet.
 
-* Hirse haben wir auf Grund seiner geringen Größe nur in Kombination mit anderen Substanzen getestet.
+#### Vogelfutter
 
 ![Vogelfutter](../assets/images/tamper-evident-protection/vogelfutter_01.jpg)
 
-Vogelfutter:
+Vogelfutter hat den Vorteil, dass es beispielsweise in kleineren Beuteln relativ normal aussieht und sein Geheimnis dadurch möglicherweise vor Angreifern verbergen kann. Je nach Zusammensetzung kann es jedoch verkleben.
 
-* Vogelfutter hat den Vorteil, dass es beispielsweise in kleineren Beuteln relativ normal aussieht und sein Geheimnis möglicherweise dadurch noch vor Angreifern verbergen kann. Je nach Inhalt der Mischung kann es jedoch sein, dass dieser leicht verkleben kann.
+#### Kugeln aus verschiedenen Farben, Größen und Materialien
 
 ![Kugeln](../assets/images/tamper-evident-protection/kugeln_01.jpg)
 
-Kugeln aus verschiedenen Farben, Größen und Materialien:
+Die Kugeln haben im Vergleich zu den anderen Artikeln wahrscheinlich die beste Beständigkeit, sind jedoch teurer und schwerer erhältlich als die meisten anderen Subtanzen.
 
-* Die Kugeln haben im Vergleich zu den anderen Artikeln wahrscheinlich die beste Beständigkeit, sind jedoch leider auch relativ kostenintensiv und schwerer zu bekommen als die meisten anderen Mittel.
+#### Gefärbtes Salz
 
 ![Salz](../assets/images/tamper-evident-protection/salz_01.jpg)
 
-gefärbtes Salz:
+Das Salz haben wir mit Lebensmittelfarben gefärbt (mehr dazu weiter unten). Aufgrund der Körnergröße ist ein Vergleich des Mosaiks schwerer.
 
-* Das Salz haben wir mit Lebensmittelfarbe gefärbt (mehr dazu weiter unten). Zucker und Salz verhalten sich ähnlich, wobei es beim Zucker gelegentlich zu leichter Klumpenbildung kommt. Aufgrund der Größe ist ein Vergleich des Muster teilweise auch nur schwer möglich.
+#### Gefärbter Zucker
 
 ![Zucker](../assets/images/tamper-evident-protection/zucker_01.jpg)
 
-gefärbter Zucker:
+Den Zucker haben wir mit Lebensmittelfarben gefärbt (mehr dazu weiter unten). Zucker verhält sich ähnlich wie Salz, es kommt jedoch gelegentlich zu leichter Klumpenbildung. Aufgrund der Körnergröße ist ein Vergleich des Mosaiks schwerer.
 
-* Den Zucker haben wir mit Lebensmittelfarbe gefärbt (mehr dazu weiter unten). Zucker und Salz verhalten sich ähnlich, wobei es beim Zucker gelegentlich zu leichter Klumpenbildung kommt. Aufgrund der Größe ist ein Vergleich des Muster teilweise auch nur schwer möglich.
+#### Gefärbte Maisstärke (DIY-Holi-Pulver)
 
 ![Maisstärke](../assets/images/tamper-evident-protection/maisstaerke_01.jpg)
 
-gefärbte Maisstärke (DIY Holi-Pulver):
+Die Maisstärke haben wir mit Lebensmittelfarben gefärbt (mehr dazu weiter unten). Sie ergibt ein Pulvergemisch, bei dem die einzelnen Farben teilweise nur noch schwer zu erkennen sind.
 
-* Die Maisstärke haben wir mit Lebensmittelfarbe gefärbt (mehr dazu weiter unten). Die Maisstärke ergibt ein Pulvergemisch, bei welchem die einzelnen Farben teilweise nur noch schwer zu erkennen sind.
+#### Kinetischer Sand
 
 ![kinetischer Sand](../assets/images/tamper-evident-protection/ksand_01.jpg)
 
-kinetischer Sand:
+Kinetischen Sand (auch als Modelliersand bezeichnet) erachten wir als unzweckmäßig. Er ist relativ kostenintensiv, in einer einzelnen Farbe ungeeignet, nach mehrmaligem Durchmischen mehrerer Farben sieht alles gleich aus, sodass sich nicht mehr feststellen lässt, ob es einen Zugriffsversuch gab oder nicht.
 
-* Der kinetischer Sand scheint uns ungeeignet, da dieser ebenfalls realtiv kostenintensiv ist, in einer einzelnen Farbe ungeeignet ist und wenn mehrere Farben verwendet werden, nach mehrmaligen durchmischen alles scheinbar gleich aussieht. Des Weiteren gehen wir davon aus, dass es bei einer solchen Konsistenz mehrere Angriffe geben wird, bei der wir nicht mehr feststellen können, ob es einen Zugriffsversuch gab oder nicht.
-
-#### Färben
+### Färben mit Lebensmittelfarbe
 
 ![Farben](../assets/images/tamper-evident-protection/farben_01.jpg)
 
-Wir haben den Reis und die anderen Substanzen mit Lebensmittelfarbe gefärbt und 2 verschiedene Lebensmittelfarben getestet. Die Lebensmittelfarben von V2 Foods finden wir auf Grund der Farbintensität besser als die von Limino. Dabei war das Vorgehen immer ähnlich:
+Wir haben zwei verschiedene Lebensmittelfarben getestet. Die Farben von _V2 Foods_ finden wir aufgrund der höheren Farbintensität besser als die von _Limino_. Dabei war das Vorgehen immer ähnlich:
 
-1) je 125 g Substanz circa 15 Tropfen Lebensmittelfarbe
-2) 0,5 Teelöffel Wasser dazu geben (nicht bei Salz und Zucker)
-3) In einem geschlossenen Beutel oder einer Box gut durchmischen.
-4) Sollte die gewünschte Farbintensität noch nicht erreicht sein, noch ein paar Tropfen Lebensmittelfarbe hinzugeben. Doch nicht zuviel, da die Substanz sonst ggf. zu sehr verklebt/klummt.
-5) Die gefärbte Substanz etwas ausgebreitet in einem Teller, auf Backpapier oder in einer Box an der Luft trocknen lassen.
+1. Circa 15 Tropfen Lebensmittelfarbe zu 125 g Substanz geben.
+2. 0,5 Teelöffel Wasser dazugeben (außer bei Salz und Zucker).
+3. In einem geschlossenen Beutel oder einer Box gut durchmischen.
+4. Sollte die gewünschte Farbintensität noch nicht erreicht sein, noch ein paar Tropfen Lebensmittelfarbe hinzugeben. Nicht zu viel, da die Substanz sonst verkleben oder verklumpen kann.
+5. Die gefärbte Substanz auf einem Teller, auf Backpapier oder in einer Box ausbreiten und an der Luft trocknen lassen.
 
-Einer anderen Anleitung folgend haben wir zunächst Essigessenz statt Wasser verwendet. Der damit gefärbte Reis war jedoch sehr geruchsintensiv, weshalb wir uns im Anschluss nur noch für Wasser entschieden haben. Das Ergebnis war bei beiden Mittel ähnlich. Das zum Färben verwendete Gefäß im Anschluss gut säubern, damit durch Farbrückstände nicht die Farbintensität verfälscht wird, falls das Gefäß erneut zum Färben verwendet wird.
+Einer anderen Anleitung folgend haben wir zunächst Essigessenz statt Wasser verwendet. Der damit gefärbte Reis war jedoch sehr geruchsintensiv, weshalb wir uns im Anschluss nur noch für Wasser entschieden haben. Das Ergebnis war in beiden Fällen ähnlich. Bevor das Gefäß zum Färben mit einer anderen Farbe verwendet wird, sollte es gut gesäubert werden, damit Farbrückstände nicht das Ergebnis beeinträchtigen.
 
-Wir können bisher nicht bewerten wie die Beständigkeit über einen längeren Zeitraum ist. Es kann sein das durch UV-Strahlung und andere Einflüsse die Farbintensität nachlässt. Mit anderen Farben haben wir noch keine Versuche unternommen.
+Die Beständigkeit der Farbe über einen längeren Zeitraum können wir bislang nicht einschätzen. Es ist möglich, dass durch UV-Strahlung und andere Einflüsse die Farbintensität nachlässt.
 
-Neben der normalen Lebensmittelfarbe könnten auch mehrere Elemente mit fluoreszierenden Schwarzlicht-Farben eingefärbt werden, somit wäre neben dem normalen und offensichtlichen Bild ein weiteres Muster möglich, welches nur mit Schwarzlicht sichtbar ist. Wir haben dies bisher noch nicht getestet.
+Neben normaler Lebensmittelfarbe könnten Teile der Substanz auch mit fluoreszierenden Schwarzlicht-Farben eingefärbt werden. Somit wäre neben dem normalen und offensichtlichen Bild ein weiteres Mosaik vorhanden, welches nur mit Schwarzlicht sichtbar ist. Wir haben dies noch nicht getestet.
 
 ### Kurzzeitige Lagerung
 
-Der Entstehungsgeschichte folgend beginnen wir mit der ersten Option, der kurzzeitigen Lagerung. Wenn wir einen Ort verlassen und Gegenstände bzw. Geräte zurücklassen müssen, können wir diese in eine oder mehrere Folien/Beutel einpacken und diese am besten in einer von allen Seiten durchsichtigen Box einlagern. Danach füllen wir die Box etwas mit unserer bunten Mischung, mindestens soweit, dass eine ausreichend dicke Schicht über unseren Geräten ist. Auf der Box können wir zuvor ein Raster einzeichnen, um einen Vergleich auf einzelne (dem Angreifer unbekannte) Flächen in diesem Raster zu beschränken oder einen Gesamtvergleich vornehmen. Die Box sollte so gelagert werden, dass z. B. Erschütterungen oder andere Faktoren möglichst nicht das Ausgangsmuster verändern. Dabei kann die Box z. B. auf einem Handtuch oder Kleidungsstück so auf einem Gegenstand positioniert werden, dass dieses kleinere Erschütterungen der Umgebung abschwächt, die Box jedoch von diesem nicht herunter rutschen kann. Um gute Aufnahmen des Ausgangsmusters zu machen, sollte die Box von allen sichtbaren Seiten fotografiert werden. Diese Aufnahme kann auf einem möglichst sicheren Gerät gespeichert werden, an eine von uns vertraute Person über einen verschlüsselten und verifizierten Weg übermittelt werden oder an ein anderes eigenes Gerät gesendet werden. Um in Anschluss zu überprüfen, ob das Ausgangsmuster immer noch das aktuelle Muster aufweist, kann ein neues Foto angefertigt werden und/oder der vorgefundene Zustand mit dem Foto des Ausgangsmusters verglichen werden.
+Der Entstehungsgeschichte folgend, beginnen wir mit dem ersten Anwendungsfall, der kurzzeitigen Lagerung. Wenn wir einen Ort verlassen und Gegenstände bzw. Geräte zurücklassen müssen, können wir diese in einer von allen Seiten durchsichtigen Box einlagern. Danach füllen wir die Box mit unserer bunten Mischung, sodass sich eine ausreichend dicke Schicht über unseren Geräten befindet. Die Box sollte so gelagert werden, dass Erschütterungen oder andere Faktoren möglichst nicht das Ausgangsmosaik verändern. Dabei kann die Box z. B. auf einem Handtuch oder Kleidungsstück so auf einem Gegenstand positioniert werden, dass dieses kleinere Erschütterungen der Umgebung abschwächt, die Box jedoch von diesem nicht herunter rutschen kann.
 
-Wir empfehlen an dieser Stelle eine Kombination mit [Haven](https://guardianproject.github.io/haven/). Sollte das Gerät ausfallen oder es Probleme bei den Sensoren oder der Übertragung geben, besteht dennoch mindestens eine weitere Schicht unserer Schutzmaßnahmen.
+Für einen Gesamtvergleich können wir die Box von allen sichtbaren Seiten fotografieren. Diese Aufnahmen können auf einem möglichst sicheren Gerät gespeichert werden, an eine von uns vertraute Person über einen verschlüsselten und verifizierten Weg übermittelt werden oder an ein anderes eigenes Gerät gesendet werden. Im gilt es, das vorgefundene Mosaik mit dem Ausgangsmosaik zu vergleichen. Auf den Wänden der Box können wir zuvor ein Raster einzeichnen, um den Vergleich auf einzelne (einem Angreifer unbekannte) Flächen zu beschränken.
+
+Um einen Gegenstand vor Schäden, z. B. durch Abfärben oder durch das Eindringen der Substanz etwa in die Anschlüsse eines Laptops, zu schützen, kann er in Frischhaltefolie, einen Beutel oder anderweitig eingepackt werden.
+
+Eine Kombination mit [Haven](https://guardianproject.github.io/haven/) als zusätzliche Sicherheitsschicht kann an dieser Stelle empfehlenswert sein.
 
 ### Längerfristige Lagerung oder Versand
 
-Insbesondere für den Versand scheint es uns eine sehr gut geeignete Methode zu sein, um von den Betroffenen unautorisierte Zugriffe auf deren schützenswerte Inhalte feststellen zu können. Bei nahezu jeder Versandmethode mit Dritten sind mehrere uns unbekannte Personen und Orte eingebunden.
+Insbesondere beim Versand sensibler Gegenstände sehen wir den Bedarf, unautorisierte Zugriffe feststellen zu können. Bei nahezu jeder Versandmethode sind uns unbekannte Personen und Orte eingebunden.
 
-Da die Elemente wie oben vorgeschlagen ihre Position beim Transport nicht halten würden, bedarf es eines anderen Verfahrens. Das Gerät bzw. der Gegenstand werden mit Frischhaltefolie, einem Beutel oder anderweitig eingepackt. Damit soll ein Schaden am Gerät/Gegenstand verhindert werden, der z. B. durch Abfärben oder Eindringen von Elementen (z. B. in Anschlüsse am Handy/Laptop) entstehen könnte. Diese Schutzschicht sollte möglichst wenig zusätzlichen Platz in Anspruch nehmen. Der so verpackte Gegenstand bzw. das Gerät kommen jetzt in eine leere oder zum Teil gefüllten Beutel. Dieser Beutel wird mit weiteren Elementen gefüllt, sodass der Gegenstand bzw. das Gerät möglichst von allen Seiten ausreichend mit Elementen versehen ist und das Objekt selbst nicht mehr von außen eingesehen werden kann.
-
-Dieser mit bunten Elementen gefüllte Beutel wird im Anschluss vakuumiert. Dadurch werden diese an der jeweiligen Position gehalten. Sobald die Hülle beschädigt wird und ein Druckausgleich stattfindet, spätestens aber wenn ein Zugriff auf das umschlossene Objekt erfolgt, ändern die Elemente ihre Position.
+Da die farbigen Elemente im obigen Vorschlag ihre Position beim Transport nicht halten würden, ändern wir das Verfahren. Der Gegenstand kommt jetzt in eine luftundurchlässige Hülle. Diese wird mit unserer bunten Substanz gefüllt, sodass der Gegenstand möglichst von allen Seiten verdeckt ist, und im Anschluss vakuumiert. Dadurch werden die farbigen Elemente an ihrer Position gehalten. Falls die Hülle beschädigt wird und ein Druckausgleich stattfindet, spätestens aber wenn ein Zugriff auf das umschlossene Objekt erfolgt, ändern die Elemente ihre Position.
 
 #### Vakuumieren mit dem Staubsauger
 
-Da viele Personen Staubsauger (es gibt sogar öffentliche an einigen Tankstellen) haben, steht dieses Verfahren für uns an erster Stelle. Für Staubsauger gibt es spezielle, wiederverwendbare Beutel, um z. B. Kleidung oder Decken platzsparend und zum Schutz vor Schäden (z. B. durch Motten) lagern zu können. Dabei kann die Luft innerhalb des Beutels durch ein Ventil und mit dem Staubsauger entfernt werden. Durch den dabei entstehenden Unterdruck verringert sich z. B. das Volumen von Decken in diesen Beuteln erheblich. Leider konnten wir nur größere Beutel finden, die sich z. B. gut für Laptops eignen, jedoch weniger für kleine Gegenstände.
+Da viele Personen Staubsauger besitzen und es auch öffentliche Staubsauger an Tankstellen gibt, steht dieses Verfahren für uns an erster Stelle. Es gibt spezielle, wiederverwendbare Vakuumbeutel, um z. B. Kleidung und Decken platzsparend und geschützt zu lagern. Die Luft aus dem Beutel wird dabei mit dem Staubsauger oder einer Handpumpe durch ein Ventil entfernt. Im Handel sind nur größere Beutel erhältlich, die sich z. B. gut für Laptops eignen, jedoch weniger für kleine Gegenstände.
 
 ![Thinkpad unter buntem Reis im Staubsaugerbeutel](../assets/images/tamper-evident-protection/vakuum_04.jpg)
 
 #### Vakuumieren mit einem Vakuumiergerät
 
-Es gibt viele verschiedene Vakuumiergeräte, diese unterscheiden sich in Qualität und Größe. Vakuumiergeräte werden beispielsweise verwendet, um Lebensmittel länger frisch zu halten. Die passenden Beutel dafür gibt es in alle gewünschten Größen, wobei diese nicht so einfach bzw. nur mit Materialverlust wiederverwendet werden können.
+Es gibt viele verschiedene Vakuumiergeräte, die sich in Qualität und Größe unterscheiden. Vakuumiergeräte werden beispielsweise verwendet, um Lebensmittel länger frisch zu halten. Passenden Beutel gibt es in vielen Größen, sie können aber nicht so einfach bzw. nur mit Materialverlust wiederverwendet werden.
 
 ![Rote Linsen & Belugalinsen](../assets/images/tamper-evident-protection/vakuum_01.jpg)
+
 ![bunter Reis](../assets/images/tamper-evident-protection/vakuum_02.jpg)
 
-Bei beiden Verfahren kann man die Beuteln mit den Elementen auch kaskadieren. Dafür wird der Vorgang wie oben beschrieben einmal durchgeführt: Gegenstand/Gerät in dem Beutel mit den Elemente vakuumieren. Das Ergebnis des ersten Vorgangs wird nach der Speicherung der Bilder erneut in einen Beutel mit weiteren Elementen gegeben und vakuumiert.
+#### Kaskadierung
+
+Bei beiden Verfahren lassen sich die Beuteln mit den Elementen auch kaskadieren. Dafür wird das Ergebnis des ersten Vorgangs nach dem Fotografieren erneut in einen Beutel mit weiteren Elementen gegeben und vakuumiert.
 
 ![bunter Reis und Linsenmischung kaskadiert](../assets/images/tamper-evident-protection/kaskadieren_01.jpg)
 
-Gab es eine Veränderung von einem oder mehreren Elementen innerhalb des Musters, sollte ggf. von einem unautorisierten Zugriff bzw. einer Kompromitierung ausgegangen werden. Wobei diese Einschätzung je nach Faktoren der Situation und des individuellen Schutzbedürfnis zu treffen ist. Vielleicht war auch nur das eigene Haustier oder ein Familienmitglied etwas neugierig, was es mit der bunten Mischung auf dem Tisch auf sich hat oder die Schweißnaht der Tüte war etwas undicht.
+### Auswertung
+
+Gab es eine Veränderung von einem oder mehreren Elementen innerhalb des Mosaiks, sollte ggf. von einem unautorisierten Zugriff bzw. einer Kompromittierung ausgegangen werden. Die Beurteilung ist in Abhängigkeit der Situation und des individuellen Schutzbedürfnisses zu treffen. Vielleicht war auch nur das eigene Haustier oder ein Familienmitglied etwas neugierig, was es mit der bunten Mischung auf sich hat, oder ein Beutel war undicht.
 
 Manche Unternehmen verzichten bewusst auf bestimmte Verfahren zur Manipulationssicherung. [So verweist Ledger](https://support.ledger.com/hc/en-us/articles/4404389367057-Is-my-Ledger-device-genuine-?#h_d3e66427-a745-46c6-b1bf-3b7f52ba8ed4), die Herstellerfirma des gleichnamigen Hardware-Wallets für Kryptowährungen, auf die Fälschbarkeit von Siegeln und beschränkt sich auf [hardwareseitige Schutzmaßnahmen](https://support.ledger.com/hc/en-us/articles/4404382029329-Check-hardware-integrity):
 
 > **Anti-tamper seals**
+>
 > Ledger deliberately chooses not to use anti-tamper seals on its packaging. These seals are easy to counterfeit and can,
 > therefore, be misleading. Rather, genuine Ledger devices contain a secure chip that prevents physical tampering: this
 > provides stronger security than any sticker possibly could.
@@ -213,6 +215,6 @@ Andere Unternehmen suchen nach Verbesserungsmöglichkeiten. So haben wir nach un
 
 ## Danksagung und Partizipation
 
-Wir möchten uns an dieser Stelle bei allen bedanken die uns hierbei unterstützt haben. Dieser Dank gilt insbesondere jenen die uns Vakuumiergeräte zur Verfügung gestellt haben, Mullvad VPN für den Glitzer-Nagellack, sowie Nitrokey und Purism für den Austausch zum versiegeln mit Nagellack.
+Wir möchten uns an dieser Stelle bei allen bedanken die uns hierbei unterstützt haben. Dieser Dank gilt insbesondere jenen, die uns Vakuumiergeräte zur Verfügung gestellt haben, Mullvad VPN für den Glitzer-Nagellack sowie Nitrokey und Purism für den Austausch zum Versiegeln mit Nagellack.
 
-Solltest du weitere Ideen, Hinweise oder Verbessrungsvorschläge haben [schreib uns gerne](https://proxysto.re/kontakt.html) oder arbeite mit uns auf [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection) an diesem Projekt.
+Solltest du weitere Ideen, Hinweise oder Verbessrungsvorschläge haben, dann [schreib uns gerne](https://proxysto.re/kontakt.html) oder arbeite mit uns auf [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection) an diesem Projekt.
