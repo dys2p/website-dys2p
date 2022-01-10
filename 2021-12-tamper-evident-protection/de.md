@@ -4,7 +4,7 @@ Die Geschichte der Menschheit ist auch eine Geschichte von Geheimnissen, Angriff
 
 Wenn wir Gegenstände bzw. Geräte außerhalb unser Sicht haben, können wir nicht ausschließen, dass es unerwünschte/unautorisierte Zugriffe darauf gab und womöglich die Vertraulichkeit und Integrität nicht mehr besteht. Wenn es einen unautorisierten Zugriff(sversuch) gab, ist es im Interesse der Betroffenen (Eigentümer/Besitzer/Sender/Empfänger), von diesem zu erfahren, um etwaige Folgemaßnahmen einzuleiten und sich nicht in falscher Sicherheit zu wähnen.
 
-Seit Jahrtausenden werden Siegel in diversen Formen mit dem Ziel verwendet, die Vertraulichkeit und Integrität etwa von Briefen zu bescheinigen. Ähnlich alt sind die Angriffe auf diese Schutzmaßnahmen. Dies setzt sich bis heute fort, doch erfolgen diese Angriffe inzwischen auf einem ganz anderen Niveau. Vor allem durch die digitale Kommunikation und die weitreichende Präsenz technischer Geräte sowie die Akkumulation und automatisierte Auswertung von Daten hat sich seitdem viel geändert. Die Hilfsmittel dieser Kommunikation greifen sehr tief in unsere Leben ein, daher sollte auch ihre Vertraulichkeit und Integrität einen sehr hohen Stellenwert einnehmen.
+Seit Jahrtausenden werden Siegel in diversen Formen mit dem Ziel verwendet, die Vertraulichkeit und Integrität etwa von Briefen zu bescheinigen. Ähnlich alt sind die Angriffe auf diese Schutzmaßnahmen. Dies setzt sich bis heute fort, doch erfolgen diese Angriffe inzwischen auf einem ganz anderen Niveau. Vor allem durch die digitale Kommunikation und die weitreichende Präsenz technischer Geräte sowie die Akkumulation und automatisierte Auswertung von Daten hat sich seitdem viel geändert. Moderne Kommunikationsmittel greifen sehr tief in unsere Leben ein, daher sollte auch ihre Vertraulichkeit und Integrität einen sehr hohen Stellenwert einnehmen.
 
 Nachfolgend zeigen wir ein paar Beispiele für diese Angriffe, fassen bekannte Gegenmaßnahmen zusammen und stellen eine neue Methode vor.
 
@@ -33,7 +33,7 @@ In dem verlinkten Artikel werden auch Maßnahmen vorgestellt, die eine derartige
 
 ## Schutzverfahren
 
-Es gibt spezielle Schrauben, Siegel, "fälschungssichere" Labels und Klebeband, "manipulationssichere" Taschen und [vieles mehr](https://www.hhi.fraunhofer.de/abteilungen/fs/projekte/archiv/optical-tamper-protection-otp-fuer-prs-security-module.html), um unautorisierte Zugriffe etwa auf Gegenstände oder auf Inhalte von Sendungen feststellen zu können. Wir gehen davon aus, dass die meisten Verfahren überlistet werden können und für talentierte und ressourcenstarke Angreifer kein Problem darstellen. Wer einen Einblick bekommen mag, kann sich Vorträge wie beispielsweise von der [DEFCON 19: Introduction to Tamper Evident Devices](https://www.youtube.com/watch?v=W07ZpEv9Sog) ansehen. Mehr dazu erfährt man auch in den Arbeiten von Sergei Skorobogatov (Physical Attacks and Tamper Resistance. Introduction to Hardware Security and Trust, 143–173, `doi:10.1007/978-1-4419-8080-9_7`) und [Elena Dubrova](https://people.kth.se/~msmith/is2500_pdf/Anti-Tamper%20Techniques_elena.pdf). Es gibt auch Wettbewerbe, in denen es darum geht, möglichst viele dieser Schutzmaßnahmen zu umgehen. So geben uns Mos & Boo Einblicke von der [OzSecCon 2018 Tamper Evident Challenge](https://mosandboo.com/ozseccon-2018-tamper-evident-challenge-walkthrough/).
+Es gibt spezielle Schrauben, Siegel, "fälschungssichere" Labels und Klebeband, "manipulationssichere" Taschen und [vieles mehr](https://www.hhi.fraunhofer.de/abteilungen/fs/projekte/archiv/optical-tamper-protection-otp-fuer-prs-security-module.html), um unautorisierte Zugriffe etwa auf Gegenstände oder auf Inhalte von Sendungen feststellen zu können. Wir gehen davon aus, dass die meisten Verfahren überlistet werden können und für talentierte und ressourcenstarke Angreifer kein Problem darstellen. Wer einen Einblick bekommen mag, kann sich Vorträge wie beispielsweise von der [DEFCON 19: Introduction to Tamper Evident Devices](https://www.youtube.com/watch?v=W07ZpEv9Sog) ansehen. Mehr dazu erfährt man auch in den Arbeiten von Sergei Skorobogatov (Physical Attacks and Tamper Resistance. Introduction to Hardware Security and Trust, 143-173, `doi:10.1007/978-1-4419-8080-9_7`) und [Elena Dubrova](https://people.kth.se/~msmith/is2500_pdf/Anti-Tamper%20Techniques_elena.pdf). Es gibt auch Wettbewerbe, in denen es darum geht, möglichst viele dieser Schutzmaßnahmen zu umgehen. So geben uns Mos & Boo Einblicke von der [OzSecCon 2018 Tamper Evident Challenge](https://mosandboo.com/ozseccon-2018-tamper-evident-challenge-walkthrough/).
 
 Manche Unternehmen verzichten bewusst auf bestimmte Verfahren zur Manipulationssicherung. [So verweist Ledger](https://support.ledger.com/hc/en-us/articles/4404389367057-Is-my-Ledger-device-genuine-?#h_d3e66427-a745-46c6-b1bf-3b7f52ba8ed4), die Herstellerfirma des gleichnamigen Hardware-Wallets für Kryptowährungen, auf die Fälschbarkeit von Siegeln und beschränkt sich auf [hardwareseitige Schutzmaßnahmen](https://support.ledger.com/hc/en-us/articles/4404382029329-Check-hardware-integrity):
 
@@ -45,7 +45,7 @@ Manche Unternehmen verzichten bewusst auf bestimmte Verfahren zur Manipulationss
 
 Nachdem im Jahr 2020 ein Akteur Kundendaten verbreitet hat, erhielten mehrere Ledger-Kunden im Frühjahr 2021 [manipulierte angebliche Ersatzgeräte](https://www.nasdaq.com/articles/inside-the-scam%3A-victims-of-ledger-hack-are-receiving-fake-hardware-wallets-2021-06-17) per Post.
 
-Andere Unternehmen suchen nach Verbesserungsmöglichkeiten. So haben wir nach unseren Tests [die Arbeiten von shiftcrypto](https://shiftpages.github.io/tamper-evident-packaging/#how-it-works) gefunden und uns gefreut, dass diese teilweise ähnliche Ansätze verfolgen. Mehr zu ihren Erfahrungen während der Testphase kann man [in diesem Rückblick](https://medium.com/shiftcrypto/bitboxtep-alpha-program-what-we-have-learned-cd2e1a1bbd6c) nachlesen.
+Andere Unternehmen suchen nach Verbesserungsmöglichkeiten. So haben wir nach unseren Experimenten [die Arbeiten von shiftcrypto](https://shiftpages.github.io/tamper-evident-packaging/#how-it-works) gefunden und uns gefreut, dass diese teilweise ähnliche Ansätze verfolgen. Mehr zu ihren Erfahrungen während der Testphase kann man [in diesem Rückblick](https://medium.com/shiftcrypto/bitboxtep-alpha-program-what-we-have-learned-cd2e1a1bbd6c) nachlesen.
 
 ### Glitzer-Nagellack
 
@@ -55,9 +55,9 @@ Wir haben selbst ein paar Versuche unternommen, um die Wirksamkeit dieses Verfah
 
 #### Glitzer-Nagellack mit Aufklebern
 
-Bei dem von [Mullvad VPN beschriebenen Verfahren](https://mullvad.net/en/help/how-tamper-protect-laptop/) schützt ein Aufkleber, dessen Rand mit [Glitzer-Nagellack](https://shop.proxysto.re/conf/501) versiegelt wird, die Schrauben (oder ungenutzte Ports), um so einerseits Zugriffsversuche feststellen zu können und anderseits bei Bedarf möglichst einfach wieder Zugang dazu zu erhalten. Bei diesem Verfahren ist es jedoch ohne große Übung relativ einfach möglich, z. B. mit einer Nadel oder einem Skalpell unter den Aufkleber zu fahren und diesen zum Teil nach oben zu schieben, um an die Schrauben zu kommen. Die Bruchstellen im Lack könnten mit Klarlack repariert werden, wobei dies uns bei unseren Versuchen meist nicht erforderlich war. Wir haben bei unserem Test bisher zwei verschiedene Aufkleber verwendet, wobei der von Mullvad am besten hielt.
+Bei dem von [Mullvad VPN beschriebenen Verfahren](https://mullvad.net/en/help/how-tamper-protect-laptop/) schützt ein Aufkleber, dessen Rand mit [Glitzer-Nagellack](https://shop.proxysto.re/conf/501) versiegelt wird, die Schrauben (oder ungenutzte Ports), um so einerseits Zugriffsversuche feststellen zu können und anderseits bei Bedarf einfach wieder Zugang dazu zu erhalten. Bei diesem Verfahren ist es jedoch ohne große Übung relativ einfach möglich, z. B. mit einer Nadel oder einem Skalpell unter den Aufkleber zu fahren und diesen zum Teil nach oben zu schieben, um an die Schrauben zu kommen. Die Bruchstellen im Lack könnten mit Klarlack repariert werden, wobei dies uns bei unseren Versuchen meist nicht erforderlich war. Wir haben bei unseren Versuchen bisher zwei verschiedene Aufkleber verwendet, wobei der von Mullvad am besten hielt.
 
-Das nachfolgende Bild ist eine Vorher-Nachher-Aufnahme eines unserer ersten Versuche. Bis auf 3-4 Glitzer-Elemente am Rand (links oben) des Aufkleber sind alle weiteren nach wie vor an der gleichen Stelle. In folgenden Versuchen konnte dies weiter reduziert werden, sodass wir dieses Verfahren nur als bedingt geeignet einstufen.
+Das nachfolgende Bild ist eine Vorher-Nachher-Aufnahme eines unserer ersten Versuche. Bis auf 3-4 Glitzer-Elemente am linken oberen Rand des Aufklebers sind alle weiteren nach wie vor an der gleichen Stelle. In folgenden Versuchen konnte dies weiter reduziert werden, sodass wir dieses Verfahren nur als bedingt geeignet einstufen.
 
 ![Vergleich](../assets/images/tamper-evident-protection/vergleich_versiegelt.png)
 
@@ -65,7 +65,7 @@ Die linke Aufnahme zeigt eine mit dem Nagellack von Mullvad VPN versiegelte Schr
 
 #### Glitzer-Nagellack direkt
 
-Diese Methode wird beispielsweise von [Nitrokey](https://docs.nitrokey.com/de/nitropad/qubes/sealed-hardware.html) und [Purism](https://puri.sm/posts/anti-interdiction-update-six-month-retrospective/) verwendet und ist im Vergleich zum vorherigen Verfahren aus unserer Sicht sicherer. Dabei werden die Schrauben direkt mit Glitzer-Nagellack versiegelt. Hierbei sind die Schächte der Schrauben besonders relevant. Ist ein Schacht zu tief, ist es schwer, unter normalen Bedingungen ein brauchbares Foto der Versiegelung zu machen. Ist der Schacht flach oder wird er vollständig mit Nagellack gefüllt, besteht die Gefahr, dass bei der Verwendung von viel Lack die obere Schicht abgeschnitten wird und nach der Manipulation mit Klarlack wieder angebracht wird. Falls jedoch zu wenig Elemente verwendet werden, könnten diese nach der Manipulation ggf. manuell wieder an der Ausgangsstelle angeordnet werden. Wie [HoodiePony](https://twitter.com/hoodiePony) bei der _OzSecCon 2018 Tamper Evident Challenge_ vorgegangen ist, um drei von vier Siegeln erfolgreich zu brechen und wieder anzubringen, ist uns leider aktuell nicht bekannt.
+Diese Methode wird u. a. von [Nitrokey](https://docs.nitrokey.com/de/nitropad/qubes/sealed-hardware.html) und [Purism](https://puri.sm/posts/anti-interdiction-update-six-month-retrospective/) verwendet und ist im Vergleich zum vorherigen Verfahren aus unserer Sicht sicherer. Dabei werden die Schrauben direkt mit Glitzer-Nagellack versiegelt. Hierbei sind die Schächte der Schrauben besonders relevant. Ist ein Schacht zu tief, ist es schwer, unter normalen Bedingungen ein brauchbares Foto der Versiegelung zu machen. Ist der Schacht flach oder wird er vollständig mit Nagellack gefüllt, besteht die Gefahr, dass bei der Verwendung von viel Lack die obere Schicht abgeschnitten und nach der Manipulation mit Klarlack wieder angebracht werden kann. Falls der Nagellack zu wenige Elemente enthält, könnten diese nach der Manipulation ggf. manuell wieder an der Ausgangsstelle angeordnet werden. Wie [HoodiePony](https://twitter.com/hoodiePony) bei der _OzSecCon 2018 Tamper Evident Challenge_ vorgegangen ist, um drei von vier Siegeln erfolgreich zu brechen und wieder anzubringen, ist uns leider aktuell nicht bekannt.
 
 #### Glitzer-Nagellack mit Klebstoff
 
@@ -83,13 +83,13 @@ Eine Alternative zum Versiegeln ist das Einbetten des ganzen Gegenstands in eine
 
 Die gesuchte Mischung sollte:
 
-- nicht zu fein sein, damit die einzelnen Elemente gut erkennbar sind
+- nicht zu feinkörnig sein, damit die einzelnen Elemente gut erkennbar sind
 - nicht zu grob sein, damit es möglichst schwer ist, das Mosaik zu reproduzieren
 - aus verschiedenfarbigen und/oder verschieden großen Elementen bestehen, um ein möglichst kontrastreichen Mosaik zu ergeben
 - aus möglichst runden Elementen bestehen, um nicht zu verkanten
 - möglichst trocken sein und nicht zu Klumpenbildung bzw. zum Verkleben neigen
 - einfach und preisgünstig zu beschaffen sein
-- fest sein, um im Falle einer Beschädigung (z. B. eines Risses) den geschütze Inhalt nicht beschädigen (Ggf. kann der zu schützende Inhalt gesondert geschützt werden, um ein Eindringen der Substanz zu verhindern).
+- fest sein, um im Fall eines Austretens keinen Schaden anzurichten
 - keine scharfen Kanten oder spitzen Ecken haben, die Schäden verursachen können
 - nicht zu schwer sein, z. B. um Versandkosten zu sparen
 
@@ -111,7 +111,7 @@ Sowohl die gelben Erbsen als auch die weißen Bohnen haben eine gute Größe, ei
 
 ![Reis](../assets/images/tamper-evident-protection/reis_01.jpg)
 
-Der Reis ist etwas kleiner als die beiden zuvor genannten Substanzen. Er hat jedoch den Vorteil, dass man sich die gewünschten Farben selbst mit Lebensmittelfarbe (mehr dazu weiter unten) zusammenstellen kann.
+Der Reis ist etwas feinkörniger als die beiden zuvor genannten Substanzen. Er hat jedoch den Vorteil, dass man sich die gewünschten Farben selbst mit Lebensmittelfarbe (mehr dazu weiter unten) zusammenstellen kann.
 
 #### Goldhirse
 
@@ -123,7 +123,7 @@ Hirse haben wir auf Grund seiner geringen Größe nur in Kombination mit anderen
 
 ![Vogelfutter](../assets/images/tamper-evident-protection/vogelfutter_01.jpg)
 
-Vogelfutter hat den Vorteil, dass es beispielsweise in kleineren Beuteln relativ normal aussieht und sein Geheimnis dadurch möglicherweise vor Angreifern verbergen kann. Je nach Zusammensetzung kann es jedoch verkleben.
+Vogelfutter hat den Vorteil, dass es in kleineren Beuteln relativ normal aussieht und sein Geheimnis dadurch möglicherweise vor Angreifern verbergen kann. Je nach Zusammensetzung kann es jedoch verkleben.
 
 #### Kugeln aus verschiedenen Farben, Größen und Materialien
 
@@ -153,7 +153,7 @@ Die Maisstärke haben wir mit Lebensmittelfarben gefärbt (mehr dazu weiter unte
 
 ![kinetischer Sand](../assets/images/tamper-evident-protection/ksand_01.jpg)
 
-Kinetischen Sand (auch als Modelliersand bezeichnet) erachten wir als unzweckmäßig. Er ist relativ kostenintensiv, in einer einzelnen Farbe ungeeignet, nach mehrmaligem Durchmischen mehrerer Farben sieht alles gleich aus, sodass sich nicht mehr feststellen lässt, ob es einen Zugriffsversuch gab oder nicht.
+Kinetischen Sand (auch als Modelliersand bezeichnet) erachten wir als unzweckmäßig. Er ist relativ kostenintensiv, in einer einzelnen Farbe ungeeignet, und nach mehrmaligem Durchmischen mehrerer Farben sieht alles gleich aus, sodass sich nicht mehr feststellen lässt, ob es einen Zugriffsversuch gab oder nicht.
 
 ### Färben mit Lebensmittelfarbe
 
@@ -162,7 +162,7 @@ Kinetischen Sand (auch als Modelliersand bezeichnet) erachten wir als unzweckmä
 Wir haben zwei verschiedene Lebensmittelfarben getestet. Die Farben von _V2 Foods_ finden wir aufgrund der höheren Farbintensität besser als die von _Limino_. Dabei war das Vorgehen immer ähnlich:
 
 1. Circa 15 Tropfen Lebensmittelfarbe zu 125 g Substanz geben.
-2. 0,5 Teelöffel Wasser dazugeben (außer bei Salz und Zucker).
+2. einen halben Teelöffel Wasser dazugeben (außer bei Salz und Zucker).
 3. In einem geschlossenen Beutel oder einer Box gut durchmischen.
 4. Sollte die gewünschte Farbintensität noch nicht erreicht sein, noch ein paar Tropfen Lebensmittelfarbe hinzugeben. Nicht zu viel, da die Substanz sonst verkleben oder verklumpen kann.
 5. Die gefärbte Substanz auf einem Teller, auf Backpapier oder in einer Box ausbreiten und an der Luft trocknen lassen.
@@ -175,9 +175,9 @@ Neben normaler Lebensmittelfarbe könnten Teile der Substanz auch mit fluoreszie
 
 ### Kurzzeitige Lagerung
 
-Der Entstehungsgeschichte folgend, beginnen wir mit dem ersten Anwendungsfall, der kurzzeitigen Lagerung. Wenn wir einen Ort verlassen und Gegenstände bzw. Geräte zurücklassen müssen, können wir diese in einer von allen Seiten durchsichtigen Box einlagern. Danach füllen wir die Box mit unserer bunten Mischung, sodass sich eine ausreichend dicke Schicht über unseren Geräten befindet. Die Box sollte so gelagert werden, dass Erschütterungen oder andere Faktoren möglichst nicht das Ausgangsmosaik verändern. Dabei kann die Box z. B. auf einem Handtuch oder Kleidungsstück so auf einem Gegenstand positioniert werden, dass dieses kleinere Erschütterungen der Umgebung abschwächt, die Box jedoch von diesem nicht herunter rutschen kann.
+Der Entstehungsgeschichte folgend, beginnen wir mit dem ersten Anwendungsfall, der kurzzeitigen Lagerung. Wenn wir einen Ort verlassen und Gegenstände bzw. Geräte zurücklassen müssen, können wir diese in einer von allen Seiten durchsichtigen Box einlagern. Danach füllen wir die Box mit unserer bunten Mischung, sodass unsere Geräten bedeckt sind. Die Box sollte so gelagert werden, dass Erschütterungen oder andere Faktoren möglichst nicht das Ausgangsmosaik verändern. Dabei kann die Box z. B. auf einem Handtuch oder Kleidungsstück so auf einem Gegenstand positioniert werden, dass dieses kleinere Erschütterungen der Umgebung abschwächt, die Box jedoch von diesem nicht herunter rutschen kann.
 
-Für einen Gesamtvergleich können wir die Box von allen sichtbaren Seiten fotografieren. Diese Aufnahmen können auf einem möglichst sicheren Gerät gespeichert werden, an eine von uns vertraute Person über einen verschlüsselten und verifizierten Weg übermittelt werden oder an ein anderes eigenes Gerät gesendet werden. Im gilt es, das vorgefundene Mosaik mit dem Ausgangsmosaik zu vergleichen. Auf den Wänden der Box können wir zuvor ein Raster einzeichnen, um den Vergleich auf einzelne (einem Angreifer unbekannte) Flächen zu beschränken.
+Für einen Gesamtvergleich können wir die Box von allen sichtbaren Seiten fotografieren. Diese Aufnahmen können auf einem möglichst sicheren Gerät gespeichert werden, an eine von uns vertraute Person über einen verschlüsselten und verifizierten Weg übermittelt werden oder an ein anderes eigenes Gerät gesendet werden. Im Anschluss gilt es, das vorgefundene Mosaik mit dem Ausgangsmosaik zu vergleichen. Auf den Wänden der Box können wir zuvor ein Raster einzeichnen, um den Vergleich auf einzelne (einem Angreifer unbekannte) Flächen zu beschränken.
 
 Um einen Gegenstand vor Schäden, z. B. durch Abfärben oder durch das Eindringen der Substanz etwa in die Anschlüsse eines Laptops, zu schützen, kann er in Frischhaltefolie, einen Beutel oder anderweitig eingepackt werden.
 
