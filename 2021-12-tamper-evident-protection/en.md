@@ -1,4 +1,4 @@
-# Tamper-evident Protection
+# Random Mosaic – Detecting unauthorized physical access with beans, lentils and colored rice
 
 The history of mankind is also a history of secrets, attacks and defense of the confidential. Steganography, cryptography and technical tools support us in protecting the private. The antagonists of confidentiality operate - depending on the actor - outside or inside legal frameworks, often adapting them with bogus arguments.
 

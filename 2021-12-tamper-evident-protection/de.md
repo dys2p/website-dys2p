@@ -1,4 +1,4 @@
-# Tamper-evident Protection
+# Random Mosaic – Erkennung unautorisierter physischer Zugriffe mit Bohnen, Linsen und buntem Reis
 
 Die Geschichte der Menschheit ist auch eine Geschichte von Geheimnissen, Angriffen und der Verteidigung des Vertraulichen. Steganografie, Kryptografie und technische Hilfsmittel unterstützen uns bei der Wahrung des Privaten. Die Gegenspieler der Vertraulichkeit arbeiten – je nach Akteur – außerhalb oder innerhalb rechtlicher Rahmenbedingungen und passen sich diese oft mit Scheinargumenten an.
 

@@ -28,7 +28,7 @@
 ### Projekte
 
 * [Mnemonische deutsche Wortlisten](https://github.com/dys2p/wordlists-de)
-* [Random Mosaic - unautorisierte physische Zugriffe erkennen](2021-12-tamper-evident-protection.html)
+* [Random Mosaic – Erkennung unautorisierter physischer Zugriffe mit Bohnen, Linsen und buntem Reis](2021-12-tamper-evident-protection.html)
 
 #### Übersetzungen
 
