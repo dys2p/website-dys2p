@@ -207,7 +207,7 @@ Es gibt viele verschiedene Vakuumiergeräte, die sich in Qualität und Größe u
 
 Bei beiden Verfahren lassen sich die Beuteln mit den Elementen auch kaskadieren. Dafür wird das Ergebnis des ersten Vorgangs nach dem Fotografieren erneut in einen Beutel mit weiteren Elementen gegeben und vakuumiert.
 
-![bunter Reis und Linsenmischung kaskadiert](../assets/images/tamper-evident-protection/kaskadieren_01.jpg)
+![Bunter Reis und Linsenmischung kaskadiert](../assets/images/tamper-evident-protection/kaskadieren_01.jpg)
 
 ### Auswertung
 

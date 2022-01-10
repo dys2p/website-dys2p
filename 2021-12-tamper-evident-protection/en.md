@@ -187,34 +187,34 @@ A combination with [Haven](https://guardianproject.github.io/haven/) as an addit
 
 Especially when shipping sensitive items, we see the need to be able to detect unauthorized access. Almost every shipping method involves people and locations unknown to us.
 
-Since the colored items in the above proposal would not hold their position during transport, we change the procedure. The item now goes into an air-impermeable envelope. This is filled with our colored substance so that the object is covered from all sides as far as possible, and then vacuumed. This holds the colored elements in place. If the envelope is damaged and pressure equalization takes place, but at the latest when the enclosed object is accessed, the elements change their position.
+Since the colored elements in the above proposal would not hold their position during transport, we change the procedure. Our object now goes into an air-impermeable wrapping. This is filled with our colored substance so that the object is covered from all sides as far as possible, and is then vacuumed. This holds the colored substance in place. If the wrapping is damaged and pressure equalization takes place, but at the latest when the enclosed object is accessed, the elements change their position.
 
 #### Vacuuming with a vacuum cleaner
 
-Since many people own vacuum cleaners and there are also public vacuum cleaners at gas stations, this method is our first priority. There are special reusable vacuum bags to store e.g. clothes and blankets in a space-saving and protected way. The air from the bag is removed with a vacuum cleaner or a hand pump through a valve. Only larger bags are available commercially, which are well suited for laptops, for example, but less so for small items.
+Since many people own vacuum cleaners and there are also public vacuum cleaners at gas stations, this method is our first priority. There are special reusable vacuum bags to store e.g. clothes and blankets in a space-saving and protected way. The air from the bag is removed with a vacuum cleaner or a hand pump through a valve. Commercially available bags are quite large, so they are well suited for laptops, for example, but less suited for small objects.
 
 ![Thinkpad under colored rice in the vacuum cleaner bag](../assets/images/tamper-evident-protection/vakuum_04.jpg)
 
 #### Vacuuming with a vacuum sealer
 
-There are many different vacuuming devices, which differ in quality and size. Vacuumers are used, for example, to keep food fresh for longer. Suitable bags are available in many sizes, but they cannot be reused easily or only with loss of material.
+There are many different vacuum sealer machines, which differ in quality and size. They are used, for example, to keep food fresh for longer. Suitable bags are available in many sizes, but they cannot be reused easily or only with loss of material.
 
-![red lentils & beluga lentils](../assets/images/tamper-evident-protection/vakuum_01.jpg)
+![Red lentils & Beluga lentils](../assets/images/tamper-evident-protection/vakuum_01.jpg)
 
-![Colorful rice](../assets/images/tamper-evident-protection/vakuum_02.jpg)
+![Colored rice](../assets/images/tamper-evident-protection/vakuum_02.jpg)
 
 #### Cascading
 
-In both processes, the bags containing the elements can also be cascaded. To do this, the result of the first process is placed again in a bag with additional elements after photography and vacuumed.
+In both methods, the bags containing the elements can also be cascaded. To do this, after photographing the result of the first process, it is placed in another bag with additional substance and vacuumed again.
 
-![colorful rice and lentil mixture cascaded](../assets/images/tamper-evident-protection/kaskadieren_01.jpg)
+![Colored rice and lentil mixture cascaded](../assets/images/tamper-evident-protection/kaskadieren_01.jpg)
 
 ### Evaluation
 
-If there was a modification of one or more elements within the mosaic, unauthorized access or compromise should be assumed, if applicable. The assessment should be made depending on the situation and the individual's need for protection. It may just be that one's pet or family member was a bit curious about what the colorful mixture was all about, or a bag was leaking.
+If of one or more elements within the mosaic are modified, unauthorized access or compromise can be assumed. The assessment should be made depending on the situation and the individual need for protection. It may just be that one's pet or family member was a bit curious about what the colorful mixture was all about, or a bag was leaking.
 
 ## Acknowledgements and participation
 
-We would like to take this opportunity to thank everyone who helped us with this project. This thanks goes especially to those who provided us with vacuuming equipment, Mullvad VPN for the glitter nail polish and Nitrokey and Purism for the exchange to seal with nail polish.
+We would like to take this opportunity to thank everyone who helped us with this project. Thanks go especially to those who provided us with vacuum sealing equipment, Mullvad VPN for the glitter nail polish, and Nitrokey and Purism for the exchange on sealing with nail polish.
 
 If you have any further ideas, hints or suggestions for improvement, please [feel free to write us](https://proxysto.re/kontakt.html) or collaborate with us on [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection) on this project.
