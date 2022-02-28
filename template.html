@@ -24,7 +24,7 @@
 						<a class="nav-item nav-link text-dark" href="support.html">{{.Map "de" "Unterstütze uns" "en" "Support us"}}</a>
 					</div>
 					<div class="equal-width-lg text-right">
-						{{range .Locales}}<a class="btn btn-secondary{{if eq . $.Locale}} active{{end}}" href="../{{.}}/{{$.Path}}">{{Caps .}}</a> {{end}}
+						{{range .Locales}}<a class="btn btn-sm btn-secondary{{if eq . $.Locale}} active{{end}}" href="../{{.}}/{{$.Path}}">{{Caps .}}</a> {{end}}
 					</div>
 				</div>
 			</nav>
