@@ -175,9 +175,9 @@ Neben normaler Lebensmittelfarbe könnten Teile der Substanz auch mit fluoreszie
 
 ### Kurzzeitige Lagerung
 
-Der Entstehungsgeschichte folgend, beginnen wir mit dem ersten Anwendungsfall, der kurzzeitigen Lagerung. Wenn wir einen Ort verlassen und Gegenstände bzw. Geräte zurücklassen müssen, können wir diese in einer von allen Seiten durchsichtigen Box einlagern. Danach füllen wir die Box mit unserer bunten Mischung, sodass unsere Geräten bedeckt sind. Die Box sollte so gelagert werden, dass Erschütterungen oder andere Faktoren möglichst nicht das Ausgangsmosaik verändern. Dabei kann die Box z. B. auf einem Handtuch oder Kleidungsstück so auf einem Gegenstand positioniert werden, dass dieses kleinere Erschütterungen der Umgebung abschwächt, die Box jedoch von diesem nicht herunter rutschen kann.
+Der Entstehungsgeschichte folgend, beginnen wir mit dem ersten Anwendungsfall, der kurzzeitigen Lagerung. Wenn wir einen Ort verlassen und Gegenstände bzw. Geräte zurücklassen müssen, können wir diese in einer von allen Seiten durchsichtigen Box einlagern. Danach füllen wir die Box mit unserer bunten Mischung, sodass unsere Geräten bedeckt sind. Die Box sollte so gelagert werden, dass Erschütterungen oder andere Faktoren das Mosaik nicht verändern. Dabei kann die Box z. B. auf einem Handtuch oder Kleidungsstück so auf einem Gegenstand positioniert werden, dass dieses kleinere Erschütterungen der Umgebung abschwächt, die Box jedoch von diesem nicht herunter rutschen kann.
 
-Für einen Gesamtvergleich können wir die Box von allen sichtbaren Seiten fotografieren. Diese Aufnahmen können auf einem möglichst sicheren Gerät gespeichert werden, an eine von uns vertraute Person über einen verschlüsselten und verifizierten Weg übermittelt werden oder an ein anderes eigenes Gerät gesendet werden. Im Anschluss gilt es, das vorgefundene Mosaik mit dem Ausgangsmosaik zu vergleichen. Auf den Wänden der Box können wir zuvor ein Raster einzeichnen, um den Vergleich auf einzelne (einem Angreifer unbekannte) Flächen zu beschränken.
+Für einen Gesamtvergleich können wir die Box von allen sichtbaren Seiten fotografieren und diese Aufnahme auf einem möglichst sicheren Gerät speichern, an eine vertraute Person über einen verschlüsselten und verifizierten Weg übermitteln oder an ein anderes eigenes Gerät senden. Im Anschluss gilt es, das vorgefundene Mosaik mit dem ursprünglichen zu vergleichen. Dafür bietet sich die App [Blink Comparison](https://github.com/proninyaroslav/blink-comparison) an, auf die wir weiter unten eingehen.
 
 Um einen Gegenstand vor Schäden, z. B. durch Abfärben oder durch das Eindringen der Substanz etwa in die Anschlüsse eines Laptops, zu schützen, kann er in Frischhaltefolie, einen Beutel oder anderweitig eingepackt werden.
 
@@ -213,8 +213,16 @@ Bei beiden Verfahren lassen sich die Beuteln mit den Elementen auch kaskadieren.
 
 Gab es eine Veränderung von einem oder mehreren Elementen innerhalb des Mosaiks, sollte ggf. von einem unautorisierten Zugriff bzw. einer Kompromittierung ausgegangen werden. Die Beurteilung ist in Abhängigkeit der Situation und des individuellen Schutzbedürfnisses zu treffen. Vielleicht war auch nur das eigene Haustier oder ein Familienmitglied etwas neugierig, was es mit der bunten Mischung auf sich hat, oder ein Beutel war undicht.
 
+#### Blink Comparison
+
+Mit Apps wie [Blink Comparison](https://github.com/proninyaroslav/blink-comparison) ist es einfach möglich, ein Ursprungsfoto, welches beispielsweise von einem Hersteller aufgenommen, signiert und über einen verschlüsselten Kommunikationsweg an einen Kunden übermittelt wurde, mit einem Foto des Ist-Zustands zu vergleichen. Die App unterstützt einen dabei, das Vergleichsfoto im gleichen Winkel und mit dem gleichen Abstand wie das Ursprungsfoto aufzunehmen.
+
+Danach wechselt Blink Comparison beim Berühren des Bildschirms zwischen beiden Bildern und erleichtert den direkten Vergleich damit erheblich. Dies zeigt die nachfolgende, animierte Grafik. Das rot umrandete Foto ist das Ursprungsfoto. Vor der Aufnahme des Vergleichsfotos wurde eine schwarze Linse im unteren linken Bereich entfernt und dabei eine weitere Linse ein kleines Stück verschoben. Die Veränderung des Musters zwischen Ursprungsfoto und Vergleichsfoto ist schnell und gut sichtbar.
+
+![Blink Comparison](../assets/images/tamper-evident-protection/blink.webp)
+
 ## Danksagung und Partizipation
 
-Wir möchten uns an dieser Stelle bei allen bedanken die uns hierbei unterstützt haben. Dieser Dank gilt insbesondere jenen, die uns Vakuumiergeräte zur Verfügung gestellt haben, Mullvad VPN für den Glitzer-Nagellack sowie Nitrokey und Purism für den Austausch zum Versiegeln mit Nagellack.
+Wir möchten uns an dieser Stelle bei allen bedanken, die uns hierbei unterstützt haben. Dieser Dank gilt insbesondere jenen, die uns Vakuumiergeräte zur Verfügung gestellt haben, Mullvad VPN für den Glitzer-Nagellack, Nitrokey und Purism für den Austausch zum Versiegeln mit Nagellack und [Insurgo](https://insurgo.ca) für den Hinweis zu Blink Comparison.
 
 Solltest du weitere Ideen, Hinweise oder Verbessrungsvorschläge haben, dann [schreib uns gerne](https://proxysto.re/kontakt.html) oder arbeite mit uns auf [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection) an diesem Projekt.

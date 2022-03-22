@@ -135,13 +135,13 @@ The spheres probably have the best resistance compared to the other items, but a
 
 ![Salt](../assets/images/tamper-evident-protection/salz_01.jpg)
 
-We colored the salt with food coloring (more on this below). Because of the grain size, it is harder to compare the mosaic.
+We colored the salt with food coloring (more on this below). Because of the grain size, it is harder to compare the mosaic.
 
 #### Colored sugar
 
 ![Sugar](../assets/images/tamper-evident-protection/zucker_01.jpg)
 
-We colored the sugar with food coloring (more on this below). Sugar behaves similarly to salt, but there is occasional slight lumping. Because of the grain size, it is harder to compare the mosaic.
+We colored the sugar with food coloring (more on this below). Sugar behaves similarly to salt, but there is occasional slight lumping. Because of the grain size, it is harder to compare the mosaic.
 
 #### Colored Cornstarch (DIY Holi Powder).
 
@@ -175,9 +175,9 @@ In addition to normal food coloring, parts of the substance could also be colore
 
 ### Short-term storage
 
-Following the history of its development, let's start with the first application, short-term storage. When we need to leave a place and leave items or equipment behind, we can store them in a box that is transparent from all sides. Then we fill the box with our colorful mixture so that our devices are covered. The box should be stored in such a way that shocks or other factors do not change the initial mosaic as much as possible. For example, the box can be positioned on a towel or piece of clothing on an object in such a way that this attenuates minor vibrations of the environment, but the box cannot slide off it.
+Following the history of its development, let's start with the first application, short-term storage. When we need to leave a place and leave items or equipment behind, we can store them in a box that is transparent from all sides. Then we fill the box with our colorful mixture so that our devices are covered. The box should be stored in such a way that shocks or other factors do not change the mosaic. For example, the box can be positioned on a towel or piece of clothing on an object in such a way that this attenuates minor vibrations of the environment, but the box cannot slide off it.
 
-For an overall comparison, we can photograph the box from all visible sides. These photographs can be stored on a device that is as secure as possible, sent to a person we trust via an encrypted and verified path, or sent to another device of our own. Afterwards we compare the found mosaic with the initial one. We can also draw a grid on the walls of the box beforehand to limit the comparison to individual areas (unknown to an attacker).
+For an overall comparison, we can photograph the box from all visible sides and store these photos on a device that is as secure as possible, send it to a trusted person via an encrypted and verified channel, or send it to another device of our own. The next step is to compare the found mosaic with the original one. The app [Blink Comparison](https://github.com/proninyaroslav/blink-comparison), which we will discuss below, is ideal for this purpose.
 
 To protect an object from damage, e.g., by staining or by the substance leaking into, say, the ports of a laptop, it can be wrapped in cling film, a bag, or otherwise.
 
@@ -213,8 +213,16 @@ In both methods, the bags containing the elements can also be cascaded. To do th
 
 If of one or more elements within the mosaic are modified, unauthorized access or compromise can be assumed. The assessment should be made depending on the situation and the individual need for protection. It may just be that one's pet or family member was a bit curious about what the colorful mixture was all about, or a bag was leaking.
 
+#### Blink Comparison
+
+With apps like [Blink Comparison](https://github.com/proninyaroslav/blink-comparison), it is easy to compare an original photo, which has been taken for example, by a manufacturer, signed and transmitted to a customer via an encrypted communication channel, with a photo of the current state. The app helps one take the comparison photo from the same angle and distance as the original photo.
+
+Blink Comparison then switches between the two images when the screen is touched, making direct comparison much easier. This is shown in the following animated graphic. The photo outlined in red is the original photo. Before taking the comparison photo, a black lentil in the lower left area has been removed, thereby moving another lentil a little bit. The change of the pattern between the original photo and the comparison photo can be seen fast and easily.
+
+![Blink Comparison](../assets/images/tamper-evident-protection/blink.webp)
+
 ## Acknowledgements and participation
 
-We would like to take this opportunity to thank everyone who helped us with this project. Thanks go especially to those who provided us with vacuum sealing equipment, Mullvad VPN for the glitter nail polish, and Nitrokey and Purism for the exchange on sealing with nail polish.
+We would like to take this opportunity to thank everyone who helped us with this project. Thanks go especially to those who provided us with vacuum sealing equipment, Mullvad VPN for the glitter nail polish, Nitrokey and Purism for the exchange on sealing with nail polish, and [Insurgo](https://insurgo.ca) for the tip about Blink Comparison.
 
 If you have any further ideas, hints or suggestions for improvement, please [feel free to write us](https://proxysto.re/kontakt.html) or collaborate with us on [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection) on this project.
