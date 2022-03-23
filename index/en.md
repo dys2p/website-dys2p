@@ -21,6 +21,7 @@
 
 ## Translations
 
+* [Blink Comparison](https://f-droid.org/de/packages/org.proninyaroslav.blink_comparison/) app ([German user interface translation](https://github.com/proninyaroslav/blink-comparison/commits?author=b068931cc450442b63f5b3d276ea4297))
 * [Christian Kirtchev: EA Cyberpunk Manifesto](2021-08-cyberpunk.html) (original English version + German translation)
 * [Aaron Swartz: Guerilla Open Access Manifesto](2021-08-open-access.html) (original English version + German translation)
 * [Cory Doctorow: Daten – das neue Öl oder Potenzial für eine Ölkatastrophe?](2021-03-new-oil.html) (German)
