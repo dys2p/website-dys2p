@@ -12,6 +12,7 @@
   * [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re/) ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)): VPN, E-Mail und mehr – kaufe Coupons für datenschutzfreundliche Anbieter mit Monero oder Bitcoin, Bargeldversand oder SEPA-Überweisung.
   * [shop.proxysto.re](https://shop.proxysto.re): Hier findest du Datenschutz-Zubehör, Bücher und physische Guthabenkarten für Mullvad VPN.
   * [Ladengeschäft](https://proxysto.re/de/ladensortiment.html): Schreddere Dokumente, nutze unser Tails-Terminal, drucke oder kopiere, nimm dir eine Broschüre oder kaufe ein.
+  * [Datensparsamer Bestellservice](https://proxysto.re/de/bestellservice.html): Wir bestellen Waren für dich – datensparsam.
 * [toolbox77](https://toolbox77.de) – Mittel zur physischen Selbstverteidigung, Outdoorbedarf und vieles mehr findest du im Onlineshop und im Ladengeschäft.
 
 ## Projekte
