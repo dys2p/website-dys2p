@@ -14,10 +14,10 @@ Da beide Geräte nicht billig sind, brauchen wir eure Unterstützung. Wenn ihr e
 	<div class="progress-bar bg-success" role="progressbar" style="width: 100%"></div>
 </div>
 
-**Festplattenshredder – 35 von 12.500 Euro**
+**Festplattenshredder – 65 von 12.500 Euro**
 
 <div class="progress mb-3">
-	<div class="progress-bar bg-success" role="progressbar" style="width: 0.28%"></div>
+	<div class="progress-bar bg-success" role="progressbar" style="width: 0.52%"></div>
 </div>
 
 <div class="my-4 text-center">
