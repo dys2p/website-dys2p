@@ -3,8 +3,8 @@
 	direction: rtl;
 }
 
-@media (min-width: 992px) {
-	.equal-width-lg {
+@media (min-width: 576px) {
+	.equal-width-sm {
 		flex: 1 1 0px;
 	}
 }
