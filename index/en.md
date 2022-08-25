@@ -10,9 +10,10 @@
 
 * [ProxyStore](https://proxysto.re)
   * [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re/) ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)): VPN, email and more – buy coupons for privacy-friendly services with Monero or Bitcoin, cash letter or SEPA bank transfer.
-  * [shop.proxysto.re](https://shop.proxysto.re/): Get privacy gadgets, books and physical voucher cards for Mullvad VPN.
+  * [druck.proxysto.re](https://druck.proxysto.re): Conveniently print your own designs in our online printing shop – data-minimizing or anonymously.
+  * [shop.proxysto.re](https://shop.proxysto.re/): Get hardware, books, privacy gadgets and physical voucher cards for Mullvad VPN.
   * [Local store](https://proxysto.re/en/ladensortiment.html): Shred documents, use our Tails computer, print or copy stuff, grab some brochures or buy goods.
-  * [Data-minimizing Order Service](https://proxysto.re/en/bestellservice.html): We order goods for you – data-minimizing.
+  * [Data-minimizing Order Service](https://proxysto.re/en/bestellservice.html): We order goods for you – data-minimizing or anonymously.
 * [toolbox77](https://toolbox77.de) – Buy physical self-defense and outdoor stuff in our online shop and our local store.
 
 ## Projects
