@@ -20,6 +20,7 @@
 
 * [Mnemonische deutsche Wortlisten](https://github.com/dys2p/wordlists-de)
 * [Random Mosaic – Erkennung unautorisierter physischer Zugriffe mit Bohnen, Linsen und buntem Reis](2021-12-tamper-evident-protection.html)
+* [Verräterische Spuren in Ausdrucken und Scans](2022-09-print-scan-traces.html)
 
 ## Übersetzungen
 
