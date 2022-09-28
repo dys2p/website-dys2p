@@ -169,7 +169,7 @@ Unser Multifunktionsgerät ist ein Canon imageRUNNER ADVANCE c5235i. Canon schre
 > Daten auf. Verwaltungsinformationen werden nach Abschluss des Kopier-, Sende-/Empfangs- oder Druckvorgangs gelöscht.
 > Die eigentlichen Daten bleiben jedoch auf der Festplatte erhalten. Wenn die Funktion Festplatten-Datenlöschfunktion
 > aktiviert ist, werden die eigentlichen Daten (Bild-, Verwaltungs- und Spooldaten für die Funktionen Kopieren,
-> Mailbox, Drucken und Senden/Empfangen) zusammen mit den Verwaltungsinformationen gelöscht werden."
+> Mailbox, Drucken und Senden/Empfangen) zusammen mit den Verwaltungsinformationen gelöscht werden.
 
 <h4 id="festplatte">Festplatte</h4>
 
