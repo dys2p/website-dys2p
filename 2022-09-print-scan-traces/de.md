@@ -130,6 +130,9 @@ Auf andere Faktoren haben wir keinen oder nur bedingten Einfluss. So werden bei 
       <a href="#guides">Guides</a>
     </li>
     <li>
+      <a href="#references">Erwähnungen</a>
+    </li>
+    <li>
       <a href="#fussnoten">Fußnoten</a>
     </li>
   </ul>
@@ -1331,7 +1334,7 @@ Wenn ihr unsere Arbeit unterstützen möchtet, findet ihr hier [unsere digitale 
 * [Anonymous Planet: Printing Watermarking](https://anonymousplanet.org/guide.html#printing-watermarking)
 * [Whonix: Printing and Scanning](https://www.whonix.org/wiki/Printing_and_Scanning)
 
-<h2 id="guides">Erwähnungen</h2>
+<h2 id="references">Erwähnungen</h2>
 
 * [Cipherbrain - Neues zu den gelben Punkten auf Laser-Ausdrucken](https://scienceblogs.de/klausis-krypto-kolumne/2022/10/16/neues-zu-den-gelben-punkten-auf-laser-ausdrucken/)
 
