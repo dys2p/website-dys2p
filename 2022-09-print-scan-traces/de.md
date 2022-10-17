@@ -229,7 +229,7 @@ Wozu diese Verfahren dienen, ist offensichtlich – der Identifizierung von Ger�
 
 <h3 id="counterfeit-deterrence-systems">Counterfeit Deterrence Systems</h3>
 
-Die Central Bank Counterfeit Deterrence Group (CBCDG), eine Arbeitsgruppe von 32 Zentralbanken, [schreibt auf ihrer Homepage](https://rulesforuse.org/de), abgerufen am 29.06.2021:
+Die Central Bank Counterfeit Deterrence Group (CBCDG), eine Arbeitsgruppe von inzwischen 32 Zentralbanken, [schrieb bereits im März 2004 auf ihrer Homepage](https://web.archive.org/web/20201025215726/https://rulesforuse.org/de/press-releases/zentralbanken-und-it-industrie-wollen-die-f%C3%A4lschung-von-banknoten-gemeinsam-bek%C3%A4mpfen):
 
 > Die CBCDG hat das so genannte Counterfeit Deterrence System (CDS) entwickelt, um zu verhindern, dass PCs und Geräte
 > bzw. Software zur digitalen Bildbearbeitung zur Fälschung von Banknoten verwendet werden. Das System wurde von
@@ -255,7 +255,7 @@ Sowohl unsere eigenen Untersuchungen als auch die des Unabhängigen Landeszentru
 
 <h4 id="digimarc">Digitale Wasserzeichen von Digimarc</h4>
 
-Neben der EURion-Konstellation benennt ein Artikel in der [Datenschleuder Nr. 86](https://dasalte.ccc.de/colorcopy/) aus dem Jahr 2005 das digitale Wasserzeichen von _Digimarc_, welches schon kurz zuvor auf dem 21C3 von Steven J. Murdoch und Ben Laurie in ihrem Vortrag [The Convergence of Anti-Counterfeiting and Computer Security](https://murdoch.is/talks/ccc04_counterfeiting.pdf) erwähnt wurde. Die dafür geschaffene Grundlage findet sich in dem Patent WO1999053428A1 der Digimarc Corporation.
+Neben der EURion-Konstellation benennt ein Artikel in der [Datenschleuder Nr. 86](https://dasalte.ccc.de/colorcopy/) aus dem Jahr 2005 das digitale Wasserzeichen von _Digimarc_, welches schon kurz zuvor auf dem 21C3 von Steven J. Murdoch und Ben Laurie in ihrem Vortrag [The Convergence of Anti-Counterfeiting and Computer Security](https://murdoch.is/talks/ccc04_counterfeiting.pdf) erwähnt wurde. Die dafür geschaffene Grundlage findet sich in dem Patent [WO1999053428A1](https://web.archive.org/web/20221012145732/https://patents.google.com/patent/WO1999053428A1/) der Digimarc Corporation.
 
 Wer mehr über Euro-Banknoten im Allgemeinen erfahren möchte, wird bei [Wikipedia](https://de.wikipedia.org/wiki/Eurobanknoten) fündig.
 
@@ -322,14 +322,14 @@ Wir haben mit [GIMP (GNU Image Manipulation Program)](https://www.gimp.org) dies
 3. Farben > Invertieren
 4. Farben > Sättigung: erhöhen (mehrfach möglich)
 5. ggf. weitere Anpassungen z. B. über die Farbkurven
-6. Farben > Mono Mixer: Blaukanal hervorheben, z. B. mit den Werten 0, 0, 1
+6. Farben > Komponenten > Mono Mixer: Blaukanal hervorheben, z. B. mit den Werten 0, 0, 1
 
 ![Workflow in GIMP](../assets/images/print-scan-traces/gimp.webp)
 
 Ein vereinfachter Workflow, der hier jedoch nicht zur Anwendung kam, kann wie folgt aussehen:
 
 1. Farben > Sättigung: zwei Mal ausführen mit dem Wert 10
-2. Farben > Mono Mixer: Blaukanal hervorheben, z. B. mit den Werten 0, 0, 1
+2. Farben > Komponenten > Mono Mixer: Blaukanal hervorheben, z. B. mit den Werten 0, 0, 1
 3. Farben > Invertieren
 
 Je höher die Auflösung (300, 600, 1200, 2400 dpi), desto besser lässt sich das Muster erkennen und untersuchen:
@@ -1330,6 +1330,10 @@ Wenn ihr unsere Arbeit unterstützen möchtet, findet ihr hier [unsere digitale 
 
 * [Anonymous Planet: Printing Watermarking](https://anonymousplanet.org/guide.html#printing-watermarking)
 * [Whonix: Printing and Scanning](https://www.whonix.org/wiki/Printing_and_Scanning)
+
+<h2 id="guides">Erwähnungen</h2>
+
+* [Cipherbrain - Neues zu den gelben Punkten auf Laser-Ausdrucken](https://scienceblogs.de/klausis-krypto-kolumne/2022/10/16/neues-zu-den-gelben-punkten-auf-laser-ausdrucken/)
 
 <h2 id="fussnoten">Fußnoten</h2>
 
