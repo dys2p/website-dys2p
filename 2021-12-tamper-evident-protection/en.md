@@ -233,3 +233,4 @@ If you have any further ideas, hints or suggestions for improvement, please [fee
 * [heise.de - Random Mosaic: Fremdzugriffe mit Bohnen, Linsen oder buntem Reis erkennen ](https://web.archive.org/web/20220627170123/https://www.heise.de/news/Random-Mosaic-Fremdzugriffe-mit-Bohnen-Linsen-oder-buntem-Reis-erkennen-7155080.html)
 * [UNREDACTED Magazine - The Privacy, Security, & OSINT Magazine Issue 004](https://unredactedmagazine.com/issues/004.pdf)
 * [Yahoo Finanzen - Linsen, Bohnen und Glitzernagellack: Wie man Ware beim Versand vor Fremdzugriff schützt](https://de.nachrichten.yahoo.com/linsen-bohnen-und-glitzernagellack-wie-man-ware-beim-versand-vor-fremdzugriff-schutzt-121805730.html)
+* [c't 16/2022](https://www.heise.de/select/ct/2022/16), S. 44
