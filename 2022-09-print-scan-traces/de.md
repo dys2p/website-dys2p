@@ -1337,6 +1337,7 @@ Wenn ihr unsere Arbeit unterstützen möchtet, findet ihr hier [unsere digitale 
 <h2 id="references">Erwähnungen</h2>
 
 * [Cipherbrain - Neues zu den gelben Punkten auf Laser-Ausdrucken](https://scienceblogs.de/klausis-krypto-kolumne/2022/10/16/neues-zu-den-gelben-punkten-auf-laser-ausdrucken/)
+* [kryptografie.de - Yellow Dots Code (Machine Identification Code für Farblaserdrucker)](https://kryptografie.de/kryptografie/chiffre/yellow-dots-code.htm)
 
 <h2 id="fussnoten">Fußnoten</h2>
 
