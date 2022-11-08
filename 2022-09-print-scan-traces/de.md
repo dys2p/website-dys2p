@@ -355,67 +355,67 @@ Wir haben Ausdrucke vom Computer und vom USB-Stick sowie Kopien mit einer Auflö
       <td>Druck von PC</td>
       <td>Schwarzweiß</td>
       <td>-</td>
-      <td>MIC <strong>nicht</strong> feststellbar</td>
+      <td>kein MIC festgestellt</td>
     </tr>
     <tr>
       <td>Druck von PC</td>
       <td>Farbe</td>
       <td>-</td>
-      <td>MIC feststellbar</td>
+      <td><strong>MIC festgestellt</strong></td>
     </tr>
     <tr>
       <td>Druck von USB</td>
       <td>Auto (Farbe/Schwarz)</td>
       <td>-</td>
-      <td>MIC feststellbar</td>
+      <td><strong>MIC festgestellt</strong></td>
     </tr>
     <tr>
       <td>Druck von USB</td>
       <td>Schwarz</td>
       <td>-</td>
-      <td>MIC <strong>nicht</strong> feststellbar</td>
+      <td>kein MIC festgestellt</td>
     </tr>
     <tr>
       <td>Kopie</td>
       <td>Auto (Farbe/Schwarz)</td>
       <td>-</td>
-      <td>MIC feststellbar</td>
+      <td><strong>MIC festgestellt</strong></td>
     </tr>
     <tr>
       <td>Kopie</td>
       <td>Einzelfarbe</td>
       <td>gelb</td>
-      <td>MIC feststellbar</td>
+      <td><strong>MIC festgestellt</strong></td>
     </tr>
     <tr>
       <td>Kopie</td>
       <td>Einzelfarbe</td>
       <td>grün</td>
-      <td>MIC feststellbar</td>
+      <td><strong>MIC festgestellt</strong></td>
     </tr>
     <tr>
       <td>Kopie</td>
       <td>Einzelfarbe</td>
       <td>rot</td>
-      <td>MIC feststellbar</td>
+      <td><strong>MIC festgestellt</strong></td>
     </tr>
     <tr>
       <td>Kopie</td>
       <td>Schwarz</td>
       <td>-</td>
-      <td>MIC <strong>nicht</strong> feststellbar</td>
+      <td>kein MIC festgestellt</td>
     </tr>
     <tr>
       <td>Kopie</td>
       <td>Vollfarbe</td>
       <td>-</td>
-      <td>MIC feststellbar</td>
+      <td><strong>MIC festgestellt</strong></td>
     </tr>
     <tr>
       <td>Kopie</td>
       <td>Zwei Farben</td>
       <td>schwarz & rot</td>
-      <td>MIC feststellbar</td>
+      <td><strong>MIC festgestellt</strong></td>
     </tr>
   </tbody>
 </table>
@@ -446,133 +446,133 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
     <tr>
       <td>001</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>002</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-002.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>003</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>004</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>005</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>006</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>007</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>008</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-008.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>009</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>010</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>011</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>012</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>013</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>014</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>015</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>016</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>017</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>018</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>019</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
@@ -586,42 +586,42 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
     <tr>
       <td>021</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-021.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>022</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>023</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>024</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>025</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>026</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
@@ -635,49 +635,49 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
     <tr>
       <td>028</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>029</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>030</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>031</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>032</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>033</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-033.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>034</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
@@ -691,294 +691,294 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
     <tr>
       <td>036</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>037</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-037.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>038</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>039</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-039.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>040</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>041</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>042</td>
       <td>SW</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-042.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>043</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-043.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>044</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-044.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>045</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>046</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>047</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>048</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>049</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>050</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>051</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>052</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>053</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>054</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>055</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>056</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>057</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>058</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>059</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-059.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>060</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>061</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>062</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>063</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>064</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>065</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>066</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>067</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>068</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>069</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>070</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>071</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>072</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>073</td>
       <td>SW</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-073.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>074</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>075</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>076</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-076.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>077</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
@@ -992,161 +992,161 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
     <tr>
       <td>079</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>080</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>081</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>082</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>083</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>084</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>085</td>
       <td>SW/Farbe</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>086</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-086.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>087</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>088</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>089</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>090</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-090.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>091</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>092</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-092.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>093</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>094</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>095</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>096</td>
       <td>Farbe</td>
-      <td><strong>MIC identifiziert</strong></td>
+      <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-096.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>097</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>098</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>099</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>100</td>
       <td>SW</td>
-      <td>kein MIC feststellbar</td>
+      <td>kein MIC festgestellt</td>
       <td></td>
       <td></td>
     </tr>
   </tbody>
 </table>
 
-Die Drucke bzw. Kopien stammen von uns unbekannten Laser- und Tintenstrahldruckern und waren schwarz-weiß und in Farbe. Die Stichprobe umfasste weißes Papier, nicht gebleichtes Recyclingpapier und vorgedrucktes Briefpapier. Ob im letzten Fall der Machine Identification Code beim Erstellen des Vordrucks oder beim Druck auf das Briefpapier erstellt wurde, haben wir nicht näher untersucht, sodass auch hier das Ergebnis nur <q>MIC identifiziert</q> oder <q>kein MIC feststellbar</q> lautet.
+Die Drucke bzw. Kopien stammen von uns unbekannten Laser- und Tintenstrahldruckern und waren schwarz-weiß und in Farbe. Die Stichprobe umfasste weißes Papier, nicht gebleichtes Recyclingpapier und vorgedrucktes Briefpapier. Ob im letzten Fall der Machine Identification Code beim Erstellen des Vordrucks oder beim Druck auf das Briefpapier erstellt wurde, haben wir nicht näher untersucht, sodass auch hier das Ergebnis nur <q>MIC festgestellt</q> oder <q>kein MIC festgestellt</q> lautet.
 
 Bei vier Dokumenten konnten wir mit dem Mikroskop zwar gelbe Punkte auf dem Papier feststellen, doch da sich jeweils auf der gesamten Seite farbige Punkte in CMYK-Farben befanden, konnten wir nicht eindeutig ein Muster identifizieren und haben es als <q>unsicher (CMYK-Dots)</q> gewertet.
 
