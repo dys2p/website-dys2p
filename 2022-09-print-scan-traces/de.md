@@ -1148,7 +1148,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
 
 Die Drucke bzw. Kopien stammen von uns unbekannten Laser- und Tintenstrahldruckern und waren schwarz-weiß und in Farbe. Die Stichprobe umfasste weißes Papier, nicht gebleichtes Recyclingpapier und vorgedrucktes Briefpapier. Ob im letzten Fall der Machine Identification Code beim Erstellen des Vordrucks oder beim Druck auf das Briefpapier erstellt wurde, haben wir nicht näher untersucht, sodass auch hier das Ergebnis nur <q>MIC identifiziert</q> oder <q>kein MIC feststellbar</q> lautet.
 
-Bei vier Dokumenten konnten wir mit dem Mirkoskop zwar gelbe Punkte auf dem Papier feststellen, doch da sich jeweils auf der gesamten Seite farbige Punkte in CMYK-Farben befanden, konnten wir nicht eindeutig ein Muster identifizieren und haben es als <q>unsicher (CMYK-Dots)</q> gewertet.
+Bei vier Dokumenten konnten wir mit dem Mikroskop zwar gelbe Punkte auf dem Papier feststellen, doch da sich jeweils auf der gesamten Seite farbige Punkte in CMYK-Farben befanden, konnten wir nicht eindeutig ein Muster identifizieren und haben es als <q>unsicher (CMYK-Dots)</q> gewertet.
 
 Insgesamt wurde bei 16 von 100 Dokumenten ein Machine Identification Code erkannt, davon bei 14 von 16 farbigen Dokumenten.
 
@@ -1272,7 +1272,7 @@ Manche Dateisysteme speichern mehrere Zeitstempel, die manchmal übersehen werde
 
 <h2 id="unerklaerliche-blaue-punkte-auf-dem-papier">Unerklärliche blaue Punkte auf dem Papier</h2>
 
-Während unserer Untersuchungen mit dem Mirkoskop haben wir festgestellt, dass auf dem Großteil der untersuchten Papiere (DIN A4 und A3) und auch neue, aus der Originalverpackung entnommene unbedruckte Blätter (Recyclingpapier ebenso wie gebleichtes weißes) kleine blaue, manchmal violett erscheinende Punkte zu sehen sind. Wir haben es leider nicht geschafft, diese Punkte mittels Scans und Bildbearbeitung sichtbar zu machen. Die Menge und Anordnung der Punkte erscheint uns bei diesen stichprobenartigen Sichtungen nicht wiederholend und teilweise sehr unterschiedlich, weshalb wir unsicher sind, ob es sich dabei beispielsweise um einen Code handelt, der von Papierherstellern dem Papier beigefügt wird, oder um zufällige Punkte, die beim Herstellungsprozess entstehen.
+Während unserer Untersuchungen mit dem Mikroskop haben wir festgestellt, dass auf dem Großteil der untersuchten Papiere (DIN A4 und A3) und auch neue, aus der Originalverpackung entnommene unbedruckte Blätter (Recyclingpapier ebenso wie gebleichtes weißes) kleine blaue, manchmal violett erscheinende Punkte zu sehen sind. Wir haben es leider nicht geschafft, diese Punkte mittels Scans und Bildbearbeitung sichtbar zu machen. Die Menge und Anordnung der Punkte erscheint uns bei diesen stichprobenartigen Sichtungen nicht wiederholend und teilweise sehr unterschiedlich, weshalb wir unsicher sind, ob es sich dabei beispielsweise um einen Code handelt, der von Papierherstellern dem Papier beigefügt wird, oder um zufällige Punkte, die beim Herstellungsprozess entstehen.
 
 ![Blaue Punkte auf vielen Papiersorten](../assets/images/print-scan-traces/blue-dots.png)
 
