@@ -150,17 +150,17 @@ Diese Computer und Geräte können mit Schadsoftware infiziert sein. Dabei beste
 
 [Golem.de und Kaspersky haben dies im Jahr 2015](https://web.archive.org/web/20150515004008/https://www.golem.de/news/golem-de-test-mit-kaspersky-so-sicher-sind-fototerminals-und-copyshops-1505-113981.html) mit 70 USB-Sticks an Fototerminals und in Copyshops in mehreren Städten getestet. Dabei wurde ein USB-Stick mit der Schadsoftware [Sality](https://en.wikipedia.org/wiki/Sality) infiziert.
 
-Um die genannten Risiken zu verringern, können Personen bei uns von unserem Tails-Terminal drucken und gescannte Dokumente speichern. (Dabei handelt es sich um einen Computer ohne Festplatte. Auf ihm startet das Betriebssystem [Tails](https://tails.boum.org/index.de.html) von einer DVD. Damit kannst du dich anonym im Internet bewegen und Dokumente bearbeiten, ohne Spuren auf dem Gerät zu hinterlassen. Eine Kabine schützt dich dabei vor neugierigen Blicken.) Es besteht zusätzlich die Möglichkeit, zu druckende Dateien auf CD/DVD mitzubringen und gescannte Dokumente auf CD/DVD zu brennen.
+Um die genannten Risiken zu verringern, können Personen bei uns von unserem Tails-Terminal drucken und gescannte Dokumente speichern. (Dabei handelt es sich um einen Computer ohne Festplatte. Auf ihm startet das Betriebssystem [Tails](https://tails.boum.org/index.de.html) von einer DVD. Damit kannst du dich anonym im Internet bewegen und Dokumente bearbeiten, ohne Spuren auf dem Computer zu hinterlassen. Eine Kabine schützt dich dabei vor neugierigen Blicken.) Es besteht zusätzlich die Möglichkeit, zu druckende Dateien auf CD/DVD mitzubringen und gescannte Dokumente auf CD/DVD zu brennen.
 
-Die Verwendung von CDs und DVDs ist hier sicherer als Flash-Speichermedien wie USB-Sticks und SD-Karten: "Bei Speichermedien mit eingebautem Hardware-Schreibschutz gibt es immer die Unsicherheit, in wie weit eine proprietäre Firmware die Blockade der Schreibkommandos und anderer Kommandos (Firmwareupdate) garantiert und nur die zum Lesen des Datenträgers erforderlichen Kommandos durchlässt."<sup><a href="#fn1" id="fnref1">1</a></sup> Wer mehr zu [Schreibtschutz](https://vkldata.com/Write-Blocker-Adapter) lesen möchte, oder selbst einen [Schreibschutz nachrüsten](https://vkldata.com/Schreibschutzschalter-am-USB-Stick-nachruesten) möchte, dem sei die Seite [vkldata.com](https://vkldata.com) empfohlen.
+Die Verwendung von einmalig beschreibbaren CDs und DVDs ist hier sicherer als Flash-Speichermedien wie USB-Sticks und SD-Karten, auch wenn letztere einen Schreibschutz anbieten: "Bei Speichermedien mit eingebautem Hardware-Schreibschutz gibt es immer die Unsicherheit, in wie weit eine proprietäre Firmware die Blockade der Schreibkommandos und anderer Kommandos (Firmwareupdate) garantiert und nur die zum Lesen des Datenträgers erforderlichen Kommandos durchlässt."<sup><a href="#fn1" id="fnref1">1</a></sup> Wer mehr zu [Schreibtschutz](https://vkldata.com/Write-Blocker-Adapter) lesen möchte, oder selbst einen [Schreibschutz nachrüsten](https://vkldata.com/Schreibschutzschalter-am-USB-Stick-nachruesten) möchte, dem sei die Seite [vkldata.com](https://vkldata.com) empfohlen.
 
 Hardware-Schreibblocker (z. B. für [forensische Arbeiten](https://web.archive.org/web/20210512013406/https://it-forensik.fiw.hs-wismar.de/index.php/Write_Blocker)) erscheinen uns für diesen Einsatz aktuell zu kostspielig und unpraktikabel. Eine [Open-Source-DIY-Lösung](https://www.instructables.com/Cheap-and-Effective-USB-Write-Blocker/), wie auf der [Black Hat Europe 2012](https://docs.huihoo.com/blackhat/europe-2012/bh-eu-12-Polstra-Preventing_Oh_Shit-WP.pdf) erstmals veröffentlicht, hat leider eine sehr geringe Lesegeschwindigkeit.
 
 <h4 id="identifikation">Identifikation</h4>
 
-Externe Datenträger wie beispielsweise USB-Sticks oder Mobiltelefone werden vom Betriebssystem des Geräts erkannt. Die dabei entstehenden Logdateien (Protokolle) können bei einer Auswertung, z. B. nach einer Beschlagnahmung oder Infizierung, eine Vielzahl von Informationen zu an dem Gerät verwendeten externen Datenträgern preisgeben. Diese Artefakte können u. a. Hardware-Seriennummern, Produktbezeichnungen und Produkt-IDs, Hersteller-IDs, Zeitpunkte des Einbindens und Auswerfens, UUID/GUID von Dateisystemen und mehr aus den letzten Wochen, Monaten oder Jahren umfassen. <sup><a href="#fn2" id="fnref2">2</a></sup> <sup><a href="#fn3" id="fnref3">3</a></sup> <sup><a href="#fn4" id="fnref4">4</a></sup> Sofern es mehr als ein Gerät bzw. eine Person betrifft, könnten darüber auch Verbindungen zwischen mehreren Geräten und Personen belegt werden. Für sensible Arbeiten empfiehlt es sich daher ein Betriebssystem wie Tails zu nutzen, welches alle Logdateien beim Ausschalten "vergisst" und den Arbeitsspeicher [zusätzlich überschreibt](https://tails.boum.org/contribute/design/memory_erasure/). Bei besonders sensiblen Arbeiten sollte der externe Datenträger im Anschluss zusätzlich gelöscht und physisch zerstört werden.
+Externe Datenträger wie beispielsweise USB-Sticks oder Mobiltelefone werden vom Betriebssystem des Geräts erkannt. Die dabei entstehenden Logdateien (Protokolle) können bei einer Auswertung, z. B. nach einer Beschlagnahmung oder Infizierung, eine Vielzahl von Informationen zu an dem Gerät verwendeten externen Datenträgern preisgeben. Sie können u. a. Hardware-Seriennummern, Produktbezeichnungen und Produkt-IDs, Hersteller-IDs, Zeitpunkte des Einbindens und Auswerfens, UUID/GUID von Dateisystemen und mehr aus den letzten Wochen, Monaten oder Jahren umfassen. <sup><a href="#fn2" id="fnref2">2</a></sup> <sup><a href="#fn3" id="fnref3">3</a></sup> <sup><a href="#fn4" id="fnref4">4</a></sup> Sofern es mehr als ein Gerät bzw. eine Person betrifft, könnten darüber auch Verbindungen zwischen mehreren Geräten und Personen hergestellt werden. Für sensible Arbeiten empfiehlt es sich daher ein Betriebssystem wie Tails zu nutzen, welches beim Herunterfahren alle Logdateien "vergisst" und den Arbeitsspeicher [zusätzlich überschreibt](https://tails.boum.org/contribute/design/memory_erasure/). Bei besonders sensiblen Arbeiten sollte der externe Datenträger im Anschluss zusätzlich gelöscht und physisch zerstört werden.
 
-Welche Informationen über externe Datenträger unser Multifunktionsgerät protokolliert, ist uns leider nicht bekannt.
+Welche Informationen über externe Datenträger unser Multifunktionsgerät protokolliert, konnten wir leider nicht herausfinden.
 
 <h3 id="interner-datenspeicher">Interner Datenspeicher</h3>
 
@@ -188,7 +188,7 @@ Canon [schreibt dazu](https://web.archive.org/web/20220811185828/https://oip.man
 
 > Die Verwaltungsinformationen werden automatisch gelöscht, wenn der Auftrag abgeschlossen wurde, aber die tatsächlichen Daten werden auf der Festplatte gespeichert.
 
-Wir haben unser Gerät so eingestellt, dass während eines Auftrags die nachfolgenden, verarbeiteten und gespeicherten Daten mit dem DoD-Standard überschrieben werden. (["Die Daten werden dreimal überschrieben. Das erste Mal mit einem festen Wert, das zweite Mal mit einem Komplement des festen Wertes und das dritte Mal mit Zufallsdaten."](https://web.archive.org/web/20220811190034/https://oip.manual.canon/USRMA-0072-zz-CS-deDE/contents/CS5255_security1244_completelyerasingunnecessarydatafromthehardd.html?search=DoD)). Dies umfasst:
+Wir haben unser Gerät so konfiguriert, dass während eines Auftrags die verarbeiteten und gespeicherten Daten mit dem DoD-Standard überschrieben werden. (["Die Daten werden dreimal überschrieben. Das erste Mal mit einem festen Wert, das zweite Mal mit einem Komplement des festen Wertes und das dritte Mal mit Zufallsdaten."](https://web.archive.org/web/20220811190034/https://oip.manual.canon/USRMA-0072-zz-CS-deDE/contents/CS5255_security1244_completelyerasingunnecessarydatafromthehardd.html?search=DoD)). Dies umfasst:
 
 > - Beim Scannen temporär erstellte Bilder
 > - Nach dem Löschen der Dateien in der Mailbox bzw. im Erweiterten Platz verbliebene Daten
@@ -209,7 +209,7 @@ Das Multifunktionsgerät in unserem Ladengeschäft hat 2,5 GB Arbeitsspeicher. W
 
 Fehldrucke können in unserem Ladengeschäft mit dem nebenstehenden Aktenvernichter, einem Dahle 706air mit den Sicherheitsstufen P-7/F-3/T-6, direkt in millimeterkleine Schnipsel zerkleinert werden. Falls das nicht ausreicht, können die Überreste mitgenommen werden.
 
-Sollten Personen gedruckte, kopierte oder gescannte Dokumente vergessen haben, werden wir diese ansehen und möglicherweise wichtige Originale (für eine begrenzte Zeit) verwahren. Offensichtliche Kopien und Ausdrucke werden wir am Ende des Tages schreddern.
+Sollten Personen gedruckte, kopierte oder gescannte Dokumente vergessen haben, werden wir diese ansehen und mutmaßlich wichtige Originale für eine begrenzte Zeit aufbewahren. Offensichtliche Kopien und Ausdrucke werden wir am Ende des Tages schreddern.
 
 <h2 id="verraeterische-spuren-auf-ausdrucken-und-in-gescannten-dokumenten">Verräterische Spuren auf Ausdrucken und in gescannten Dokumenten</h2>
 
@@ -217,9 +217,9 @@ Es gibt mannigfaltige Möglichkeiten, aus Ausdrucken Informationen zu gewinnen, 
 
 <h3 id="machine-identification-codes">Machine Identification Codes</h3>
 
-Obwohl es [seit 2004 bekannt ist](https://web.archive.org/web/20210502113634/https://www.pcworld.idg.com.au/article/8305/dutch_track_counterfeits_via_printer_serial_numbers/), handelt es sich doch um etwas, das nur wenige Personen im Kopf haben, wenn sie etwas drucken. Ein Machine Identification Code (MIC) wird auch als _yellow dots_, _tracking dots_, _secret dots_, Farbdruckermarkierung, _colour tracking dots_ oder _printer steganography_ bezeichnet und meint ein Verfahren, das winzige, für das bloße Auge nicht sichtbare, gelbe Punkte auf Ausdrucken hinzufügt. Diese gelben Punkte bilden ein Muster (davon gibt es verschiedene Formen) <sup><a href="#fn5" id="fnref5">5</a></sup>, in denen Informationen wie z. B. die Seriennummer des Gerät und Zeitstempel (Druckdatum und -uhrzeit) codiert gespeichert sind. Diese Muster sind über die gesamte Seite verteilt. Für die Umsetzung ist die Firmware der Geräte verantwortlich. Im Jahr 2004 erhielt die Canon Deutschland GmbH dafür den BigBrotherAward in der Kategorie Technik.<sup><a href="#fn6" id="fnref6">6</a></sup>
+Obwohl es [seit 2004 bekannt ist](https://web.archive.org/web/20210502113634/https://www.pcworld.idg.com.au/article/8305/dutch_track_counterfeits_via_printer_serial_numbers/), handelt es sich doch um etwas, das nur wenige Personen im Kopf haben, wenn sie etwas drucken. Ein Machine Identification Code (MIC) wird auch als _yellow dots_, _tracking dots_, _secret dots_, Farbdruckermarkierung, _colour tracking dots_ oder _printer steganography_ bezeichnet und meint ein Verfahren, das winzige, für das bloße Auge nicht sichtbare, gelbe Punkte auf Ausdrucken hinzufügt. Diese gelben Punkte bilden ein Muster (davon gibt es verschiedene Formen) <sup><a href="#fn5" id="fnref5">5</a></sup>, in denen Informationen wie z. B. die Seriennummer des Gerät und ein Zeitstempel (Druckdatum und -uhrzeit) codiert gespeichert sind. Dieses Muster ist über die gesamte Seite verteilt. Für die Umsetzung ist die Firmware der Geräte verantwortlich. Im Jahr 2004 erhielt die Canon Deutschland GmbH dafür den BigBrotherAward in der Kategorie Technik.<sup><a href="#fn6" id="fnref6">6</a></sup>
 
-Die codierten Informationen werden mitunter verwendet, um Personen zu identifizieren, die für die Ausdrucke verantwortlich sind. Das führte u. a. bereits zu Identifizierung einer [Whistleblowerin der NSA](https://www.heise.de/newsticker/meldung/Vom-Drucker-verraten-NSA-Dokument-enttarnt-Whistleblowerin-3734692.html) und von [Mitarbeiter(n) des Berliner Staatsschutzes](https://web.archive.org/web/20201124104210/https://de.indymedia.org/node/29284), die Drohbriefe mit polizeiinternen Informationen [an 42 Personen versendet haben](https://web.archive.org/web/20210917182258/https://de.indymedia.org/node/16467).
+Die codierten Informationen werden mitunter verwendet, um Personen zu identifizieren, die für Ausdrucke verantwortlich sind. Das führte u. a. bereits zu Identifizierung einer [Whistleblowerin der NSA](https://www.heise.de/newsticker/meldung/Vom-Drucker-verraten-NSA-Dokument-enttarnt-Whistleblowerin-3734692.html) und von [Mitarbeiter(n) des Berliner Staatsschutzes](https://web.archive.org/web/20201124104210/https://de.indymedia.org/node/29284), die Drohbriefe mit polizeiinternen Informationen [an 42 Personen versendet haben](https://web.archive.org/web/20210917182258/https://de.indymedia.org/node/16467).
 
 Die [Electronic Frontier Foundation (EFF)](https://www.eff.org/), welche sich umfangreich mit [Druckern und deren Trackingmethoden](https://www.eff.org/de/issues/printers) befasst hat, traf im Jahr 2017 [folgende Einschätzung](https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots) [frei übersetzt]:
 
@@ -242,7 +242,7 @@ Die Central Bank Counterfeit Deterrence Group (CBCDG), eine Arbeitsgruppe von in
 
 Das [Unabhängige Landeszentrum für Datenschutz Schleswig-Holstein (ULD)](https://www.datenschutzzentrum.de/) hat im Jahr 2019 den Hersteller Canon angefragt ([Vorsicht: Yellow Dots! Versteckte Informationen in Farbkopien](https://www.datenschutzzentrum.de/uploads/it/2019_ULD_Report-Yellow-Dots.pdf)) und fasst die Antwort zusammen:
 
-> Er beruft sich auf die globale Zusammenarbeit zur Bekämpfung von Falschgeld zwischen den Strafverfolgungsbehörden
+> [Canon] beruft sich auf die globale Zusammenarbeit zur Bekämpfung von Falschgeld zwischen den Strafverfolgungsbehörden
 > und der Drucker-Industrie, die auf Veranlassung von Europol und
 > Interpol entstanden ist (vgl. [8]) sowie auf die freiwillige Verpflichtung der Drucker-Industrie,
 > das System zur Fälschungsprävention zu implementieren. Nähere Informationen konnte der
@@ -258,7 +258,7 @@ Sowohl unsere eigenen Untersuchungen als auch die des Unabhängigen Landeszentru
 
 <h4 id="digimarc">Digitale Wasserzeichen von Digimarc</h4>
 
-Neben der EURion-Konstellation benennt ein Artikel in der [Datenschleuder Nr. 86](https://dasalte.ccc.de/colorcopy/) aus dem Jahr 2005 das digitale Wasserzeichen von _Digimarc_, welches schon kurz zuvor auf dem 21C3 von Steven J. Murdoch und Ben Laurie in ihrem Vortrag [The Convergence of Anti-Counterfeiting and Computer Security](https://murdoch.is/talks/ccc04_counterfeiting.pdf) erwähnt wurde. Die dafür geschaffene Grundlage findet sich in dem Patent [WO1999053428A1](https://web.archive.org/web/20221012145732/https://patents.google.com/patent/WO1999053428A1/) der Digimarc Corporation.
+Neben der EURion-Konstellation benennt ein Artikel in der [Datenschleuder Nr. 86](https://dasalte.ccc.de/colorcopy/) aus dem Jahr 2005 das digitale Wasserzeichen von _Digimarc_, welches schon kurz zuvor auf dem 21C3 von Steven J. Murdoch und Ben Laurie in ihrem Vortrag [The Convergence of Anti-Counterfeiting and Computer Security](https://murdoch.is/talks/ccc04_counterfeiting.pdf) erwähnt wurde. Das Patent [WO1999053428A1](https://web.archive.org/web/20221012145732/https://patents.google.com/patent/WO1999053428A1/) der Digimarc Corporation beschreibt Grundlagen davon.
 
 Wer mehr über Euro-Banknoten im Allgemeinen erfahren möchte, wird bei [Wikipedia](https://de.wikipedia.org/wiki/Eurobanknoten) fündig.
 
@@ -294,13 +294,13 @@ Die Grundlagen dieser bereits bekannten Verfahren sind Patentanträge wie beispi
 
 Zurück zum Machine Identification Code. Um zu überprüfen, ob ein Farblaserdrucker Machine Identification Codes auf Ausdrucken hinterlässt, gibt es verschiedene Verfahren. Wir haben uns bei unseren Untersuchungen am Vorgehen des Unabhängigen Landeszentrums für Datenschutz Schleswig-Holstein (ULD) in der zweiten Version ihrer Ausarbeitung [Vorsicht: Yellow Dots!](https://www.datenschutzzentrum.de/uploads/it/2019_ULD_Report-Yellow-Dots.pdf) orientiert.
 
-Für sämtliche nachfolgenden Untersuchungen haben wir, sofern nicht anders benannt, Ausdrucke unseres Canon imageRUNNER ADVANCE c5235i in DIN A4 mit den Farbprofilen <q>Farbe</q> und <q>Schwarz</q> verwendet. Zu abweichenden Ergebnissen kann etwa ein zu geringer Füllstand der gelben Tonerkartusche führen. Hier sei angemerkt, dass bei manchen Geräten auch ein Druck in Schwarzweiß nicht mehr möglich ist, sobald eine Farbe leer ist. Falls der Ausdruck eingescannt wird, kann auch eine zu geringe Auflösung des Scans das Untersuchungsergebnis beeinträchtigen.
+Zu den Faktoren, die das Ergebnis verfälschen könnten, gehört ein zu geringer Füllstand der gelben Tonerkartusche. Hier sei angemerkt, dass bei manchen Geräten auch ein Druck in Schwarzweiß nicht mehr möglich ist, sobald eine Farbe leer ist. Falls der Ausdruck eingescannt wird, kann auch eine zu geringe Auflösung des Scans das Untersuchungsergebnis beeinträchtigen.
 
-Für einen aussagekräftigen Vergleich haben wir ein Blatt Papier vor und nach dem Druck auf die gleiche Weise untersucht. Zuvor haben wir eine Seite des Blattes markiert, um sicherzustellen, dass wir vor und nach dem Druck die gleiche Seite betrachten.
+Für sämtliche nachfolgenden Untersuchungen haben wir, sofern nicht anders benannt, Ausdrucke unseres Canon imageRUNNER ADVANCE c5235i in DIN A4 mit den Farbprofilen <q>Farbe</q> und <q>Schwarz</q> verwendet. Für einen aussagekräftigen Vergleich haben wir ein Blatt Papier vor und nach dem Druck auf die gleiche Weise untersucht. Zuvor haben wir eine Seite des Blattes markiert, um sicherzustellen, dass wir vor und nach dem Druck die gleiche Seite betrachten.
 
 <h3 id="untersuchung-mit-dem-mikroskop">Untersuchung mit dem Mikroskop</h3>
 
-Wir haben zunächst unbedruckte Blätter genommen, eine Stelle markiert und diese vor und nach dem Druck mit einem Taschenmikroskop (Vergrößerung 60 bis 120) untersucht. Damit konnten wir die Ergebnisse des ULD bei uns bestätigen. Auf Ausdrucken, die mit dem Profil <q>Farbe</q> gedruckt wurden, konnten wir mehrere winzige gelbe Punkte feststellen. Bei Ausdrucken, die mit dem Farbprofil <q>Schwarz</q> erstellt wurden, waren diese nicht vorhanden.
+Wir haben zunächst unbedruckte Blätter genommen, eine Stelle markiert und diese vor und nach dem Druck mit einem Taschenmikroskop (Vergrößerung 60 bis 120) untersucht. Damit konnten wir die Ergebnisse des ULD bei uns bestätigen. Auf Ausdrucken, die mit dem Profil <q>Farbe</q> gedruckt wurden, haben wir mehrere winzige gelbe Punkte festgestellt. Bei Ausdrucken, die mit dem Farbprofil <q>Schwarz</q> erstellt wurden, waren diese nicht vorhanden.
 
 ![Gelbe Punkte unter dem Mikroskop](../assets/images/print-scan-traces/microscope-1.png) ![Gelbe Punkte unter dem Mikroskop](../assets/images/print-scan-traces/microscope-2.png)
 
@@ -314,7 +314,7 @@ Im Gegensatz zu dem Ergebnis des ULD konnten wir unter Schwarzlicht mit bloßem 
 
 Um die Ausdrucke am Computer untersuchen zu können, empfiehlt sich die Arbeit mit gescannten Dokumenten. Dabei ist zu beachten, das dies am besten in einer hohen Auflösung (z. B. 1200x1200 dpi) und in einem verlustfreien Format geschieht.
 
-Wir haben ein unbedrucktes weißes DIN-A4-Blatt vor und nach dem Bedrucken auf einem _Canon CanoScan LiDE 210_ mit 300, 600, 1200 und 2400 dpi eingescannt und als PNG-Datei gespeichert. Als Software diente uns dabei [GNOME simple-scan](https://gitlab.gnome.org/GNOME/simple-scan).
+Wir haben ein zuvor unbedrucktes weißes DIN-A4-Blatt vor und nach dem Bedrucken mit einem _Canon CanoScan LiDE 210_ mit 300, 600, 1200 und 2400 dpi eingescannt und als PNG-Datei gespeichert. Als Software diente uns dabei [GNOME simple-scan](https://gitlab.gnome.org/GNOME/simple-scan).
 
 <h4 id="gimp">Bearbeitung mit GIMP</h4>
 
@@ -339,14 +339,14 @@ Je höher die Auflösung (300, 600, 1200, 2400 dpi), desto besser lässt sich da
 
 ![Unterschiede in der Scan-Auflösung](../assets/images/print-scan-traces/scan-resolution.webp)
 
-Wir haben Ausdrucke vom Computer und vom USB-Stick sowie Kopien mit einer Auflösung von 600x600 dpi gescannt und in GIMP bearbeitet, um die Ausdrucke auf Machine Identification Codes zu untersuchen. In den Modi <q>Einzelfarbe</q> und <q>Zwei Farben</q> haben wir nur einen Teil der verfügbaren Farben untersucht.
+Wir haben Ausdrucke vom Computer und vom USB-Stick sowie Kopien mit einer Auflösung von 600x600 dpi gescannt und in GIMP bearbeitet, um sie auf Machine Identification Codes zu untersuchen. In den Druckmodi <q>Einzelfarbe</q> und <q>Zwei Farben</q> haben wir nur einen Teil der verfügbaren Farben untersucht.
 
 <table class="table">
   <thead>
     <tr>
       <th>Kategorie</th>
       <th>Modus</th>
-      <th>Anmerkung</th>
+      <th>Modus-Einstellung</th>
       <th>MIC</th>
     </tr>
   </thead>
@@ -422,7 +422,7 @@ Wir haben Ausdrucke vom Computer und vom USB-Stick sowie Kopien mit einer Auflö
 
 Ausdrucke und Kopien, die ohne Farben, sondern nur mit Schwarz erfolgen, erhalten in unseren Untersuchungen an unserem Gerät somit keinen sichtbaren Machine Identification Code.
 
-Wenn ein Muster festgestellt wurde, handelt es sich um ein sogenanntes <dfn>skewed small pattern</dfn>, welches Peter Buck in seiner Arbeit "[Reverse Engineering the Machine Identification Code]" beschrieben hat und das ebenfalls an der [Duke University untersucht wurde](https://people.duke.edu/~ng46/collections/steg-color-copier-dot-code.htm).
+Alle festgestellten Muster sind sogenannte <dfn>skewed small patterns</dfn>, welches Peter Buck in seiner Arbeit "[Reverse Engineering the Machine Identification Code](https://www.researchgate.net/publication/325976319_Reverse_Engineering_the_Machine_Identification_Code)" beschrieben hat und das ebenfalls an der [Duke University untersucht wurde](https://people.duke.edu/~ng46/collections/steg-color-copier-dot-code.htm).
 
 Wir können die Ergebnisse dieser Arbeiten bestätigen: Wir finden ein Muster aus 18 Punkten vor, die unserer Einschätzung nach in einem Raster von 16x32 angeordnet sind, wahrscheinlich die Seriennummer unseres Gerätes (JWF11162) repräsentieren und sich über die gesamte Seite wiederholen. Das Muster ändert sich nicht mit der Zeit, dem Datum oder dem Inhalt des gedruckten Dokuments. Es hat die Form eines um etwa 30 Grad geneigten Parallelogramms. Die Ausrichtung, Start und Ende könnten jedoch auch anders als hier abgebildet sein. Das folgende Bild zeigt vier Wiederholungen des Musters, die wir unterschiedlich eingefärbt haben.
 
@@ -430,7 +430,7 @@ Wir können die Ergebnisse dieser Arbeiten bestätigen: Wir finden ein Muster au
 
 <h3 id="mics-in-freier-wildbahn">MICs in freier Wildbahn</h3>
 
-Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, haben wir 100 Dokumente von 100 verschiedenen Unternehmen, Vereinen und Behörden untersucht, die wir unabhängig von dieser Untersuchung erhalten hatten. Das älteste Dokument kommt aus dem Jahr 2013, die meisten sind aus dem Zeitraum 2020-2022. Wir haben die Dokumente zufällig ausgewählt und jeweils meist das erste Blatt dieser Quelle mittels Scan und Bearbeitung mit GIMP, wie oben beschrieben, und mit dem Mikroskop bei 120 facher Vergrößerung untersucht.
+Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, haben wir 100 Dokumente von 100 verschiedenen Unternehmen, Vereinen und Behörden untersucht, die wir unabhängig von dieser Untersuchung erhalten hatten. Das älteste Dokument kommt aus dem Jahr 2013, die meisten sind aus dem Zeitraum 2020-2022. Wir haben die Dokumente zufällig ausgewählt und jeweils meist das erste Blatt mittels Scan und Bearbeitung mit GIMP, wie oben beschrieben, und mit dem Mikroskop bei 120 facher Vergrößerung untersucht.
 
 <table class="table">
   <thead>
@@ -1146,7 +1146,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
   </tbody>
 </table>
 
-Die Drucke bzw. Kopien stammen von uns unbekannten Laser- und Tintenstrahldruckern und waren schwarz-weiß und in Farbe. Die Stichprobe umfasste weißes Papier, nicht gebleichtes Recyclingpapier und vorgedrucktes Briefpapier. Ob im letzten Fall der Machine Identification Code beim Erstellen des Vordrucks oder beim Druck auf das Briefpapier erstellt wurde, haben wir nicht näher untersucht, sodass auch hier das Ergebnis nur <q>MIC festgestellt</q> oder <q>kein MIC festgestellt</q> lautet.
+Die Drucke und Kopien stammen von uns unbekannten Laser- und Tintenstrahldruckern und waren schwarz-weiß und in Farbe. Die Stichprobe umfasste weißes Papier, nicht gebleichtes Recyclingpapier und vorgedrucktes Briefpapier. Ob im letzten Fall der Machine Identification Code beim Erstellen des Vordrucks oder beim Druck auf das Briefpapier erstellt wurde, haben wir nicht näher untersucht, sodass auch hier das Ergebnis nur <q>MIC festgestellt</q> oder <q>kein MIC festgestellt</q> lautet.
 
 Bei vier Dokumenten konnten wir mit dem Mikroskop zwar gelbe Punkte auf dem Papier feststellen, doch da sich jeweils auf der gesamten Seite farbige Punkte in CMYK-Farben befanden, konnten wir nicht eindeutig ein Muster identifizieren und haben es als <q>unsicher (CMYK-Dots)</q> gewertet.
 
@@ -1154,13 +1154,15 @@ Insgesamt wurde bei 16 von 100 Dokumenten ein Machine Identification Code erkann
 
 <h3 id="deda-toolkit">Deda Toolkit</h3>
 
-Einen interessanten Ansatz verfolgt das [Deda Toolkit](https://github.com/dfd-tud/deda), welches an der [TU-Dresden](https://tu-dresden.de/tu-dresden/newsportal/news/geheime-daten-auf-dem-druckpapier-diplominformatiker-der-tu-dresden-entwickeln-verfahren-gegen-druckerueberwachung) entwickelt wurde. Es soll dabei helfen, Tracking-Dots zu erkennen, und bietet die Möglichkeit der Anonymisierung, indem erkannte Muster entfernt oder [neue hinzugefügt](https://news.ycombinator.com/item?id=14501894#14502387) werden können. Über das Verfahren berichteten u. a. [Netzpolitik.org](https://netzpolitik.org/2018/gute-nachricht-fuer-whistleblower-dresdner-forscher-tricksen-druckerueberwachung-aus/) und der [Deutschlandfunk](https://www.deutschlandfunk.de/farblaserdrucker-tracking-dots-unlesbar-machen-100.html).
+Einen interessanten Ansatz verfolgt das [Deda Toolkit](https://github.com/dfd-tud/deda), welches an der [TU Dresden](https://tu-dresden.de/tu-dresden/newsportal/news/geheime-daten-auf-dem-druckpapier-diplominformatiker-der-tu-dresden-entwickeln-verfahren-gegen-druckerueberwachung) entwickelt wurde. Es soll dabei helfen, Tracking-Dots zu erkennen, und bietet die Möglichkeit der Anonymisierung, indem erkannte Muster entfernt oder [neue hinzugefügt](https://news.ycombinator.com/item?id=14501894#14502387) werden können. Über das Verfahren berichteten u. a. [Netzpolitik.org](https://netzpolitik.org/2018/gute-nachricht-fuer-whistleblower-dresdner-forscher-tricksen-druckerueberwachung-aus/) und der [Deutschlandfunk](https://www.deutschlandfunk.de/farblaserdrucker-tracking-dots-unlesbar-machen-100.html).
 
 Wir haben das Deda Toolkit auf Debian-basierten Systemen getestet.
 
-1. `sudo apt update`
-2. `sudo apt install python3-pip`
-3. `pip3 install --user deda`
+```
+sudo apt update
+sudo apt install python3-pip
+pip3 install --user deda
+```
 
 <h4 id="deda_gui">deda_gui</h4>
 
@@ -1174,7 +1176,7 @@ Die `deda_gui` hat das Muster, welches mit der Bearbeitung in GIMP sichtbar wurd
 
 Bei unseren Tests in der Kommandozeile mit den gleichen Eingabedateien erkannte `deda_extract_yd` bei einer Datei mit 300 dpi Auflösung ein Trackingmuster (<q>Detected tracking dot pattern (-1, -1, 0.283334, 0.006667)</q>), bei höheren Auflösungen jedoch nicht mehr. Stattdessen erhielten wir die Fehlermeldung <q>AttributeError: 'YellowDotsXposer' object has no attribute 'dots'</q>.
 
-Um nach MICs zu suchen, erscheint uns daher die manuelle Methode mit GIMP zuverlässiger. Auch die Anonymisierungsmethode von deda scheint nur bei manchen Mustern zu funktionieren. In Test mit unserem Canon-Gerät gab es trotz der erfolgreichen Meldung <q>Document anonymized and saved</q> in der `deda_gui` und der Speicherung einer `anon.png` keine Veränderung zum Original, der MIC war nach wie vor erkennbar. Wie uns Stephan Escher mitgeteilt hat, gab es für die Analyse der von Canon verwendeten Muster bislang nicht genügend Material. Zudem seien Muster von Canon-Geräten schwerer zu detektieren als die anderer Hersteller.
+Um nach MICs zu suchen, erscheint uns daher die manuelle Methode mit GIMP derzeit zuverlässiger. Auch die Anonymisierungsmethode von deda scheint nur bei manchen Mustern zu funktionieren. In Test mit unserem Canon-Gerät gab es trotz der erfolgreichen Meldung <q>Document anonymized and saved</q> in der `deda_gui` und der Speicherung einer `anon.png` keine Veränderung zum Original, der MIC war nach wie vor erkennbar. Wie uns Stephan Escher mitgeteilt hat, gab es für die Analyse der von Canon verwendeten Muster bislang nicht genügend Material. Zudem seien Muster von Canon-Geräten schwerer zu detektieren als die anderer Hersteller.
 
 <h2 id="metadaten-in-gescannten-dateien">Metadaten in gescannten Dateien</h2>
 
@@ -1228,7 +1230,7 @@ Durch `-g` gruppiert ExifTool die ausgelesenen Informationen.
 * `File Type Extension`: Dateinamenserweiterung
 * `MIME Type`: Angabe des Medientyps und dessen Subtyps
 * `PDF Version`: verwendete PDF Version 1.4
-* `Linearized`: Für eine schnelle Webanzeige linearisiert?
+* `Linearized`
 * `Creator`: Name des Erstellers (kann auch eine Gerätebezeichnung oder verwendete Software sein)
 * `Create Date`: Systemzeit des Geräts (UTC+0, "Zulu")
 * `Page Count`: Seitenanzahl
@@ -1262,17 +1264,17 @@ Linearized                      : No
 
 Wer das Betriebssystem [Tails](https://tails.boum.org/index.de.html) verwendet, hat `mat2` bereits installiert und kann mittels Rechtsklick die Option <q>Metadaten entfernen</q> auswählen, um eine Datei in einem unterstützten Dateiformat von den meisten Metadaten zu befreien. Wenn du ein anderes Linux-basiertes Betriebssystem benutzt und `mat2` installieren möchtest, findest du [hier eine Anleitung](https://0xacab.org/jvoisin/mat2/-/blob/master/INSTALL.md).
 
-Wenn in [Qubes OS](https://www.qubes-os.org/) eine PDF-Datei in eine [Trusted PDF](https://github.com/QubesOS/qubes-app-linux-pdf-converter) umgewandelt wird, werden ebenfalls viele Metadaten entfernt, jedoch z. B. nicht das `Create Date`, welches neu gesetzt wird. Wer die Datums- und Zeitangaben in den Dateisystem-Metadaten und in den PDF-Metadaten manipulieren möchte, kann dafür die Systemzeit ändern und in die Zukunft oder Vergangenheit setzen. Dafür kann es erforderlich sein, zeitweilig offline zu sein bzw. die Online-Synchronisation zu verhindern.
+Wenn in [Qubes OS](https://www.qubes-os.org/) eine PDF-Datei in eine [Trusted PDF](https://github.com/QubesOS/qubes-app-linux-pdf-converter) umgewandelt wird, werden ebenfalls viele Metadaten entfernt, jedoch z. B. nicht das `Create Date`, welches neu gesetzt wird. Wer die Datums- und Zeitangaben in den Dateisystem-Metadaten und in den PDF-Metadaten manipulieren möchte, kann dafür die Systemzeit ändern und in die Zukunft oder Vergangenheit setzen. Dafür kann es erforderlich sein, zeitweilig offline zu sein bzw. die Online-Zeitsynchronisation zu verhindern.
 
 <h3 id="fallstricke-der-dateisysteme">Fallstricke der Dateisysteme</h3>
 
-Manche Dateisysteme speichern mehrere Zeitstempel, die manchmal übersehen werden und sich nicht immer restlos entfernen lassen. So speichert das ext4-Dateisystem für jede Datei ein <q>Creation Date</q>. Doch auch die Genauigkeit des Zeitstempels kann Informationen über den Ursprung bzw. die Transportmethode einer Datei offenbaren. So schreibt das Whonix-Projekt zum Thema [File System Data Leakage](https://www.whonix.org/wiki/Metadata#File_System_Data_Leakage) in Fußnote 3 (frei übersetzt):
+Manche Dateisysteme speichern mehrere Zeitstempel, die manchmal übersehen werden und sich nicht immer restlos entfernen lassen. So speichert das ext4-Dateisystem für jede Datei ein <q>Creation Date</q>. Auch die Genauigkeit des Zeitstempels kann Informationen über den Ursprung bzw. die Transportmethode einer Datei offenbaren. So schreibt das Whonix-Projekt zum Thema [File System Data Leakage](https://www.whonix.org/wiki/Metadata#File_System_Data_Leakage) in Fußnote 3 (frei übersetzt):
 
 > USB-Sticks sind fast die einzigen Datenträger, die üblicherweise das Dateisystem FAT32 verwenden, und FAT32 ist das einzige Dateisystem, dessen Zeitstempel eine Genauigkeit von zwei Sekunden haben. Daher lässt sich ganz einfach herausfinden, ob eine Datei auf einem USB-Stick war (dann sind alle Zeitstempel Vielfache von zwei Sekunden), es sei denn, die Zeitstempel werden bereinigt.
 
 <h2 id="unerklaerliche-blaue-punkte-auf-dem-papier">Unerklärliche blaue Punkte auf dem Papier</h2>
 
-Während unserer Untersuchungen mit dem Mikroskop haben wir festgestellt, dass auf dem Großteil der untersuchten Papiere (DIN A4 und A3) und auch neue, aus der Originalverpackung entnommene unbedruckte Blätter (Recyclingpapier ebenso wie gebleichtes weißes) kleine blaue, manchmal violett erscheinende Punkte zu sehen sind. Wir haben es leider nicht geschafft, diese Punkte mittels Scans und Bildbearbeitung sichtbar zu machen. Die Menge und Anordnung der Punkte erscheint uns bei diesen stichprobenartigen Sichtungen nicht wiederholend und teilweise sehr unterschiedlich, weshalb wir unsicher sind, ob es sich dabei beispielsweise um einen Code handelt, der von Papierherstellern dem Papier beigefügt wird, oder um zufällige Punkte, die beim Herstellungsprozess entstehen.
+Während unserer Untersuchungen mit dem Mikroskop haben wir festgestellt, dass auf dem Großteil der untersuchten Papiere (DIN A4 und A3) und auch neue, aus der Originalverpackung entnommene unbedruckte Blätter (Recyclingpapier ebenso wie gebleichtes weißes) kleine blaue, manchmal violett erscheinende Punkte zu sehen sind. Wir haben es leider nicht geschafft, diese Punkte mittels Scans und Bildbearbeitung sichtbar zu machen. Die Menge und Anordnung der Punkte erscheint uns bei diesen stichprobenartigen Sichtungen nicht wiederholend und teilweise sehr unterschiedlich, weshalb wir unsicher sind, ob es sich dabei beispielsweise um einen Code handelt, der von Papierherstellern dem Papier beigefügt wird, oder um zufällige Artefakte, die beim Herstellungsprozess entstehen.
 
 ![Blaue Punkte auf vielen Papiersorten](../assets/images/print-scan-traces/blue-dots.png)
 
@@ -1288,7 +1290,7 @@ Da wir auf diese Faktoren keinen Einfluss nehmen können, gehen wir hier nicht n
 
 <h2 id="fazit">Fazit</h2>
 
-Werden mit dem Farblaserdrucker in unserem Laden (Canon imageRUNNER ADVANCE c5235i) Ausdrucke in Farbe (Profil <q>Farbe</q>) erzeugt, befindet sich **mindestens** der bereits benannte Machine Identification Code auf der gesamten Fläche der ausgedruckten Seiten und ermöglicht so eine Zuordnung zu unserem Gerät.
+Werden mit dem Farblaserdrucker in unserem Laden (Canon imageRUNNER ADVANCE c5235i) Ausdrucke in Farbe (Profil <q>Farbe</q>) erzeugt, wird **mindestens** der bereits benannte Machine Identification Code auf der gesamten Fläche der ausgedruckten Seiten hinterlassen und ermöglicht so eine Zuordnung zu unserem Gerät.
 
 Da dies nicht allgemein bekannt ist und die Hersteller nicht darüber informieren, liegt es an uns, Nutzerinnen und Nutzer unseres Gerät über verräterischen Spuren zu informieren und mögliche Gegenmaßnahmen zu benennen. Auch das [Unabhängige Landeszentrum für Datenschutz Schleswig-Holstein resümiert](https://www.datenschutzzentrum.de/uploads/it/2019_ULD_Report-Yellow-Dots.pdf):
 
