@@ -154,7 +154,7 @@ Um die genannten Risiken zu verringern, können Personen bei uns von unserem Tai
 
 Die Verwendung von einmalig beschreibbaren CDs und DVDs ist hier sicherer als Flash-Speichermedien wie USB-Sticks und SD-Karten, auch wenn letztere einen Schreibschutz anbieten: "Bei Speichermedien mit eingebautem Hardware-Schreibschutz gibt es immer die Unsicherheit, in wie weit eine proprietäre Firmware die Blockade der Schreibkommandos und anderer Kommandos (Firmwareupdate) garantiert und nur die zum Lesen des Datenträgers erforderlichen Kommandos durchlässt."<sup><a href="#fn1" id="fnref1">1</a></sup> Wer mehr zu [Schreibtschutz](https://vkldata.com/Write-Blocker-Adapter) lesen möchte, oder selbst einen [Schreibschutz nachrüsten](https://vkldata.com/Schreibschutzschalter-am-USB-Stick-nachruesten) möchte, dem sei die Seite [vkldata.com](https://vkldata.com) empfohlen.
 
-Hardware-Schreibblocker (z. B. für [forensische Arbeiten](https://web.archive.org/web/20210512013406/https://it-forensik.fiw.hs-wismar.de/index.php/Write_Blocker)) erscheinen uns für diesen Einsatz aktuell zu kostspielig und unpraktikabel. Eine [Open-Source-DIY-Lösung](https://www.instructables.com/Cheap-and-Effective-USB-Write-Blocker/), wie auf der [Black Hat Europe 2012](https://docs.huihoo.com/blackhat/europe-2012/bh-eu-12-Polstra-Preventing_Oh_Shit-WP.pdf) erstmals veröffentlicht, hat leider eine sehr geringe Lesegeschwindigkeit.
+Hardware-Schreibblocker (z. B. für forensische Arbeiten [DE](https://web.archive.org/web/20210512013406/https://it-forensik.fiw.hs-wismar.de/index.php/Write_Blocker)[EN](https://en.wikipedia.org/wiki/Forensic_disk_controller)) erscheinen uns für diesen Einsatz aktuell zu kostspielig und unpraktikabel. Eine [Open-Source-DIY-Lösung](https://www.instructables.com/Cheap-and-Effective-USB-Write-Blocker/), wie auf der [Black Hat Europe 2012](https://docs.huihoo.com/blackhat/europe-2012/bh-eu-12-Polstra-Preventing_Oh_Shit-WP.pdf) erstmals veröffentlicht, hat leider eine sehr geringe Lesegeschwindigkeit.
 
 <h4 id="identifikation">Identifikation</h4>
 
@@ -182,7 +182,7 @@ Unser Multifunktionsgerät hat eine 160 GB große Festplatte. Auf Festplatten ge
 - [DHZ: Gefährlicher Datenspeicher: Sicherheitslücke am Kopierer (2015)](https://web.archive.org/web/20210712195315/https://www.deutsche-handwerks-zeitung.de/buerodrucker-richtig-entsorgen-148837/)
 - [heise/c't: Wirklich alles gelöscht? (2016)](https://web.archive.org/web/20210630084612/https://www.heise.de/select/ct/2016/13/1466680725734830)
 - [DiePresse: Das unschlagbare Langzeitgedächtnis von Druckern (2019)](https://web.archive.org/web/20210218171718/https://www.diepresse.com/5663245/das-unschlagbare-langzeitgedachtnis-von-druckern)
-- [DasErste: Datenleck: Ungelöschte Festplatten auf ebay Kleinanzeigen (2021)](https://www.daserste.de/information/wirtschaft-boerse/plusminus/sendung/daten-festplatten-ebay-kleinanzeigen-100.html)
+- [DasErste: Datenleck: Ungelöschte Festplatten auf ebay Kleinanzeigen (2021)](https://web.archive.org/web/20211022043523/https://www.daserste.de/information/wirtschaft-boerse/plusminus/sendung/daten-festplatten-ebay-kleinanzeigen-100.html)
 
 Canon [schreibt dazu](https://web.archive.org/web/20220811185828/https://oip.manual.canon/USRMA-0072-zz-CS-deDE/contents/CS5255_security1243_specifyingmanagementsettingsfortheharddisk.html):
 
@@ -219,7 +219,7 @@ Es gibt mannigfaltige Möglichkeiten, aus Ausdrucken Informationen zu gewinnen, 
 
 Obwohl es [seit 2004 bekannt ist](https://web.archive.org/web/20210502113634/https://www.pcworld.idg.com.au/article/8305/dutch_track_counterfeits_via_printer_serial_numbers/), handelt es sich doch um etwas, das nur wenige Personen im Kopf haben, wenn sie etwas drucken. Ein Machine Identification Code (MIC) wird auch als _yellow dots_, _tracking dots_, _secret dots_, Farbdruckermarkierung, _colour tracking dots_ oder _printer steganography_ bezeichnet und meint ein Verfahren, das winzige, für das bloße Auge nicht sichtbare, gelbe Punkte auf Ausdrucken hinzufügt. Diese gelben Punkte bilden ein Muster (davon gibt es verschiedene Formen) <sup><a href="#fn5" id="fnref5">5</a></sup>, in denen Informationen wie z. B. die Seriennummer des Gerät und ein Zeitstempel (Druckdatum und -uhrzeit) codiert gespeichert sind. Dieses Muster ist über die gesamte Seite verteilt. Für die Umsetzung ist die Firmware der Geräte verantwortlich. Im Jahr 2004 erhielt die Canon Deutschland GmbH dafür den BigBrotherAward in der Kategorie Technik.<sup><a href="#fn6" id="fnref6">6</a></sup>
 
-Die codierten Informationen werden mitunter verwendet, um Personen zu identifizieren, die für Ausdrucke verantwortlich sind. Das führte u. a. bereits zu Identifizierung einer [Whistleblowerin der NSA](https://www.heise.de/newsticker/meldung/Vom-Drucker-verraten-NSA-Dokument-enttarnt-Whistleblowerin-3734692.html) und von [Mitarbeiter(n) des Berliner Staatsschutzes](https://web.archive.org/web/20201124104210/https://de.indymedia.org/node/29284), die Drohbriefe mit polizeiinternen Informationen [an 42 Personen versendet haben](https://web.archive.org/web/20210917182258/https://de.indymedia.org/node/16467).
+Die codierten Informationen werden mitunter verwendet, um Personen zu identifizieren, die für Ausdrucke verantwortlich sind. Das führte u. a. bereits zu Identifizierung einer Whistleblowerin der NSA [DE](https://web.archive.org/web/20220930221428/https://www.heise.de/newsticker/meldung/Vom-Drucker-verraten-NSA-Dokument-enttarnt-Whistleblowerin-3734692.html)[EN](https://web.archive.org/web/20220314225850/https://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html) und von [Mitarbeiter(n) des Berliner Staatsschutzes](https://web.archive.org/web/20201124104210/https://de.indymedia.org/node/29284), die Drohbriefe mit polizeiinternen Informationen [an 42 Personen versendet haben](https://web.archive.org/web/20210917182258/https://de.indymedia.org/node/16467).
 
 Die [Electronic Frontier Foundation (EFF)](https://www.eff.org/), welche sich umfangreich mit [Druckern und deren Trackingmethoden](https://www.eff.org/de/issues/printers) befasst hat, traf im Jahr 2017 [folgende Einschätzung](https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots) [frei übersetzt]:
 
@@ -1327,9 +1327,9 @@ Wenn ihr unsere Arbeit unterstützen möchtet, findet ihr hier [unsere digitale 
 
 <h2 id="presse">Presse</h2>
 
-* [heise.de: Anonymes Drucken und Kopieren nahzu unmöglich (2017)](https://www.heise.de/ct/artikel/Anonymes-Drucken-und-Kopieren-nahzu-unmoeglich-3735925.html)
-* [heise.de: Bürgerrechtler wollen Spionage per Farblaser-Ausdruck dokumentieren (2005)](https://www.heise.de/newsticker/meldung/Buergerrechtler-wollen-Spionage-per-Farblaser-Ausdruck-dokumentieren-118895.html)
-* [SRF: Der Spion im Farbdrucker (2019)](https://www.srf.ch/news/schweiz/anonym-ausdrucken-kaum-moeglich-der-spion-im-farbdrucker)
+* [heise.de: Anonymes Drucken und Kopieren nahzu unmöglich (2017)](https://web.archive.org/web/20220323005634/https://www.heise.de/ct/artikel/Anonymes-Drucken-und-Kopieren-nahzu-unmoeglich-3735925.html)
+* [heise.de: Bürgerrechtler wollen Spionage per Farblaser-Ausdruck dokumentieren (2005)](https://web.archive.org/web/20220930221428/https://www.heise.de/newsticker/meldung/Buergerrechtler-wollen-Spionage-per-Farblaser-Ausdruck-dokumentieren-118895.html)
+* [SRF: Der Spion im Farbdrucker (2019)](https://web.archive.org/web/20220127120940/https://www.srf.ch/news/schweiz/anonym-ausdrucken-kaum-moeglich-der-spion-im-farbdrucker)
 
 <h2 id="guides">Guides</h2>
 
@@ -1346,7 +1346,7 @@ Wenn ihr unsere Arbeit unterstützen möchtet, findet ihr hier [unsere digitale 
 <div class="footnotes">
 	<p><sup><a href="#fnref1" id="fn1">1</a></sup> <a href="https://vkldata.com/Open-Source-Projekte">https://vkldata.com/Open-Source-Projekte</a></p>
 	<p><sup><a href="#fnref2" id="fn2">2</a></sup> <a href="https://github.com/snovvcrash/usbrip">https://github.com/snovvcrash/usbrip</a></p>
-	<p><sup><a href="#fnref3" id="fn3">3</a></sup> <a href="https://forensafe.com/blogs/usbforensics.html">https://forensafe.com/blogs/usbforensics.html</a></p>
+	<p><sup><a href="#fnref3" id="fn3">3</a></sup> <a href="[https://forensafe.com/blogs/usbforensics.html](https://web.archive.org/web/20220121231136/https://www.forensafe.com/blogs/usbforensics.html)">[https://forensafe.com/blogs/usbforensics.html](https://web.archive.org/web/20220121231136/https://www.forensafe.com/blogs/usbforensics.html)</a></p>
 	<p><sup><a href="#fnref4" id="fn4">4</a></sup> <a href="https://linuxhint.com/usb_forensics/">https://linuxhint.com/usb_forensics/</a></p>
 	<p><sup><a href="#fnref5" id="fn5">5</a></sup> <a href="https://www.researchgate.net/publication/325976319_Reverse_Engineering_the_Machine_Identification_Code">https://www.researchgate.net/publication/325976319_Reverse_Engineering_the_Machine_Identification_Code</a></p>
 	<p><sup><a href="#fnref6" id="fn6">6</a></sup> <a href="https://bigbrotherawards.de/2004/technik-canon">https://bigbrotherawards.de/2004/technik-canon</a></p>
