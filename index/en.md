@@ -20,7 +20,7 @@
 
 * [Mnemonic German word lists](https://github.com/dys2p/wordlists-de)
 * [Random Mosaic – Detecting unauthorized physical access with beans, lentils and colored rice](2021-12-tamper-evident-protection.html)
-* [Verräterische Spuren in Ausdrucken und Scans (currently in German only)](2022-09-print-scan-traces.html)
+* [Verräterische Spuren in Ausdrucken und Scans](2022-09-print-scan-traces.html)
 
 ## Translations
 
