@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>dys2p</title>
 		<!-- TODO icon -->
-		<link rel="stylesheet" href="../assets/bootstrap-4.4.1.min.css">
+		<link rel="stylesheet" href="../assets/bootstrap.min.css">
 		<link rel="stylesheet" href="../assets/style.css" />
 		{{.Head}}
 	</head>
@@ -17,19 +17,21 @@
 				<a class="nav-item nav-link text-dark px-2 py-0" href="https://toolbox77.de">toolbox77</a>
 			</nav>
 			<nav class="navbar navbar-expand-sm navbar-light bg-light">
-				<input type="checkbox" id="toggle-navbar">
-				<div class="navbar-toggler">
-					<label class="mb-0 navbar-toggler-icon" for="toggle-navbar"></label>
-				</div>
-				<div class="collapse navbar-collapse">
-					<div class="equal-width-sm"><!-- empty --></div>
-					<div class="navbar-nav equal-width-sm d-flex justify-content-center">
-						<a class="nav-item nav-link text-dark" href="index.html">dys2p</a>
-						<a class="nav-item nav-link text-dark" href="konzept.html">{{.Map "de" "Konzept" "en" "Concept"}}</a>
-						<a class="nav-item nav-link text-dark" href="support.html">{{.Map "de" "Unterstütze uns" "en" "Support us"}}</a>
+				<div class="container-fluid">
+					<input type="checkbox" id="toggle-navbar">
+					<div class="navbar-toggler">
+						<label class="mb-0 navbar-toggler-icon" for="toggle-navbar"></label>
 					</div>
-					<div class="equal-width-sm text-right">
-						{{range .Locales}}<a class="btn btn-sm btn-secondary{{if eq . $.Locale}} active{{end}}" href="../{{.}}/{{$.Path}}">{{Caps .}}</a> {{end}}
+					<div class="collapse navbar-collapse">
+						<div class="equal-width-sm"><!-- empty --></div>
+						<div class="navbar-nav equal-width-sm d-flex justify-content-center">
+							<a class="nav-item nav-link text-dark" href="index.html">dys2p</a>
+							<a class="nav-item nav-link text-dark" href="konzept.html">{{.Map "de" "Konzept" "en" "Concept"}}</a>
+							<a class="nav-item nav-link text-dark" href="support.html">{{.Map "de" "Unterstütze uns" "en" "Support us"}}</a>
+						</div>
+						<div class="equal-width-sm text-end">
+							{{range .Locales}}<a class="btn btn-sm btn-secondary{{if eq . $.Locale}} active{{end}}" href="../{{.}}/{{$.Path}}">{{Caps .}}</a> {{end}}
+						</div>
 					</div>
 				</div>
 			</nav>
