@@ -175,7 +175,7 @@ A realtively widespread method to seal screws on devices, for example, so that u
 
 We have done a few experiments on our own to test the effectiveness of this process.
 
-<h4 id="glitzer-nagellack-mit-aufklebern">Glitter nail polish with stickers>/h4>
+<h4 id="glitzer-nagellack-mit-aufklebern">Glitter nail polish with stickers</h4>
 
 In the method described by [Mullvad VPN](https://mullvad.net/en/help/how-tamper-protect-laptop/), a sticker whose edge is sealed with [glitter nail polish](https://shop.proxysto.re/conf/501) protects the screws (or unused ports) so that, on the one hand, access attempts can be detected and, on the other hand, access to them can be regained easily if necessary. With this procedure, however, attackers without a lot of practice can use a needle or scalpel, for example, to drive under the sticker and push it partially upward to get to the screws relatively easily. The broken areas in the paint could be repaired with clear nail polish, although we did not need to do this in most of our tests. We have used two different stickers in our experiments so far, with the Mullvad one holding up best.
 
