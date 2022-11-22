@@ -1,4 +1,11 @@
+<style>
+q { font-family: monospace; }
+.footnotes p { margin-bottom: 0; }
+</style>
+
 # Random Mosaic – Erkennung unautorisierter physischer Zugriffe mit Bohnen, Linsen und buntem Reis
+
+_Dezember 2021_
 
 Die Geschichte der Menschheit ist auch eine Geschichte von Geheimnissen, Angriffen und der Verteidigung des Vertraulichen. Steganografie, Kryptografie und technische Hilfsmittel unterstützen uns bei der Wahrung des Privaten. Die Gegenspieler der Vertraulichkeit arbeiten – je nach Akteur – außerhalb oder innerhalb rechtlicher Rahmenbedingungen und passen sich diese oft mit Scheinargumenten an.
 
@@ -8,9 +15,124 @@ Seit Jahrtausenden werden Siegel in diversen Formen mit dem Ziel verwendet, die 
 
 Nachfolgend zeigen wir ein paar Beispiele für diese Angriffe, fassen bekannte Gegenmaßnahmen zusammen und stellen eine neue Methode vor.
 
-## Ein- und Angriffe
+## Inhaltsverzeichnis
 
-### Manipulation auf dem Versandweg (Supply Chain Interdiction)
+<nav>
+  <ul>
+    <li>
+      <a href="#ein-und-angriffe">Ein- und Angriffe</a>
+      <ul>
+        <li>
+          <a href="#manipulation-auf-dem-versandweg">Manipulation auf dem Versandweg (Supply Chain Interdiction)</a>
+        </li>
+        <li>
+          <a href="#evil-maid-attacken">Evil-Maid-Attacken</a>
+        </li>        
+      </ul>
+    <li>
+      <a href="#schutzverfahren">Schutzverfahren</a>
+    </li>
+    </li>        
+      <ul>
+        <li>
+          <a href="#glitzer-nagellack">Glitzer-Nagellack</a>
+          <ul>
+            <li>
+              <a href="#glitzer-nagellack-mit-aufklebern">Glitzer-Nagellack mit Aufklebern</a>
+            </li>
+            <li>
+              <a href="#glitzer-nagellack-direkt">Glitzer-Nagellack direkt</a>
+            </li>
+            <li>
+              <a href="#glitzer-nagellack-mit-klebstoff">Glitzer-Nagellack mit Klebstoff</a>
+            </li>
+            <li>
+              <a href="#fazit">Fazit</a>
+            </li>
+        </ul>
+        </li>
+       </ul>
+    <li>
+      <a href="#random-mosaic-rm">random mosaic $ rm -r ice</a>
+    </li>      
+      <ul>
+        <li>
+          <a href="#auf-der-suche-nach-geeigneten-substanzen">Auf der Suche nach geeigneten Substanzen</a>
+          <ul>
+            <li>
+              <a href="#rote-linsen-und-belugalinsen">Rote Linsen & Belugalinsen</a>
+            </li>
+            <li>
+              <a href="#gelbe-erbsen-und-weiße-bohnen">Gelbe Erbsen & weiße Bohnen</a>
+            </li>            
+            <li>
+              <a href="#gefaerbter-reis">Gefärbter Reis</a>
+            </li>
+            <li>
+              <a href="#goldhirse">Goldhirse</a>
+            </li>
+            <li>
+              <a href="#vogelfutter">Vogelfutter</a>
+            </li>
+            <li>
+              <a href="#kugeln-aus-verschiedenen-farben-groessen-und-materialien">Kugeln aus verschiedenen Farben, Größen und Materialien</a>
+            </li>
+            <li>
+              <a href="#gefaerbtes-salz">Gefärbtes Salz</a>
+            </li>
+            <li>
+              <a href="#gefaerbter-zucker">Gefärbter Zucker</a>
+            </li>
+            <li>
+              <a href="#gefaerbte-maisstärke">Gefärbte Maisstärke (DIY-Holi-Pulver)</a>
+            </li>
+            <li>
+              <a href="#kinetischer-sand">Kinetischer Sand</a>
+            </li>                   
+          </ul>            
+        </li>
+        <li>
+          <a href="#faerben-mit-lebensmittelfarbe">Färben mit Lebensmittelfarbe</a>        
+         </li>       
+        <li>
+          <a href="#kurzzeitige-lagerung">Kurzzeitige Lagerung</a>        
+         </li>         
+        <li>
+          <a href="#laengerfristige-lagerung-oder-versand">Längerfristige Lagerung oder Versand</a>        
+         </li>
+          <ul>
+            <li>
+              <a href="#vakuumieren-mit-dem-staubsauger">Vakuumieren mit dem Staubsauger</a>         
+            </li>                          
+            <li>
+              <a href="#vakuumieren-mit-einem-vakuumiergeraet">Vakuumieren einem Vakuumiergerät</a>         
+            </li>
+            <li>
+              <a href="#kaskadierung">Kaskadierung</a>         
+            </li>
+          </ul>           
+        </li>
+        <li>
+          <a href="#auswertung">Auswertung</a>        
+         </li>
+          <ul>
+            <li>
+              <a href="#blink-comparison">Blink Comparison</a>         
+            </li> 
+          </ul>
+      </ul>        
+    <li>
+      <a href="#danksagung-und-partizipation">Danksagung und Partizipation</a>
+    </li>         
+    <li>
+      <a href="#erwaehnungen">Erwähnungen</a>
+    </li>            
+  </ul>
+</nav>
+
+<h2 id="ein-und-angriffe">Ein- und Angriffe</h2>
+
+<h3 id="manipulation-auf-dem-versandweg">Manipulation auf dem Versandweg (Supply Chain Interdiction)</h3>
 
 Während die US-Regierung seit Jahren behauptet, dass chinesische Firmen Überwachungstechnik in Geräten verbauen, die in die USA exportiert werden (etwa in Netzwerktechnik), wurde 2014 im Buch ["Die globale Überwachung" von Glenn Greenwald](https://www.droemer-knaur.de/buch/glenn-greenwald-die-globale-ueberwachung-9783426786918) enthüllt, dass die NSA-Einheit "TAO" (Tailored Access Operations) mindestens seit 2010 technische Geräte auf dem Versandweg abfängt und manipuliert. [Netzpolitik.org](https://netzpolitik.org/2014/nsa-hat-eine-spezialeinheit-um-paeckchen-zu-oeffnen-und-wanzen-zu-implantieren/) fasst zusammen:
 
@@ -21,7 +143,7 @@ Während die US-Regierung seit Jahren behauptet, dass chinesische Firmen Überwa
 
 Es ist anzunehmen, dass derartige Angriffe auch in anderen Staaten stattfinden – sei es gegen Einzelpersonen oder großflächiger. [The Intercept veröffentlichte 2019 einen guten Artikel](https://theintercept.com/2019/01/24/computer-supply-chain-attacks/) zu Lieferkettenangriffen, Microsoft begann im selben Jahr eine eigene Artikelreihe: [Teil 1](http://microsoft.com/security/blog/2019/10/16/guarding-against-supply-chain-attacks-part-1-big-picture/), [Teil 2](https://web.archive.org/web/20210226030901/https://www.microsoft.com/security/blog/2020/02/03/guarding-against-supply-chain-attacks-part-2-hardware-risks/) und [Teil 3](https://web.archive.org/web/20210303150737/https://www.microsoft.com/security/blog/2020/03/11/guarding-against-supply-chain-attacks-part-3-how-software-becomes-compromised/).
 
-### Evil-Maid-Attacken
+<h3 id="evil-maid-attacken">Evil-Maid-Attacken</h3>
 
 Falls Hardwarezugriff besteht, lässt sich eine [Evil-Maid-Attacke](https://www.whonix.org/wiki/AEM) im eigentlichen Sinne [innerhalb weniger Minuten](https://www.youtube.com/watch?v=loBX_vEXxVA) durchführen. Wer Zugriff auf die Hardware hat, kann nicht nur Firmware und ggf. Software manipulieren, sondern auch Hardware austauschen oder manipulieren und Abbilder von Speichermedien erstellen.
 
@@ -31,7 +153,7 @@ In dem verlinkten Artikel werden auch Maßnahmen vorgestellt, die eine derartige
 >
 > – [Nicole Perlroth (cyber-security and digital espionage reporter at The New York Times) at 16:45 in EP 98: Zero Day Brokers from darknet diaries.](https://darknetdiaries.com/transcript/98/)
 
-## Schutzverfahren
+<h2 id="schutzverfahren">Schutzverfahren</h2>
 
 Es gibt spezielle Schrauben, Siegel, "fälschungssichere" Labels und Klebeband, "manipulationssichere" Taschen und [vieles mehr](https://www.hhi.fraunhofer.de/abteilungen/fs/projekte/archiv/optical-tamper-protection-otp-fuer-prs-security-module.html), um unautorisierte Zugriffe etwa auf Gegenstände oder auf Inhalte von Sendungen feststellen zu können. Wir gehen davon aus, dass die meisten Verfahren überlistet werden können und für talentierte und ressourcenstarke Angreifer kein Problem darstellen. Wer einen Einblick bekommen mag, kann sich Vorträge wie beispielsweise von der [DEFCON 19: Introduction to Tamper Evident Devices](https://www.youtube.com/watch?v=W07ZpEv9Sog) ansehen. Mehr dazu erfährt man auch in den Arbeiten von Sergei Skorobogatov (Physical Attacks and Tamper Resistance. Introduction to Hardware Security and Trust, 143-173, `doi:10.1007/978-1-4419-8080-9_7`) und [Elena Dubrova](https://people.kth.se/~msmith/is2500_pdf/Anti-Tamper%20Techniques_elena.pdf). Es gibt auch Wettbewerbe, in denen es darum geht, möglichst viele dieser Schutzmaßnahmen zu umgehen. So geben uns Mos & Boo Einblicke von der [OzSecCon 2018 Tamper Evident Challenge](https://mosandboo.com/ozseccon-2018-tamper-evident-challenge-walkthrough/).
 
@@ -47,13 +169,13 @@ Nachdem im Jahr 2020 ein Akteur Kundendaten verbreitet hat, erhielten mehrere Le
 
 Andere Unternehmen suchen nach Verbesserungsmöglichkeiten. So haben wir nach unseren Experimenten [die Arbeiten von shiftcrypto](https://shiftpages.github.io/tamper-evident-packaging/#how-it-works) gefunden und uns gefreut, dass diese teilweise ähnliche Ansätze verfolgen. Mehr zu ihren Erfahrungen während der Testphase kann man [in diesem Rückblick](https://medium.com/shiftcrypto/bitboxtep-alpha-program-what-we-have-learned-cd2e1a1bbd6c) nachlesen.
 
-### Glitzer-Nagellack
+<h3 id="glitzer-nagellack">Glitzer-Nagellack</h3>
 
 Eine realtiv weit verbreitete Methode, um beispielsweise Schrauben an Geräten zu versiegeln, damit ein unautorisierter Zugriff mit höherer Wahrscheinlichkeit festgestellt werden kann, ist die Verwendung von Nagellack mit verschiedenfarbigen und verschieden großen Elementen. Dieses Verfahren wurde unseres Wissen nach erstmalig auf dem [30C3](https://media.ccc.de/v/30C3_-_5600_-_en_-_saal_1_-_201312301245_-_thwarting_evil_maid_attacks_-_eric_michaud_-_ryan_lackey) von [Eric Michaud](https://twitter.com/ericmichaud) und [Ryan Lackey](https://twitter.com/octal) vorgestellt und wird von mehreren Unternehmen und Privatpersonen empfohlen und genutzt, so auch von [Journalisten bei der Auswertung der Panama Papers](https://www.mz.de/deutschland-und-welt/politik/panama-papers-journalisten-sicherten-laptops-mit-glitzernagellack-1138070).
 
 Wir haben selbst ein paar Versuche unternommen, um die Wirksamkeit dieses Verfahrens zu prüfen.
 
-#### Glitzer-Nagellack mit Aufklebern
+<h4 id="glitzer-nagellack-mit-aufklebern">Glitzer-Nagellack mit Aufklebern</h4>
 
 Bei dem von [Mullvad VPN beschriebenen Verfahren](https://mullvad.net/en/help/how-tamper-protect-laptop/) schützt ein Aufkleber, dessen Rand mit [Glitzer-Nagellack](https://shop.proxysto.re/conf/501) versiegelt wird, die Schrauben (oder ungenutzte Ports), um so einerseits Zugriffsversuche feststellen zu können und anderseits bei Bedarf einfach wieder Zugang dazu zu erhalten. Bei diesem Verfahren ist es jedoch ohne große Übung relativ einfach möglich, z. B. mit einer Nadel oder einem Skalpell unter den Aufkleber zu fahren und diesen zum Teil nach oben zu schieben, um an die Schrauben zu kommen. Die Bruchstellen im Lack könnten mit Klarlack repariert werden, wobei dies uns bei unseren Versuchen meist nicht erforderlich war. Wir haben bei unseren Versuchen bisher zwei verschiedene Aufkleber verwendet, wobei der von Mullvad am besten hielt.
 
@@ -63,23 +185,23 @@ Das nachfolgende Bild ist eine Vorher-Nachher-Aufnahme eines unserer ersten Vers
 
 Die linke Aufnahme zeigt eine mit dem Nagellack von Mullvad VPN versiegelte Schraube. Die rechte Aufnahme entstand, nachdem diese Versiegelung einmal wie oben beschrieben geöffnet wurde. Im linken oberen Teil der rechten Aufnahme ist zu erkennen, dass die Anordnung der Elemente an der Kante des Aufklebers etwas verändert ist. Die beiden größeren Elemente (linker Rand mittig und unten) wurden ebenfalls gebrochen, jedoch danach wieder auf ihre alte Position gebracht. In weiteren Versuchen haben wir ähnliche Ergebnisse erzielt. Ausschlaggebend ist bei diesem Verfahren die Menge der Elemente auf der Kante des Aufklebers. Zudem gibt es spezielle Siegel-Aufkleber, die beim Abziehen kaputt gehen und für dieses Verfahren vermutlich besser geeignet sind.
 
-#### Glitzer-Nagellack direkt
+<h4 id="glitzer-nagellack-direkt">Glitzer-Nagellack direkt</h4>
 
 Diese Methode wird u. a. von [Nitrokey](https://docs.nitrokey.com/de/nitropad/qubes/sealed-hardware.html) und [Purism](https://puri.sm/posts/anti-interdiction-update-six-month-retrospective/) verwendet und ist im Vergleich zum vorherigen Verfahren aus unserer Sicht sicherer. Dabei werden die Schrauben direkt mit Glitzer-Nagellack versiegelt. Hierbei sind die Schächte der Schrauben besonders relevant. Ist ein Schacht zu tief, ist es schwer, unter normalen Bedingungen ein brauchbares Foto der Versiegelung zu machen. Ist der Schacht flach oder wird er vollständig mit Nagellack gefüllt, besteht die Gefahr, dass bei der Verwendung von viel Lack die obere Schicht abgeschnitten und nach der Manipulation mit Klarlack wieder angebracht werden kann. Falls der Nagellack zu wenige Elemente enthält, könnten diese nach der Manipulation ggf. manuell wieder an der Ausgangsstelle angeordnet werden. Wie [HoodiePony](https://twitter.com/hoodiePony) bei der _OzSecCon 2018 Tamper Evident Challenge_ vorgegangen ist, um drei von vier Siegeln erfolgreich zu brechen und wieder anzubringen, ist uns leider aktuell nicht bekannt.
 
-#### Glitzer-Nagellack mit Klebstoff
+<h4 id="glitzer-nagellack-mit-klebstoff">Glitzer-Nagellack mit Klebstoff</h4>
 
 Wir haben in weiteren Versuchen die Kombination von Glitzer-Nagellack mit verschiedenen Klebstoffen (UHU Alleskleber, Herlitz Sekundenkleber, Doratex Double Power, Yachtcare Super Epoxy) ausprobiert. Diese Verfahren machen es schwerer, Schrauben bei Bedarf wieder zu lösen. Unser bisheriger Favorit ist die Versiegelung von Schrauben mit Epoxidharz und Glitzer-Nagellack, wobei sich der Lack in oder über dem Harz befinden kann.
 
-#### Fazit
+<h4 id="fazit">Fazit</h4>
 
 Mit den ersten beiden Verfahren ist es mitunter sehr schwierig oder gar unmöglich, Manipulationen zu erkennen. Durch eine sorgfältige Herangehensweise lassen sich die Chancen jedoch erhöhen. Angriffe auf Klebstoffe, etwa mit Lösungsmitteln oder Wärme, müssen noch eingehender untersucht werden.
 
-## random mosaic $ rm -r ice
+<h2 id="random-mosaic-rm">random mosaic $ rm -r ice</h2>
 
 Eine Alternative zum Versiegeln ist das Einbetten des ganzen Gegenstands in einer Substanz, deren Oberfläche ein Mosaik bildet, das schwer reproduzierbar ist und sich bei Manipulationen ändert. Das Mosaik soll manuell oder mit technischen Mitteln möglichst einfach überprüft werden können. Das Ziel ist, Schriftstücke, Datenträger, Kommunikationstechnik, Hardware-Wallets und andere sensible Objekte so zu schützen, dass ein unautorisierter Zugriff mit größerer Wahrscheinlichkeit festgestellt werden kann. Wir unterscheiden zwischen zwei Anwendungsfällen: kurzzeitiger Lagerung und längerfristiger Lagerung bzw. Versand.
 
-### Auf der Suche nach geeigneten Substanzen
+<h3 id="auf-der-suche-nach-geeigneten-substanzen">Auf der Suche nach geeigneten Substanzen</h3>
 
 Die gesuchte Mischung sollte:
 
@@ -95,67 +217,67 @@ Die gesuchte Mischung sollte:
 
 Um das Mischverhalten zu testen, waren für uns insbesondere die ersten drei Punkte relevant. Wir haben mehrere Substanzen untersucht und uns dabei auf solche beschränkt, die die letzten drei Punkte unserer Anforderungen erfüllten. Unser bisheriger Favoriten sind: Rote Linsen & Belugalinsen, gelbe und grüne Erbsen und weiße Bohnen, sowie gefärbter Reis.
 
-#### Rote Linsen & Belugalinsen
+<h4 id="rote-linsen-und-belugalinsen">Rote Linsen & Belugalinsen</h4>
 
 ![Linsen](../assets/images/tamper-evident-protection/linsen_01.jpg)
 
 Die Linsen haben eine gute Größe, ein gutes Mischverhalten und bilden ein kontrastreiches Mosaik.
 
-#### Gelbe Erbsen & weiße Bohnen
+<h4 id="gelbe-erbsen-und-weiße-bohnen">Gelbe Erbsen & weiße Bohnen</h4>
 
 ![Erbsen & Bohnen](../assets/images/tamper-evident-protection/eb_01.jpg)
 
 Sowohl die gelben Erbsen als auch die weißen Bohnen haben eine gute Größe, ein gutes Mischverhalten und bilden ein kontrastreiches Mosaik.
 
-#### Gefärbter Reis
+<h4 id="gefaerbter-reis">Gefärbter Reis</h4>
 
 ![Reis](../assets/images/tamper-evident-protection/reis_01.jpg)
 
 Der Reis ist etwas feinkörniger als die beiden zuvor genannten Substanzen. Er hat jedoch den Vorteil, dass man sich die gewünschten Farben selbst mit Lebensmittelfarbe (mehr dazu weiter unten) zusammenstellen kann.
 
-#### Goldhirse
+<h4 id="goldhirse">Goldhirse</h4>
 
 ![Goldhirse](../assets/images/tamper-evident-protection/hirse_01.jpg)
 
 Hirse haben wir auf Grund seiner geringen Größe nur in Kombination mit anderen Substanzen getestet.
 
-#### Vogelfutter
+<h4 id="vogelfutter">Vogelfutter</h4>
 
 ![Vogelfutter](../assets/images/tamper-evident-protection/vogelfutter_01.jpg)
 
 Vogelfutter hat den Vorteil, dass es in kleineren Beuteln relativ normal aussieht und sein Geheimnis dadurch möglicherweise vor Angreifern verbergen kann. Je nach Zusammensetzung kann es jedoch verkleben.
 
-#### Kugeln aus verschiedenen Farben, Größen und Materialien
+<h4 id="kugeln-aus-verschiedenen-farben-groessen-und-materialien">Kugeln aus verschiedenen Farben, Größen und Materialien</h4>
 
 ![Kugeln](../assets/images/tamper-evident-protection/kugeln_01.jpg)
 
 Die Kugeln haben im Vergleich zu den anderen Artikeln wahrscheinlich die beste Beständigkeit, sind jedoch teurer und schwerer erhältlich als die meisten anderen Subtanzen.
 
-#### Gefärbtes Salz
+<h4 id="gefaerbtes-salz">Gefärbtes Salz</h4>
 
 ![Salz](../assets/images/tamper-evident-protection/salz_01.jpg)
 
 Das Salz haben wir mit Lebensmittelfarben gefärbt (mehr dazu weiter unten). Aufgrund der Körnergröße ist ein Vergleich des Mosaiks schwerer.
 
-#### Gefärbter Zucker
+<h4 id="gefaerbter-zucker">Gefärbter Zucker</h4>
 
 ![Zucker](../assets/images/tamper-evident-protection/zucker_01.jpg)
 
 Den Zucker haben wir mit Lebensmittelfarben gefärbt (mehr dazu weiter unten). Zucker verhält sich ähnlich wie Salz, es kommt jedoch gelegentlich zu leichter Klumpenbildung. Aufgrund der Körnergröße ist ein Vergleich des Mosaiks schwerer.
 
-#### Gefärbte Maisstärke (DIY-Holi-Pulver)
+<h4 id="gefaerbte-maisstärke">Gefärbte Maisstärke (DIY-Holi-Pulver)</h4>
 
 ![Maisstärke](../assets/images/tamper-evident-protection/maisstaerke_01.jpg)
 
 Die Maisstärke haben wir mit Lebensmittelfarben gefärbt (mehr dazu weiter unten). Sie ergibt ein Pulvergemisch, bei dem die einzelnen Farben teilweise nur noch schwer zu erkennen sind.
 
-#### Kinetischer Sand
+<h4 id="kinetischer-sand">Kinetischer Sand</h4>
 
 ![kinetischer Sand](../assets/images/tamper-evident-protection/ksand_01.jpg)
 
 Kinetischen Sand (auch als Modelliersand bezeichnet) erachten wir als unzweckmäßig. Er ist relativ kostenintensiv, in einer einzelnen Farbe ungeeignet, und nach mehrmaligem Durchmischen mehrerer Farben sieht alles gleich aus, sodass sich nicht mehr feststellen lässt, ob es einen Zugriffsversuch gab oder nicht.
 
-### Färben mit Lebensmittelfarbe
+<h3 id="faerben-mit-lebensmittelfarbe">Färben mit Lebensmittelfarbe</h3>
 
 ![Farben](../assets/images/tamper-evident-protection/farben_01.jpg)
 
@@ -173,7 +295,7 @@ Die Beständigkeit der Farbe über einen längeren Zeitraum können wir bislang 
 
 Neben normaler Lebensmittelfarbe könnten Teile der Substanz auch mit fluoreszierenden Schwarzlicht-Farben eingefärbt werden. Somit wäre neben dem normalen und offensichtlichen Bild ein weiteres Mosaik vorhanden, welches nur mit Schwarzlicht sichtbar ist. Wir haben dies noch nicht getestet.
 
-### Kurzzeitige Lagerung
+<h3 id="kurzzeitige-lagerung">Kurzzeitige Lagerung</h3>
 
 Der Entstehungsgeschichte folgend, beginnen wir mit dem ersten Anwendungsfall, der kurzzeitigen Lagerung. Wenn wir einen Ort verlassen und Gegenstände bzw. Geräte zurücklassen müssen, können wir diese in einer von allen Seiten durchsichtigen Box einlagern. Danach füllen wir die Box mit unserer bunten Mischung, sodass unsere Geräten bedeckt sind. Die Box sollte so gelagert werden, dass Erschütterungen oder andere Faktoren das Mosaik nicht verändern. Dabei kann die Box z. B. auf einem Handtuch oder Kleidungsstück so auf einem Gegenstand positioniert werden, dass dieses kleinere Erschütterungen der Umgebung abschwächt, die Box jedoch von diesem nicht herunter rutschen kann.
 
@@ -182,20 +304,20 @@ Für einen Gesamtvergleich können wir die Box von allen sichtbaren Seiten fotog
 Um einen Gegenstand vor Schäden, z. B. durch Abfärben oder durch das Eindringen der Substanz etwa in die Anschlüsse eines Laptops, zu schützen, kann er in Frischhaltefolie, einen Beutel oder anderweitig eingepackt werden.
 
 Eine Kombination mit [Haven](https://guardianproject.github.io/haven/) als zusätzliche Sicherheitsschicht kann an dieser Stelle empfehlenswert sein.
-
-### Längerfristige Lagerung oder Versand
+          
+<h3 id="laengerfristige-lagerung-oder-versand">Längerfristige Lagerung oder Versand</h3>
 
 Insbesondere beim Versand sensibler Gegenstände sehen wir den Bedarf, unautorisierte Zugriffe feststellen zu können. Bei nahezu jeder Versandmethode sind uns unbekannte Personen und Orte eingebunden.
 
 Da die farbigen Elemente im obigen Vorschlag ihre Position beim Transport nicht halten würden, ändern wir das Verfahren. Der Gegenstand kommt jetzt in eine luftundurchlässige Hülle. Diese wird mit unserer bunten Substanz gefüllt, sodass der Gegenstand möglichst von allen Seiten verdeckt ist, und im Anschluss vakuumiert. Dadurch werden die farbigen Elemente an ihrer Position gehalten. Falls die Hülle beschädigt wird und ein Druckausgleich stattfindet, spätestens aber wenn ein Zugriff auf das umschlossene Objekt erfolgt, ändern die Elemente ihre Position.
 
-#### Vakuumieren mit dem Staubsauger
+<h4 id="vakuumieren-mit-dem-staubsauger">Vakuumieren mit dem Staubsauger</h4>
 
 Da viele Personen Staubsauger besitzen und es auch öffentliche Staubsauger an Tankstellen gibt, steht dieses Verfahren für uns an erster Stelle. Es gibt spezielle, wiederverwendbare Vakuumbeutel, um z. B. Kleidung und Decken platzsparend und geschützt zu lagern. Die Luft aus dem Beutel wird dabei mit dem Staubsauger oder einer Handpumpe durch ein Ventil entfernt. Im Handel sind nur größere Beutel erhältlich, die sich z. B. gut für Laptops eignen, jedoch weniger für kleine Gegenstände.
 
 ![Thinkpad unter buntem Reis im Staubsaugerbeutel](../assets/images/tamper-evident-protection/vakuum_04.jpg)
 
-#### Vakuumieren mit einem Vakuumiergerät
+<h4 id="vakuumieren-mit-einem-vakuumiergeraet">Vakuumieren einem Vakuumiergerät</h4>
 
 Es gibt viele verschiedene Vakuumiergeräte, die sich in Qualität und Größe unterscheiden. Vakuumiergeräte werden beispielsweise verwendet, um Lebensmittel länger frisch zu halten. Passenden Beutel gibt es in vielen Größen, sie können aber nicht so einfach bzw. nur mit Materialverlust wiederverwendet werden.
 
@@ -203,34 +325,34 @@ Es gibt viele verschiedene Vakuumiergeräte, die sich in Qualität und Größe u
 
 ![bunter Reis](../assets/images/tamper-evident-protection/vakuum_02.jpg)
 
-#### Kaskadierung
+<h4 id="kaskadierung">Kaskadierung</h4>
 
 Bei beiden Verfahren lassen sich die Beuteln mit den Elementen auch kaskadieren. Dafür wird das Ergebnis des ersten Vorgangs nach dem Fotografieren erneut in einen Beutel mit weiteren Elementen gegeben und vakuumiert.
 
 ![Bunter Reis und Linsenmischung kaskadiert](../assets/images/tamper-evident-protection/kaskadieren_01.jpg)
 
-### Auswertung
+<h3 id="auswertung">Auswertung</h3>
 
-Gab es eine Veränderung von einem oder mehreren Elementen innerhalb des Mosaiks, sollte ggf. von einem unautorisierten Zugriff bzw. einer Kompromittierung ausgegangen werden. Die Beurteilung ist in Abhängigkeit der Situation und des individuellen Schutzbedürfnisses zu treffen. Vielleicht war auch nur das eigene Haustier oder ein Familienmitglied etwas neugierig, was es mit der bunten Mischung auf sich hat, oder ein Beutel war undicht.
-
-#### Blink Comparison
+Gab es eine Veränderung von einem oder mehreren Elementen innerhalb des Mosaiks, sollte ggf. von einem unautorisierten Zugriff bzw. einer Kompromittierung ausgegangen werden. Die Beurteilung ist in Abhängigkeit der Situation und des individuellen Schutzbedürfnisses zu treffen. Vielleicht war auch nur das eigene Haustier oder ein Familienmitglied etwas neugierig, was es mit der bunten Mischung auf sich hat, oder ein Beutel war undicht. 
+          
+<h4 id="blink-comparison">Blink Comparison</h4>
 
 Mit Apps wie [Blink Comparison](https://github.com/proninyaroslav/blink-comparison) ist es einfach möglich, ein Ursprungsfoto, welches beispielsweise von einem Hersteller aufgenommen, signiert und über einen verschlüsselten Kommunikationsweg an einen Kunden übermittelt wurde, mit einem Foto des Ist-Zustands zu vergleichen. Die App unterstützt einen dabei, das Vergleichsfoto im gleichen Winkel und mit dem gleichen Abstand wie das Ursprungsfoto aufzunehmen.
 
 Danach wechselt Blink Comparison beim Berühren des Bildschirms zwischen beiden Bildern und erleichtert den direkten Vergleich damit erheblich. Dies zeigt die nachfolgende, animierte Grafik. Das rot umrandete Foto ist das Ursprungsfoto. Vor der Aufnahme des Vergleichsfotos wurde eine schwarze Linse im unteren linken Bereich entfernt und dabei eine weitere Linse ein kleines Stück verschoben. Die Veränderung des Musters zwischen Ursprungsfoto und Vergleichsfoto ist schnell und gut sichtbar.
 
-![Blink Comparison](../assets/images/tamper-evident-protection/blink.webp)
+![Blink Comparison](../assets/images/tamper-evident-protection/blink.webp)      
 
-## Danksagung und Partizipation
+<h2 id="danksagung-und-partizipation">Danksagung und Partizipation</h2>
 
 Wir möchten uns an dieser Stelle bei allen bedanken, die uns hierbei unterstützt haben. Dieser Dank gilt insbesondere jenen, die uns Vakuumiergeräte zur Verfügung gestellt haben, Mullvad VPN für den Glitzer-Nagellack, Nitrokey und Purism für den Austausch zum Versiegeln mit Nagellack und [Insurgo](https://insurgo.ca) für den Hinweis zu Blink Comparison.
 
 Solltest du weitere Ideen, Hinweise oder Verbessrungsvorschläge haben, dann [schreib uns gerne](https://proxysto.re/kontakt.html) oder arbeite mit uns auf [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection) an diesem Projekt.
 
-## Erwähnungen
+<h2 id="erwaehnungen">Erwähnungen</h2>
 
+* [c't 16/2022](https://www.heise.de/select/ct/2022/16), p. 44
 * [Hacker News - Detecting unauthorized physical access with beans, lentils and colored rice (2021) (dys2p.com)](https://news.ycombinator.com/item?id=31897530)
 * [heise.de - Random Mosaic: Fremdzugriffe mit Bohnen, Linsen oder buntem Reis erkennen ](https://web.archive.org/web/20220627170123/https://www.heise.de/news/Random-Mosaic-Fremdzugriffe-mit-Bohnen-Linsen-oder-buntem-Reis-erkennen-7155080.html)
 * [UNREDACTED Magazine - The Privacy, Security, & OSINT Magazine, Ausgabe 004](https://unredactedmagazine.com/issues/004.pdf)
 * [Yahoo Finanzen - Linsen, Bohnen und Glitzernagellack: Wie man Ware beim Versand vor Fremdzugriff schützt](https://de.nachrichten.yahoo.com/linsen-bohnen-und-glitzernagellack-wie-man-ware-beim-versand-vor-fremdzugriff-schutzt-121805730.html)
-* [c't 16/2022](https://www.heise.de/select/ct/2022/16), p. 44
