@@ -1,8 +1,3 @@
-<style>
-q { font-family: monospace; }
-.footnotes p { margin-bottom: 0; }
-</style>
-
 # Random Mosaic – Erkennung unautorisierter physischer Zugriffe mit Bohnen, Linsen und buntem Reis
 
 _Dezember 2021_
@@ -27,12 +22,12 @@ Nachfolgend zeigen wir ein paar Beispiele für diese Angriffe, fassen bekannte G
         </li>
         <li>
           <a href="#evil-maid-attacken">Evil-Maid-Attacken</a>
-        </li>        
+        </li>
       </ul>
     <li>
       <a href="#schutzverfahren">Schutzverfahren</a>
     </li>
-    </li>        
+    </li>
       <ul>
         <li>
           <a href="#glitzer-nagellack">Glitzer-Nagellack</a>
@@ -54,7 +49,7 @@ Nachfolgend zeigen wir ein paar Beispiele für diese Angriffe, fassen bekannte G
        </ul>
     <li>
       <a href="#random-mosaic-rm">random mosaic $ rm -r ice</a>
-    </li>      
+    </li>
       <ul>
         <li>
           <a href="#auf-der-suche-nach-geeigneten-substanzen">Auf der Suche nach geeigneten Substanzen</a>
@@ -64,7 +59,7 @@ Nachfolgend zeigen wir ein paar Beispiele für diese Angriffe, fassen bekannte G
             </li>
             <li>
               <a href="#gelbe-erbsen-und-weiße-bohnen">Gelbe Erbsen & weiße Bohnen</a>
-            </li>            
+            </li>
             <li>
               <a href="#gefaerbter-reis">Gefärbter Reis</a>
             </li>
@@ -88,45 +83,45 @@ Nachfolgend zeigen wir ein paar Beispiele für diese Angriffe, fassen bekannte G
             </li>
             <li>
               <a href="#kinetischer-sand">Kinetischer Sand</a>
-            </li>                   
-          </ul>            
-        </li>
-        <li>
-          <a href="#faerben-mit-lebensmittelfarbe">Färben mit Lebensmittelfarbe</a>        
-         </li>       
-        <li>
-          <a href="#kurzzeitige-lagerung">Kurzzeitige Lagerung</a>        
-         </li>         
-        <li>
-          <a href="#laengerfristige-lagerung-oder-versand">Längerfristige Lagerung oder Versand</a>        
-         </li>
-          <ul>
-            <li>
-              <a href="#vakuumieren-mit-dem-staubsauger">Vakuumieren mit dem Staubsauger</a>         
-            </li>                          
-            <li>
-              <a href="#vakuumieren-mit-einem-vakuumiergeraet">Vakuumieren einem Vakuumiergerät</a>         
             </li>
-            <li>
-              <a href="#kaskadierung">Kaskadierung</a>         
-            </li>
-          </ul>           
-        </li>
-        <li>
-          <a href="#auswertung">Auswertung</a>        
-         </li>
-          <ul>
-            <li>
-              <a href="#blink-comparison">Blink Comparison</a>         
-            </li> 
           </ul>
-      </ul>        
+        </li>
+        <li>
+          <a href="#faerben-mit-lebensmittelfarbe">Färben mit Lebensmittelfarbe</a>
+         </li>
+        <li>
+          <a href="#kurzzeitige-lagerung">Kurzzeitige Lagerung</a>
+         </li>
+        <li>
+          <a href="#laengerfristige-lagerung-oder-versand">Längerfristige Lagerung oder Versand</a>
+         </li>
+          <ul>
+            <li>
+              <a href="#vakuumieren-mit-dem-staubsauger">Vakuumieren mit dem Staubsauger</a>
+            </li>
+            <li>
+              <a href="#vakuumieren-mit-einem-vakuumiergeraet">Vakuumieren einem Vakuumiergerät</a>
+            </li>
+            <li>
+              <a href="#kaskadierung">Kaskadierung</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#auswertung">Auswertung</a>
+         </li>
+          <ul>
+            <li>
+              <a href="#blink-comparison">Blink Comparison</a>
+            </li>
+          </ul>
+      </ul>
     <li>
       <a href="#danksagung-und-partizipation">Danksagung und Partizipation</a>
-    </li>         
+    </li>
     <li>
       <a href="#erwaehnungen">Erwähnungen</a>
-    </li>            
+    </li>
   </ul>
 </nav>
 
@@ -304,7 +299,7 @@ Für einen Gesamtvergleich können wir die Box von allen sichtbaren Seiten fotog
 Um einen Gegenstand vor Schäden, z. B. durch Abfärben oder durch das Eindringen der Substanz etwa in die Anschlüsse eines Laptops, zu schützen, kann er in Frischhaltefolie, einen Beutel oder anderweitig eingepackt werden.
 
 Eine Kombination mit [Haven](https://guardianproject.github.io/haven/) als zusätzliche Sicherheitsschicht kann an dieser Stelle empfehlenswert sein.
-          
+
 <h3 id="laengerfristige-lagerung-oder-versand">Längerfristige Lagerung oder Versand</h3>
 
 Insbesondere beim Versand sensibler Gegenstände sehen wir den Bedarf, unautorisierte Zugriffe feststellen zu können. Bei nahezu jeder Versandmethode sind uns unbekannte Personen und Orte eingebunden.
@@ -333,15 +328,15 @@ Bei beiden Verfahren lassen sich die Beuteln mit den Elementen auch kaskadieren.
 
 <h3 id="auswertung">Auswertung</h3>
 
-Gab es eine Veränderung von einem oder mehreren Elementen innerhalb des Mosaiks, sollte ggf. von einem unautorisierten Zugriff bzw. einer Kompromittierung ausgegangen werden. Die Beurteilung ist in Abhängigkeit der Situation und des individuellen Schutzbedürfnisses zu treffen. Vielleicht war auch nur das eigene Haustier oder ein Familienmitglied etwas neugierig, was es mit der bunten Mischung auf sich hat, oder ein Beutel war undicht. 
-          
+Gab es eine Veränderung von einem oder mehreren Elementen innerhalb des Mosaiks, sollte ggf. von einem unautorisierten Zugriff bzw. einer Kompromittierung ausgegangen werden. Die Beurteilung ist in Abhängigkeit der Situation und des individuellen Schutzbedürfnisses zu treffen. Vielleicht war auch nur das eigene Haustier oder ein Familienmitglied etwas neugierig, was es mit der bunten Mischung auf sich hat, oder ein Beutel war undicht.
+
 <h4 id="blink-comparison">Blink Comparison</h4>
 
 Mit Apps wie [Blink Comparison](https://github.com/proninyaroslav/blink-comparison) ist es einfach möglich, ein Ursprungsfoto, welches beispielsweise von einem Hersteller aufgenommen, signiert und über einen verschlüsselten Kommunikationsweg an einen Kunden übermittelt wurde, mit einem Foto des Ist-Zustands zu vergleichen. Die App unterstützt einen dabei, das Vergleichsfoto im gleichen Winkel und mit dem gleichen Abstand wie das Ursprungsfoto aufzunehmen.
 
 Danach wechselt Blink Comparison beim Berühren des Bildschirms zwischen beiden Bildern und erleichtert den direkten Vergleich damit erheblich. Dies zeigt die nachfolgende, animierte Grafik. Das rot umrandete Foto ist das Ursprungsfoto. Vor der Aufnahme des Vergleichsfotos wurde eine schwarze Linse im unteren linken Bereich entfernt und dabei eine weitere Linse ein kleines Stück verschoben. Die Veränderung des Musters zwischen Ursprungsfoto und Vergleichsfoto ist schnell und gut sichtbar.
 
-![Blink Comparison](../assets/images/tamper-evident-protection/blink.webp)      
+![Blink Comparison](../assets/images/tamper-evident-protection/blink.webp)
 
 <h2 id="danksagung-und-partizipation">Danksagung und Partizipation</h2>
 

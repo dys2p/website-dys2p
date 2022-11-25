@@ -1,8 +1,3 @@
-<style>
-q { font-family: monospace; }
-.footnotes p { margin-bottom: 0; }
-</style>
-
 # Random Mosaic – Detecting unauthorized physical access with beans, lentils and colored rice
 
 _December 2021_
